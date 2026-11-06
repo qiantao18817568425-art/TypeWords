@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "expanded-quality-001",
+    "word": "test objective",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test objective is to confirm recovery after a brief connection loss.",
+        "cn": "测试目标是确认短暂断开连接后能否恢复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-002",
+    "word": "test procedure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试规程；规定的测试步骤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Follow the test procedure and record each power cycle.",
+        "cn": "请按测试规程操作，并记录每次电源循环。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-003",
+    "word": "test fixture",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试夹具；固定或连接被测件的装置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test fixture holds the camera at a fixed angle.",
+        "cn": "测试夹具将摄像头固定在特定角度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-004",
+    "word": "test bench",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试台架"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test bench is available for the overnight recovery run.",
+        "cn": "这台测试台架可用于夜间恢复测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-005",
+    "word": "test setup",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试搭建配置；测试布置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take a photo of the test setup before changing the wiring.",
+        "cn": "更改接线前，请拍照记录测试布置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-006",
+    "word": "entry criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "准入标准；开始某阶段的前提条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The entry criteria require an approved build and a working bench.",
+        "cn": "准入标准要求有获批的版本和可用的台架。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-007",
+    "word": "test data",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试数据；用于测试的输入数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Load the same test data on both versions before comparing results.",
+        "cn": "比较结果前，请在两个版本上加载相同的测试数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-008",
+    "word": "boundary condition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "边界条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A restart during the final second of initialization is an important boundary condition.",
+        "cn": "初始化最后一秒发生重启，是一个重要的边界条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-009",
+    "word": "edge case",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "边缘场景；少见但可能出现的情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We added an edge case for two wake-up events arriving together.",
+        "cn": "我们增加了两个唤醒事件同时到达这一边缘场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-010",
+    "word": "test oracle",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试判定依据；判断实际结果是否正确的标准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The expected signal sequence serves as the test oracle.",
+        "cn": "预期的信号时序是判断结果是否正确的依据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-011",
+    "word": "test campaign",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "一轮集中测试；有共同目标的一组测试活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test campaign covers startup, suspend, and recovery over three weeks.",
+        "cn": "这一轮集中测试为期三周，覆盖启动、休眠和恢复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-012",
+    "word": "test execution",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试执行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team logs the hardware revision at the start of test execution.",
+        "cn": "团队在开始执行测试时记录硬件版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-013",
+    "word": "first-pass yield",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "一次通过率"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "First-pass yield improved after the connector inspection was updated.",
+        "cn": "更新连接器检验方法后，一次通过率提高了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-014",
+    "word": "defect density",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "缺陷密度；单位规模的缺陷数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The quality team tracks defect density by component size.",
+        "cn": "质量团队按组件规模计算并跟踪缺陷密度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-015",
+    "word": "failure signature",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "故障特征；可用来识别故障的共同表现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The failure signature includes a timeout followed by a blank display.",
+        "cn": "这个故障的特征是先出现超时，随后显示屏黑屏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-016",
+    "word": "fail criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "失败判据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fail criteria include a camera image that stays frozen for more than two seconds.",
+        "cn": "失败判据包括摄像头画面冻结超过两秒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-017",
+    "word": "acceptance threshold",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验收阈值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We agreed on an acceptance threshold for startup time before running the test.",
+        "cn": "测试前，我们就启动时间的验收阈值达成一致。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-018",
+    "word": "control group",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "对照组"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The control group ran the previous software under the same conditions.",
+        "cn": "对照组在相同条件下运行上一版软件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-019",
+    "word": "test repeatability",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试重复性；同等条件下反复测试的一致性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Test repeatability improved after we fixed the power supply settings.",
+        "cn": "固定电源设置后，同等条件下反复测试的结果更一致。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-020",
+    "word": "test reproducibility",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试再现性；不同人员或设备执行的一致性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Test reproducibility was checked by a second operator on another bench.",
+        "cn": "我们由另一名操作员在另一台台架上检查测试再现性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-021",
+    "word": "measured latency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "实测延迟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The measured latency fell after the pipeline change.",
+        "cn": "调整处理链路后，实测延迟降低了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-022",
+    "word": "performance budget",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "性能预算；分配给各环节的性能上限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The performance budget gives the camera service two hundred milliseconds for initialization.",
+        "cn": "性能预算为摄像头服务分配了两百毫秒的初始化时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-023",
+    "word": "open finding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "尚待处理的测试发现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release review identified one open finding in recovery testing.",
+        "cn": "发布评审发现恢复测试中有一项问题尚待处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-024",
+    "word": "invalid test run",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "无效测试轮次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We marked the attempt as an invalid test run because the input voltage was outside the specified range.",
+        "cn": "由于输入电压超出规定范围，我们将这次测试标记为无效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-025",
+    "word": "initial triage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "初步分诊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The initial triage assigned the first investigation to the integration team.",
+        "cn": "初步分诊安排集成团队开展首轮调查。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-026",
+    "word": "duplicate issue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "重复问题单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We linked the duplicate issue to the original report.",
+        "cn": "我们把重复问题单关联到了原始报告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-027",
+    "word": "minimal reproduction",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "最小复现场景；保留必要条件的复现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The minimal reproduction uses one camera and a single restart.",
+        "cn": "最小复现场景只使用一个摄像头和一次重启。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-028",
+    "word": "reproduction steps",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "复现步骤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please add the reproduction steps and the expected result to the report.",
+        "cn": "请把复现步骤和预期结果补到报告里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-029",
+    "word": "reproduction frequency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "复现频率；试验中复现的次数比例"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The reproduction frequency was three failures in fifty wake-up cycles.",
+        "cn": "在五十次唤醒循环中复现三次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-030",
+    "word": "affected build",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "受影响的构建版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The affected build was used on two test benches.",
+        "cn": "两台测试台架使用了这个受影响的构建版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-031",
+    "word": "failure timestamp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "故障时间戳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the failure timestamp to locate the matching camera log entry.",
+        "cn": "请用故障时间戳定位对应的摄像头日志记录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-032",
+    "word": "log correlation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "日志关联"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Log correlation connected the service timeout with the display event.",
+        "cn": "关联日志后，我们把服务超时和显示事件对应了起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-033",
+    "word": "evidence trail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "证据链；可追溯的证据记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The evidence trail links the video, test run, and software version.",
+        "cn": "证据链关联了视频、测试轮次和软件版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-034",
+    "word": "observed behavior",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "实际观察到的行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The observed behavior was a frozen image after the camera switch.",
+        "cn": "实际观察到的现象是切换摄像头后画面冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-035",
+    "word": "expected behavior",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "预期行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The expected behavior is to show the new camera view within one second.",
+        "cn": "预期行为是在一秒内显示新的摄像头画面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-036",
+    "word": "diagnostic hypothesis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "诊断假设；待验证的故障解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our diagnostic hypothesis is that the service starts before the interface is ready.",
+        "cn": "我们的诊断假设是接口就绪前服务就已启动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-037",
+    "word": "cause-and-effect diagram",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "因果图；鱼骨图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cause-and-effect diagram groups possible causes by software, hardware, and test setup.",
+        "cn": "因果图按软件、硬件和测试配置对可能原因分组。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-038",
+    "word": "causal chain",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "因果链"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The causal chain connects the missing acknowledgment to the display timeout.",
+        "cn": "因果链把确认消息缺失与显示超时关联起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-039",
+    "word": "competing hypothesis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "竞争假设；可解释同一现象的另一假设"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A competing hypothesis is that the power rail drops during resume.",
+        "cn": "另一个可能解释是唤醒期间电源轨电压下降。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-040",
+    "word": "alternative explanation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "另一种解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We considered an alternative explanation involving the test fixture.",
+        "cn": "我们考虑了另一种与测试夹具有关的解释。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-041",
+    "word": "causal link",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "因果联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The controlled experiment confirmed a causal link between the timeout and the frozen image.",
+        "cn": "对照试验证实超时与画面冻结之间存在因果联系。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-042",
+    "word": "necessary condition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "必要条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "An active camera stream was a necessary condition for the failure in our tests.",
+        "cn": "在我们的测试中，视频流处于活动状态是故障发生的必要条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-043",
+    "word": "sufficient condition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "充分条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In this setup, losing the readiness signal was a sufficient condition for the failure.",
+        "cn": "在该测试配置下，就绪信号丢失足以导致故障。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-044",
+    "word": "fault tree",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "故障树"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fault tree shows how several component failures could lead to the same symptom.",
+        "cn": "故障树展示了多种组件失效如何导致相同现象。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-045",
+    "word": "direct cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "直接原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The direct cause was a command sent before the camera service was ready.",
+        "cn": "直接原因是摄像头服务尚未就绪时就发送了命令。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-046",
+    "word": "systemic cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "体系性原因；流程或制度层面的问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The systemic cause was a missing review step for cross-domain timing changes.",
+        "cn": "体系性原因是跨域时序变更缺少相应的评审步骤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-047",
+    "word": "drill down",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语动词",
+        "cn": "向下深入排查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to drill down into the first timeout in the sequence.",
+        "cn": "我们需要深入排查事件序列中的第一次超时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-048",
+    "word": "counterexample",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "反例"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The successful run with the same delay is a counterexample to our first hypothesis.",
+        "cn": "同样延迟下有一次运行成功，这构成了对最初假设的反例。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-049",
+    "word": "team formation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "组建问题解决团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Team formation brought the camera, display, and test owners together.",
+        "cn": "组建团队时，我们召集了摄像头、显示和测试负责人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-050",
+    "word": "problem statement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "问题陈述"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The problem statement describes the affected version, conditions, and user impact.",
+        "cn": "问题陈述写明受影响版本、发生条件和用户影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-051",
+    "word": "interim containment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "临时遏制；在永久修复前控制影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Interim containment limits the update to the existing pilot group.",
+        "cn": "临时遏制措施把更新限定在现有试点范围内。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-052",
+    "word": "containment effectiveness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "遏制措施有效性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We measured containment effectiveness by checking for new failures after the pause.",
+        "cn": "我们通过检查暂停推送后是否还有新故障来评估遏制措施是否有效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-053",
+    "word": "verified root cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "经验证的根因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The verified root cause was a missing readiness check during resume.",
+        "cn": "经验证的根因是唤醒时缺少就绪检查。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-054",
+    "word": "corrective action plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "纠正措施计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The corrective action plan names the owner, deadline, and verification method.",
+        "cn": "纠正措施计划明确了负责人、截止日期和验证方法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-055",
+    "word": "corrective action effectiveness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "纠正措施有效性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The follow-up test confirmed corrective action effectiveness under the original conditions.",
+        "cn": "后续测试确认纠正措施在原始条件下有效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-056",
+    "word": "recurrence prevention",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "防止复发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Recurrence prevention includes updating the interface checklist.",
+        "cn": "防复发措施包括更新接口检查清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-057",
+    "word": "horizontal deployment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "横向展开；在相似产品或流程上应用改进"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Horizontal deployment applied the new check to two related cockpit variants.",
+        "cn": "横向展开把新检查项应用到两个相关座舱变体。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-058",
+    "word": "standardize the fix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "把修复做法纳入标准流程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can standardize the fix by adding the readiness check to the interface template.",
+        "cn": "我们可以把就绪检查纳入接口模板，使修复做法成为标准。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-059",
+    "word": "close the 8D",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "关闭 8D 问题单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can close the 8D after quality approves the verification evidence.",
+        "cn": "质量团队批准验证证据后，就可以关闭 8D 问题单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-060",
+    "word": "recognize team contributions",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "肯定团队成员的贡献"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We will recognize team contributions at the final review.",
+        "cn": "我们将在最终评审会上肯定团队成员的贡献。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-061",
+    "word": "verification evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验证证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The verification evidence includes the passing logs for the original scenario.",
+        "cn": "验证证据包括原始场景测试通过的日志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-062",
+    "word": "validation sign-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验证签字确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Validation sign-off requires a review of the test scope and results.",
+        "cn": "验证签字确认前，需要评审测试范围和结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-063",
+    "word": "closeout review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "关闭评审；收尾评审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The closeout review checked the fix, the remaining risk, and the follow-up owner.",
+        "cn": "关闭评审核对了修复、剩余风险和后续负责人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-064",
+    "word": "closure evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "支持关闭问题的证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Attach the closure evidence to the issue before asking for approval.",
+        "cn": "申请批准前，请把关闭证据附到问题单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-065",
+    "word": "closure report",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "关闭报告"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The closure report summarizes the cause, fix, and verification results.",
+        "cn": "关闭报告总结了原因、修复和验证结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-066",
+    "word": "residual issue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "遗留问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The residual issue was assigned to the next maintenance release.",
+        "cn": "遗留问题安排在下一维护版本处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-067",
+    "word": "recurrence check",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "复发检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The recurrence check runs the same wake-up scenario on the next build.",
+        "cn": "复发检查在下一版本上执行相同的唤醒场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-068",
+    "word": "closure approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "关闭批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The issue remains open until we receive closure approval from quality.",
+        "cn": "质量团队批准关闭前，问题单保持打开状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-069",
+    "word": "follow-up action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "后续行动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "One follow-up action is to add the missed case to the automated suite.",
+        "cn": "一项后续行动是把漏测用例加入自动化测试集。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-070",
+    "word": "audit trail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "审计轨迹；可追溯的记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The audit trail records each approval and the evidence reviewed.",
+        "cn": "审计轨迹记录每次审批及其评审过的证据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-071",
+    "word": "process update",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "流程更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The process update adds a check for hardware and software compatibility.",
+        "cn": "流程更新增加了软硬件兼容性检查。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-quality-072",
+    "word": "monitor for recurrence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "监测问题是否复发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Support will monitor for recurrence during the first week after release.",
+        "cn": "支持团队会在发布后的第一周监测问题是否复发。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

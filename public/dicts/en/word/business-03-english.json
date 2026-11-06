@@ -1,0 +1,8328 @@
+[
+  {
+    "id": "business-03-0516",
+    "word": "deploy",
+    "phonetic0": "di'plɒi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "展开, 配置"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "deployed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "deploying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "deploys",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0517",
+    "word": "macroeconomic",
+    "phonetic0": "-mik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "整体经济"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "macroeconomics",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0518",
+    "word": "concession",
+    "phonetic0": "kәn'seʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "特许, 让步, 认可"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "concessions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0519",
+    "word": "rumor",
+    "phonetic0": "'ru:mә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "谣言, 传闻"
+      },
+      {
+        "pos": "vt.",
+        "cn": "谣传"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "rumors",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "rumoring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "rumored",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0520",
+    "word": "contingent",
+    "phonetic0": "kәn'tindʒәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "或许发生的, 附随的, 偶然发生的"
+      },
+      {
+        "pos": "n.",
+        "cn": "偶然事件, 分遣队"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "contingents",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0521",
+    "word": "diverse",
+    "phonetic0": "dai'vә:s",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "不同的, 变化多的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0522",
+    "word": "occupation",
+    "phonetic0": ".ɒkju'peiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "职业, 占有, 占有期, 占领, 占领军"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "occupations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0523",
+    "word": "privately",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "秘密地；私下地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0524",
+    "word": "guerrilla",
+    "phonetic0": "gә'rilә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "游击队"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "guerrillas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0525",
+    "word": "pharmaceutical",
+    "phonetic0": ",fɑ:mә'sju:tikәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "药学的, 制药的, 药用的, 药物的, 药剂师的, 药师的"
+      },
+      {
+        "pos": "n.",
+        "cn": "药品, 成药, 药剂"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "pharmaceuticals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0526",
+    "word": "administer",
+    "phonetic0": "әd'ministә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "管理, 料理, 执行"
+      },
+      {
+        "pos": "vi.",
+        "cn": "执行遗产管理人的职责, 给予帮助"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "administered",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "administering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "administers",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0527",
+    "word": "automate",
+    "phonetic0": "'ɔ:tәmeit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "vi. (使)自动化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "automating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "automated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "automates",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0528",
+    "word": "repurchase",
+    "phonetic0": "ri:'pә:tʃәs",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "再买, 买回"
+      },
+      {
+        "pos": "n.",
+        "cn": "买回"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "repurchases",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "repurchased",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "repurchasing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0529",
+    "word": "denote",
+    "phonetic0": "di'nәut",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "指示, 表示"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "denotes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "denoted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "denoting",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0530",
+    "word": "inequality",
+    "phonetic0": ".ini'kwɒliti",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "不平等, 不同, 不平坦, 不平均"
+      },
+      {
+        "pos": "n.",
+        "cn": "不平等, 不等式"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "inequalities",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0531",
+    "word": "plunge",
+    "phonetic0": "plʌndʒ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资"
+      },
+      {
+        "pos": "vi.",
+        "cn": "投入, 投身于, 跳进, 陷入, 下降"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使投入, 使插入, 使陷入, 使遭受"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "plunged",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "plunging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "plunges",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0532",
+    "word": "intensive",
+    "phonetic0": "in'tensiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "加强的, 内涵的, 集中的"
+      },
+      {
+        "pos": "n.",
+        "cn": "加强器"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0533",
+    "word": "nonetheless",
+    "phonetic0": ",nʌnðә'les",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "然而, 尽管, 不过"
+      },
+      {
+        "pos": "adv.",
+        "cn": "不过, 仍然, 尽管如此, 然而"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0534",
+    "word": "fax",
+    "phonetic0": "fæks",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "传真"
+      },
+      {
+        "pos": "vt.",
+        "cn": "发传真"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "faxes",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "faxed",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "faxing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0535",
+    "word": "overview",
+    "phonetic0": "'әuvәvju:",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "概述, 概观, 总的看法"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "overviews",
+              "cn": "复数"
+            },
+            {
+              "c": "overviewing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "overviewed",
+              "cn": "过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0536",
+    "word": "correctly",
+    "phonetic0": "kә'rektli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0537",
+    "word": "horizontal",
+    "phonetic0": ".hɒri'zɒntәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水平线, 水平面, 水平位置"
+      },
+      {
+        "pos": "a.",
+        "cn": "水平线的, 平坦的, 横的"
+      },
+      {
+        "pos": "n.",
+        "cn": "水平"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "horizontals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0538",
+    "word": "legally",
+    "phonetic0": "'li:gәli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "法律上, 合法地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0539",
+    "word": "installment",
+    "phonetic0": "in'stɒ:lmәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "就职, 装设, 分期付款"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "installments",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0540",
+    "word": "empirical",
+    "phonetic0": "em'pirikәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "完全跟据经验的, 经验主义的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "empiricals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0541",
+    "word": "revive",
+    "phonetic0": "ri'vaiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使苏醒, 使复兴, 使振奋, 回想起, 重播"
+      },
+      {
+        "pos": "vi.",
+        "cn": "苏醒, 复活, 复兴, 恢复精神"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "revived",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "reviving",
+              "cn": "现在分词"
+            },
+            {
+              "c": "revives",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0542",
+    "word": "engagement",
+    "phonetic0": "in'geidʒdmәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "诺言, 约会, 婚约, 交战"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "engagements",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0543",
+    "word": "inevitable",
+    "phonetic0": "in'evitәbl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "不可避免的, 必然的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0544",
+    "word": "array",
+    "phonetic0": "ә'rei",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "排列, 衣服, 大批, 军队"
+      },
+      {
+        "pos": "vt.",
+        "cn": "布署, 打扮, 排列"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "arrays",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "arrayed",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "arraying",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0545",
+    "word": "ballot",
+    "phonetic0": "'bælәt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "投票, 投票用纸, 抽签"
+      },
+      {
+        "pos": "vi.",
+        "cn": "投票, 抽签"
+      },
+      {
+        "pos": "vt.",
+        "cn": "投票选出, 拉选票"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "ballots",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "balloting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "balloted",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0546",
+    "word": "treasury",
+    "phonetic0": "'treʒәri",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "国库, 宝库, 财政部, 国库券"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "treasuries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0547",
+    "word": "intermediary",
+    "phonetic0": ".intә'mi:diәri",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "仲裁者, 调解者, 媒介物, 中间人"
+      },
+      {
+        "pos": "a.",
+        "cn": "中间的, 媒介的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "intermediaries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0549",
+    "word": "boast",
+    "phonetic0": "bәust",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "吹牛"
+      },
+      {
+        "pos": "vi.",
+        "cn": "吹牛, 自夸"
+      },
+      {
+        "pos": "vt.",
+        "cn": "夸口说, 自恃有"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "boasts",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "boasted",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "boasting",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0550",
+    "word": "militant",
+    "phonetic0": "'militәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "好战的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "militants",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0551",
+    "word": "discourage",
+    "phonetic0": "dis'kʌridʒ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使气馁, 阻碍"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "discouraged",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "discouraging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "discourages",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0552",
+    "word": "hierarchy",
+    "phonetic0": "'haiәrɑ:ki",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "等级制度, 僧侣统治, 等级体系"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "hierarchies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0553",
+    "word": "shortly",
+    "phonetic0": "'ʃɒ:tli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "不久, 简短, 唐突地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0554",
+    "word": "fate",
+    "phonetic0": "feit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "命运, 运气"
+      },
+      {
+        "pos": "vt.",
+        "cn": "注定"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "fates",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "fated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "fatest",
+              "cn": "最高级"
+            },
+            {
+              "c": "fating",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0555",
+    "word": "widen",
+    "phonetic0": "'waidn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "弄宽, 加宽, 扩大"
+      },
+      {
+        "pos": "vi.",
+        "cn": "变宽, 扩大"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "widened",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "widening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "widens",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0556",
+    "word": "realistic",
+    "phonetic0": "riә'listik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "现实的, 逼真的, 现实主义的, 实在论的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0557",
+    "word": "terminal",
+    "phonetic0": "'tә:minәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "终端机, 终点, 末端, 极限, 终点站"
+      },
+      {
+        "pos": "a.",
+        "cn": "终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "terminals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0558",
+    "word": "transformation",
+    "phonetic0": ".trænsfә'meiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "变形, 变质, 变化, 改革, 变换"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "transformations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0559",
+    "word": "qualitative",
+    "phonetic0": "'kwɒlitәtiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "性质的, 质的, 定性的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0560",
+    "word": "deadline",
+    "phonetic0": "'dedlain",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "最后期限, 截止期限"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "deadlines",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0561",
+    "word": "gang",
+    "phonetic0": "gæŋ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "队, 群, 帮"
+      },
+      {
+        "pos": "vi.",
+        "cn": "成群结队, 结成一伙"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使成群结队"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "gangs",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "ganging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "ganged",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0562",
+    "word": "tag",
+    "phonetic0": "tæg",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符"
+      },
+      {
+        "pos": "vt.",
+        "cn": "附以签条, 尾随, 添饰, 起浑名, 连接"
+      },
+      {
+        "pos": "vi.",
+        "cn": "紧紧跟随"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tags",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "tagged",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "tagging",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0563",
+    "word": "automatic",
+    "phonetic0": ".ɒ:tә'mætik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自动手枪, 自动机械"
+      },
+      {
+        "pos": "a.",
+        "cn": "自动的, 机械的, 必然的, 无意识的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "automatics",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0564",
+    "word": "oblige",
+    "phonetic0": "ә'blaidʒ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "强制, 施恩惠于, 使感激"
+      },
+      {
+        "pos": "vi.",
+        "cn": "施恩惠, 帮忙"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "obliged",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "obliges",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "obliging",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0565",
+    "word": "curb",
+    "phonetic0": "kә:b",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "抑制, 勒马绳, 边石"
+      },
+      {
+        "pos": "vt.",
+        "cn": "抑制, 束缚, 勒住"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "curbing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "curbs",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "curbed",
+              "cn": "过去分词 / 过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0566",
+    "word": "outlet",
+    "phonetic0": "'autlet",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出口, 发泄方法, 市场"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "outlets",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0567",
+    "word": "robust",
+    "phonetic0": "rәu'bʌst",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "健康的, 强健的, 要用力气的, 坚定的, 粗野的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "robuster",
+              "cn": "比较级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0568",
+    "word": "brokerage",
+    "phonetic0": "'brәukәridʒ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "经纪人, 回扣, 佣金, 中间人业务"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "brokerages",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0569",
+    "word": "verify",
+    "phonetic0": "'verifai",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "证明, 查证, 证实, 检验, 校验"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "verified",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "verifying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "verifies",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0570",
+    "word": "accurately",
+    "phonetic0": "'ækjurәtli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "正确地, 精确地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0571",
+    "word": "tolerance",
+    "phonetic0": "'tɒlәrәns",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宽容, 忍受, 容忍, 容许量, 公差"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tolerances",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0572",
+    "word": "devise",
+    "phonetic0": "di'vaiz",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "设计, 发明, 图谋, 遗赠给"
+      },
+      {
+        "pos": "n.",
+        "cn": "遗赠"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "devised",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "devising",
+              "cn": "现在分词"
+            },
+            {
+              "c": "devises",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0573",
+    "word": "speculation",
+    "phonetic0": ".spekju'leiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沉思, 推测, 投机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "speculations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0574",
+    "word": "inspector",
+    "phonetic0": "in'spektә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "检查员, 巡视员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "inspectors",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0575",
+    "word": "incremental",
+    "phonetic0": ".inkri'mentl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "增加的, 增值的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "incrementals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0576",
+    "word": "fighter",
+    "phonetic0": "'faitә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "斗士, 战士, 好战者, 战斗机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "fighters",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0577",
+    "word": "subsidize",
+    "phonetic0": "'sʌbsidaiz",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "补助, 资助, 贿赂"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "subsidized",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "subsidizing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "subsidizes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0578",
+    "word": "grip",
+    "phonetic0": "grip",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "紧握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制"
+      },
+      {
+        "pos": "vt.",
+        "cn": "抓紧, 抱住, 吸住, 掌握"
+      },
+      {
+        "pos": "vi.",
+        "cn": "握牢, 有吸引力"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "gripped",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "grips",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "gripping",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0579",
+    "word": "mathematical",
+    "phonetic0": ".mæθә'mætikl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "数学的, 精确的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0580",
+    "word": "assert",
+    "phonetic0": "ә'sә:t",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "主张, 坚称, 断言"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "asserted",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "asserting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "asserts",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0581",
+    "word": "underwrite",
+    "phonetic0": "'ʌndәrait",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "签名于下, 给...保险"
+      },
+      {
+        "pos": "vi.",
+        "cn": "经营保险业"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "underwrites",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "underwriting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "underwrote",
+              "cn": "过去式"
+            },
+            {
+              "c": "underwritten",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0582",
+    "word": "differentiate",
+    "phonetic0": ".difә'renʃieit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "区别, 区分"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "differentiated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "differentiates",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "differentiating",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0583",
+    "word": "correlate",
+    "phonetic0": "'kɒrәleit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "有相互关系的东西, 相关物"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使有相互关系"
+      },
+      {
+        "pos": "vi.",
+        "cn": "相关"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "correlated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "correlates",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "correlating",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0584",
+    "word": "compel",
+    "phonetic0": "kәm'pel",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "强迫, 迫使"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "compelled",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "compelling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "compels",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0585",
+    "word": "destination",
+    "phonetic0": ".desti'neiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目的地, 目标, 目的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "destinations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0586",
+    "word": "agriculture",
+    "phonetic0": "'ægrikʌltʃә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "农业"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0587",
+    "word": "transmission",
+    "phonetic0": "træns'miʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "传输, 传送, 变速器"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "transmissions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0588",
+    "word": "multiplier",
+    "phonetic0": "'mʌltiplaiә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "增殖者, 倍加器, 乘数"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "multipliers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0589",
+    "word": "slowdown",
+    "phonetic0": "'slәudaun",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "降低速度, 减速"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "slowdowns",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0590",
+    "word": "adverse",
+    "phonetic0": "'ædvә:s",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "不利的, 敌对的, 相反的, 逆的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0591",
+    "word": "suspicion",
+    "phonetic0": "sә'spiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "怀疑, 觉察, 嫌疑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "suspicions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0592",
+    "word": "virtue",
+    "phonetic0": "'vә:tju:",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "德行, 美德, 优点, 功效, 效力"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "virtues",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0593",
+    "word": "flee",
+    "phonetic0": "fli:",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "逃避, 逃跑, 逃走"
+      },
+      {
+        "pos": "vi.",
+        "cn": "逃, 消失"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "fled",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "fleeing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "flees",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0594",
+    "word": "bureaucracy",
+    "phonetic0": "bjuә'rɒkrәsi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "官僚, 官吏"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "bureaucracies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0595",
+    "word": "threshold",
+    "phonetic0": "'θreʃәuld",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "门槛, 入口, 开端, 阈"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "thresholds",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0596",
+    "word": "timely",
+    "phonetic0": "'taili",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "及时的, 适时的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "及时地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0597",
+    "word": "wholesale",
+    "phonetic0": "'hәulseil",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "批发"
+      },
+      {
+        "pos": "a.",
+        "cn": "批发的, 大规模的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "大规模, 照批发方式"
+      },
+      {
+        "pos": "vi.",
+        "cn": "经营批发业, 批发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "wholesaling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wholesaled",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "wholesales",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0598",
+    "word": "legitimate",
+    "phonetic0": "li'dʒitimәt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "合法的, 正当的, 婚生的"
+      },
+      {
+        "pos": "vt.",
+        "cn": "认为正当, 立为嫡嗣, 使合法"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "legitimating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "legitimated",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "legitimates",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0599",
+    "word": "privacy",
+    "phonetic0": "'praivәsi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "隐私, 隐居, 秘密"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "privacies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0600",
+    "word": "behavioral",
+    "phonetic0": "bi'heivjәrәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "行为的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0601",
+    "word": "tangible",
+    "phonetic0": "'tændʒәbl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可触知的东西, 有形资产"
+      },
+      {
+        "pos": "a.",
+        "cn": "可触摸的, 有实体的, 非相像的, 有形的, 明确的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tangibles",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0602",
+    "word": "dump",
+    "phonetic0": "dʌmp",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "垃圾场"
+      },
+      {
+        "pos": "vt.",
+        "cn": "倾倒, 倾销"
+      },
+      {
+        "pos": "vi.",
+        "cn": "倒垃圾, 倾销商品"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "dumped",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "dumping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "dumps",
+              "cn": "复数 / 第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0603",
+    "word": "documentation",
+    "phonetic0": ".dɒkjumen'teiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "(总称)文件"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "documentations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0604",
+    "word": "poorly",
+    "phonetic0": "'puәli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "贫穷地, 不充分地, 贫乏地"
+      },
+      {
+        "pos": "a.",
+        "cn": "身体不舒服的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0605",
+    "word": "unemployed",
+    "phonetic0": ".ʌnim'plɒid",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "失业的, 未被利用的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0606",
+    "word": "discharge",
+    "phonetic0": "dis'tʃɑ:dʒ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "卸下, 放出, 解雇, 拔染, 履行, 放电"
+      },
+      {
+        "pos": "vi.",
+        "cn": "卸货, 流出"
+      },
+      {
+        "pos": "n.",
+        "cn": "卸货, 流出, 放电"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "discharged",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "discharges",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "discharging",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0607",
+    "word": "explicit",
+    "phonetic0": "ik'splisit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "详述的, 清楚的, 直言的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0608",
+    "word": "breakdown",
+    "phonetic0": "'breikdaun",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "崩溃, 故障"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "breakdowns",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0609",
+    "word": "span",
+    "phonetic0": "spæn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "指距, 全长, 跨距, 一段时间, 小范围"
+      },
+      {
+        "pos": "vt.",
+        "cn": "以手指测量, 跨越, 架设, 持续"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "spanning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "spanned",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "spans",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0610",
+    "word": "bail",
+    "phonetic0": "beil",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "保释, 拎环, 杓, 栅栏"
+      },
+      {
+        "pos": "vt.",
+        "cn": "保释, 舀水"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "bailed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "bailing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "bails",
+              "cn": "复数 / 第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0611",
+    "word": "incumbent",
+    "phonetic0": "in'kʌmbәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "现任的, 依靠的, 负有义务的"
+      },
+      {
+        "pos": "n.",
+        "cn": "领圣俸者, 在职者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "incumbents",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0612",
+    "word": "influential",
+    "phonetic0": ".infu'enʃәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "有影响的, 有势力的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0613",
+    "word": "appreciation",
+    "phonetic0": "ә.pri:ʃi'eiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "感激, 赏识, 鉴别"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "appreciations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0614",
+    "word": "outflow",
+    "phonetic0": "'autflәu",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "流出, 流出物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "outflows",
+              "cn": "复数"
+            },
+            {
+              "c": "outflowing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0615",
+    "word": "albeit",
+    "phonetic0": "ɔ:l'bi:it",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "尽管, 虽然"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0616",
+    "word": "tricky",
+    "phonetic0": "'triki",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "狡猾的, 机敏的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "trickier",
+              "cn": "比较级"
+            },
+            {
+              "c": "trickiest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0617",
+    "word": "spokesman",
+    "phonetic0": "'spәuksmәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发言人, 代言者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "spokesmen",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0618",
+    "word": "correction",
+    "phonetic0": "kә'rekʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "订正, 改正, 改正的地方"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "corrections",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0619",
+    "word": "contingency",
+    "phonetic0": "kәn'tindʒәnsi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "偶然性, 可能性, 意外事故"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "contingencies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0620",
+    "word": "formally",
+    "phonetic0": "'fɒ:mәli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "正式地, 形式上"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0622",
+    "word": "subtract",
+    "phonetic0": "sәb'trækt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "减去, 扣掉, 减少"
+      },
+      {
+        "pos": "vi.",
+        "cn": "做减法"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "subtracting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "subtracted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "subtracts",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0623",
+    "word": "surrender",
+    "phonetic0": "sә'rendә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "交出, 放弃, 使投降, 让与"
+      },
+      {
+        "pos": "vi.",
+        "cn": "投降, 自首"
+      },
+      {
+        "pos": "n.",
+        "cn": "交出, 放弃, 投降"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "surrendered",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "surrendering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "surrenders",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0624",
+    "word": "judicial",
+    "phonetic0": "dʒu:'diʃәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "法庭的, 公正的, 审判上的, 司法的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0625",
+    "word": "certainty",
+    "phonetic0": "'sә:tәnti",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "确定, 确实的事情"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "certainties",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0626",
+    "word": "mainstream",
+    "phonetic0": "'meinstri:m",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "主流"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "mainstreaming",
+              "cn": "现在分词"
+            },
+            {
+              "c": "mainstreams",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0627",
+    "word": "administrator",
+    "phonetic0": "әd'ministreitә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "管理人, 行政官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "administrators",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0628",
+    "word": "logical",
+    "phonetic0": "'lɒdʒikәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "合乎逻辑的, 合理的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "logicals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0629",
+    "word": "rebuild",
+    "phonetic0": "ri'bild",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "改建, 重建, 改造"
+      },
+      {
+        "pos": "vi.",
+        "cn": "重建"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "rebuilt",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "rebuilding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "rebuilds",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0630",
+    "word": "corrupt",
+    "phonetic0": "kә'rʌpt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "腐败的, 贪污的, 讹误充斥的"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使腐烂, 腐蚀, 使恶化"
+      },
+      {
+        "pos": "vi.",
+        "cn": "腐烂, 堕落"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "corrupted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "corrupting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "corrupts",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "corrupter",
+              "cn": "比较级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0631",
+    "word": "integrity",
+    "phonetic0": "in'tegriti",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "正直, 廉正, 完整"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0632",
+    "word": "proposition",
+    "phonetic0": ".prɒpә'ziʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建议, 命题, 主张"
+      },
+      {
+        "pos": "vt.",
+        "cn": "向...提议, 向...提出猥亵的要求"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "propositions",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "propositioned",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "propositioning",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0633",
+    "word": "litigation",
+    "phonetic0": ".liti'geiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "诉讼, 起诉"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "litigations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0634",
+    "word": "amid",
+    "phonetic0": "ә'mid",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在其间, 在其中"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0635",
+    "word": "generic",
+    "phonetic0": "dʒi'nerik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "属类的, 一般的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "generics",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0636",
+    "word": "bold",
+    "phonetic0": "bәuld",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "大胆的"
+      },
+      {
+        "pos": "n.",
+        "cn": "粗体"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "bolder",
+              "cn": "比较级"
+            },
+            {
+              "c": "boldest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0637",
+    "word": "questionnaire",
+    "phonetic0": "kwestʃә'nєә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "调查表, 问卷"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "questionnaires",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0638",
+    "word": "shipment",
+    "phonetic0": "'ʃipmәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "装船, 出货"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "shipments",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0639",
+    "word": "straightforward",
+    "phonetic0": "streit'fɒ:wәd",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "笔直的, 率直的, 明确的, 简单的, 直接的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0640",
+    "word": "handful",
+    "phonetic0": "'hændful",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "少数, 一把, 棘手事"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "handfuls",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0641",
+    "word": "loyal",
+    "phonetic0": "'lɒiәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "忠诚的, 忠实的, 忠贞的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0642",
+    "word": "layout",
+    "phonetic0": "'leiaut",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "布局, 陈列, 规划图, 页面布局, 版面编排"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "layouts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0643",
+    "word": "unchanged",
+    "phonetic0": ".ʌn'tʃeindʒd",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "无变化的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0644",
+    "word": "queue",
+    "phonetic0": "kju:",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "辫子, 一队人, 队列"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使排队, 将...梳成辫子"
+      },
+      {
+        "pos": "vi.",
+        "cn": "排队"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "queues",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "queuing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "queued",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0645",
+    "word": "bidder",
+    "phonetic0": "'bidә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出价人, 投标人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "bidders",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0646",
+    "word": "respective",
+    "phonetic0": "ri'spektiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "分别的, 各自的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0648",
+    "word": "textbook",
+    "phonetic0": "'tekstbuk",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "教科书"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "textbooks",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0649",
+    "word": "depict",
+    "phonetic0": "di'pikt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "描述, 描写"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "depicting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "depicted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "depicts",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0650",
+    "word": "odds",
+    "phonetic0": "ɒdz",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可能性, 几率, 机会, 胜算, 不平等"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0651",
+    "word": "subscriber",
+    "phonetic0": "sʌbs'kraibә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "签署者, 捐献者, 订户"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "subscribers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0652",
+    "word": "lifetime",
+    "phonetic0": "'laiftaim",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一生, 终生"
+      },
+      {
+        "pos": "a.",
+        "cn": "一生的, 终生的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "lifetimes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0653",
+    "word": "allegation",
+    "phonetic0": ".æli'geiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "断言, 主张, 申辩"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "allegations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0654",
+    "word": "redemption",
+    "phonetic0": "ri'dempʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "赎回, 赎身, 偿还, 拯救"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "redemptions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0655",
+    "word": "downward",
+    "phonetic0": "'daunwәd",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "向下的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0656",
+    "word": "grid",
+    "phonetic0": "grid",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "格子, 栅格"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "grids",
+              "cn": "复数"
+            },
+            {
+              "c": "gridded",
+              "cn": "过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0657",
+    "word": "newsletter",
+    "phonetic0": "'nju:z.letә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时事通讯, 业务通讯, 时事传报"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "newsletters",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0658",
+    "word": "meaningful",
+    "phonetic0": "'mi:niŋful",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "意味深长的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0659",
+    "word": "depreciate",
+    "phonetic0": "di'pri:ʃieit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "贬值"
+      },
+      {
+        "pos": "vt.",
+        "cn": "降价, 贬低"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "depreciated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "depreciating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "depreciates",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0660",
+    "word": "interface",
+    "phonetic0": "'intәfeis",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "分界面, 接触面, 界面"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "interfaces",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "interfaced",
+              "cn": "过去分词 / 过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0661",
+    "word": "digit",
+    "phonetic0": "'didʒit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数字, 位数, 指头"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "digits",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0662",
+    "word": "convenient",
+    "phonetic0": "kәn'vi:njәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "方便的, 合宜的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0663",
+    "word": "jet",
+    "phonetic0": "dʒet",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "喷射流, 喷嘴, 煤玉"
+      },
+      {
+        "pos": "v.",
+        "cn": "射出, 迸出, 喷射"
+      },
+      {
+        "pos": "a.",
+        "cn": "黑而发亮的, 墨黑的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "jets",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "jetting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "jetted",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0664",
+    "word": "hybrid",
+    "phonetic0": "'haibrid",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "混血儿, 杂种, 混合物"
+      },
+      {
+        "pos": "a.",
+        "cn": "混合的, 杂种的, 混合语的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "hybrids",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0665",
+    "word": "foster",
+    "phonetic0": "'fɒstә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "收养的, 养育的"
+      },
+      {
+        "pos": "vt.",
+        "cn": "养育, 抚育, 培养, 鼓励, 抱(希望)"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "fostered",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "fostering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fosters",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0666",
+    "word": "provoke",
+    "phonetic0": "prә'vәuk",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "激怒, 惹起, 诱导"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "provoked",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "provoking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "provokes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0667",
+    "word": "inevitably",
+    "phonetic0": "in'evitәbli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "不可避免地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0668",
+    "word": "shopper",
+    "phonetic0": "'ʃɒpә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "购物者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "shoppers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0669",
+    "word": "dilemma",
+    "phonetic0": "di'lemә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "困境, (进退两难的)窘境"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "dilemmas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0670",
+    "word": "invention",
+    "phonetic0": "in'venʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发明, 创作能力, 虚构的故事"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "inventions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0671",
+    "word": "info",
+    "phonetic0": "'infәu",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信息"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0672",
+    "word": "calendar",
+    "phonetic0": "'kælindә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日历, 日程表"
+      },
+      {
+        "pos": "vt.",
+        "cn": "列入表中"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "calendars",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "calendaring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "calendared",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0673",
+    "word": "secular",
+    "phonetic0": "'sekjulә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "修道院外的教士"
+      },
+      {
+        "pos": "a.",
+        "cn": "世俗的, 现世的, 长期的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "seculars",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0674",
+    "word": "cease",
+    "phonetic0": "si:s",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "停止"
+      },
+      {
+        "pos": "v.",
+        "cn": "停止, 终了"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "ceased",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "ceases",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "ceasing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0675",
+    "word": "distress",
+    "phonetic0": "di'stres",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "苦恼, 贫困, 痛苦"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使苦恼"
+      },
+      {
+        "pos": "a.",
+        "cn": "亏本出售的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "distressed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "distresses",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "distressing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0676",
+    "word": "withhold",
+    "phonetic0": "wið'hәuld",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使停止, 扣留, 保留, 拒给"
+      },
+      {
+        "pos": "vi.",
+        "cn": "克制, 忍住"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "withheld",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "withholding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "withholds",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0677",
+    "word": "sterling",
+    "phonetic0": "'stә:liŋ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "英国货币, 标准纯银"
+      },
+      {
+        "pos": "a.",
+        "cn": "英国货币的, 标准纯银的, 含标准成分的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "sterlings",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0678",
+    "word": "legacy",
+    "phonetic0": "'legәsi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祖先传下来之物, 遗赠物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "legacies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0679",
+    "word": "thrive",
+    "phonetic0": "θraiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "繁荣, 兴旺, 茁壮成长"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "thrives",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "thrived",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "thriving",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0680",
+    "word": "autonomy",
+    "phonetic0": "ɒ:'tɒnәmi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自治, 自治权"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "autonomies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0681",
+    "word": "commander",
+    "phonetic0": "kә'mɑ:ndә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "司令官, 指挥官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "commanders",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0682",
+    "word": "toll",
+    "phonetic0": "tәul",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "通行费, 代价, 钟声"
+      },
+      {
+        "pos": "vt.",
+        "cn": "征收, 敲钟, 鸣钟, 勾引, 引诱"
+      },
+      {
+        "pos": "vi.",
+        "cn": "征税, 鸣钟"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tolls",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "tolled",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "tolling",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0683",
+    "word": "accountability",
+    "phonetic0": "ә.kauntә'biliti",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "负有责任, 可说明性"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "accountabilities",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0684",
+    "word": "incorporation",
+    "phonetic0": "in.kɒ:pә'reiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包含, 结合, 编入, 团体组织"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "incorporations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0685",
+    "word": "equip",
+    "phonetic0": "i'kwip",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "装备, 配备"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "equipped",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "equipping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "equips",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0686",
+    "word": "batch",
+    "phonetic0": "bætʃ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一次所烘的面包, 一次所制之量, 一组, 批, 成批, 分批"
+      },
+      {
+        "pos": "v.",
+        "cn": "成批, 分批处理"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "batches",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "batching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "batched",
+              "cn": "过去分词 / 过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0687",
+    "word": "essence",
+    "phonetic0": "'esns",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "实质, 本质, 香精"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "essences",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0689",
+    "word": "convenience",
+    "phonetic0": "kә'vi:njәns",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "方便, 便利的事物, 方便的时候"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "conveniences",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0690",
+    "word": "termination",
+    "phonetic0": ".tә:mi'neiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "终止, 结束, 结果, 词尾"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "terminations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0691",
+    "word": "invasion",
+    "phonetic0": "in'veiʒәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "侵犯, 侵入, 侵害"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "invasions",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0692",
+    "word": "bondholder",
+    "phonetic0": "'bɒndhәuldә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "债券持有人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "bondholders",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0693",
+    "word": "unveil",
+    "phonetic0": ".ʌn'veil",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "揭开, 揭幕, 除去...的面纱"
+      },
+      {
+        "pos": "vi.",
+        "cn": "显露, 除去面纱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "unveiled",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "unveiling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "unveils",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0694",
+    "word": "intrinsic",
+    "phonetic0": "in'trinsik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "本质的, 原有的, 真正的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "intrinsics",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0695",
+    "word": "continent",
+    "phonetic0": "'kɒntinәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大陆, 洲"
+      },
+      {
+        "pos": "a.",
+        "cn": "自制的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "continents",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0696",
+    "word": "translation",
+    "phonetic0": "træns'leiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "翻译, 译文, 转化, 调任, 平移, 转译"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "translations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0697",
+    "word": "computation",
+    "phonetic0": ".kɒmpju'teiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "计算, 计数, 计算结果"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "computations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0698",
+    "word": "diplomatic",
+    "phonetic0": ".diplә'mætik",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "外交的, 老练的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0699",
+    "word": "advisory",
+    "phonetic0": "әd'vaizәri",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "顾问的, 咨询的, 劝告的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0700",
+    "word": "battery",
+    "phonetic0": "'bætәri",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电池, 殴打"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "batteries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0701",
+    "word": "modification",
+    "phonetic0": ".mɒdifi'keiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "修正, 修饰, 修改"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "modifications",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0702",
+    "word": "convey",
+    "phonetic0": "kәn'vei",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "传达, 运输, 转让"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "conveyed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "conveying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "conveys",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0703",
+    "word": "customize",
+    "phonetic0": "kʌstәmaiz",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "定制, 按规格改制, 定做"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "customized",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "customizing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "customizes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0704",
+    "word": "ingredient",
+    "phonetic0": "in'gri:diәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "成分, 因素"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "ingredients",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0705",
+    "word": "formerly",
+    "phonetic0": "'fɒ:mәli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "从前, 以前"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0706",
+    "word": "optimization",
+    "phonetic0": ".ɒptimai'zeiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "最佳化, 最优化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0707",
+    "word": "ton",
+    "phonetic0": "tʌn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "吨"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tons",
+              "cn": "复数"
+            },
+            {
+              "c": "toning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "tonner",
+              "cn": "比较级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0708",
+    "word": "recycle",
+    "phonetic0": ".ri:'saikl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使再循环, 重新利用, 再制"
+      },
+      {
+        "pos": "n.",
+        "cn": "再循环"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "recycling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "recycled",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "recycles",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0709",
+    "word": "spectrum",
+    "phonetic0": "'spektrәm",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "光谱, 范围, 系列"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "spectra",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0710",
+    "word": "tuple",
+    "phonetic0": "'tʌpl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "元组, 重数"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tuples",
+              "cn": "复数"
+            },
+            {
+              "c": "tupled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0711",
+    "word": "magnitude",
+    "phonetic0": "'mægnitju:d",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "magnitudes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0712",
+    "word": "theft",
+    "phonetic0": "θeft",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "盗窃, 失窃, 盗窃罪, 赃物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "thefts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0713",
+    "word": "quit",
+    "phonetic0": "kwit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "离开, 辞职, 停止"
+      },
+      {
+        "pos": "vt.",
+        "cn": "离开, 放弃, 使解除, 停止"
+      },
+      {
+        "pos": "n.",
+        "cn": "离开"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "quitting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "quits",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0714",
+    "word": "validity",
+    "phonetic0": "vә'liditi",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "有效性, 正确性"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0715",
+    "word": "interact",
+    "phonetic0": ".intәr'ækt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "互相影响, 交互作用"
+      },
+      {
+        "pos": "n.",
+        "cn": "幕间剧, 幕间休息"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "interacts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "interacting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "interacted",
+              "cn": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0716",
+    "word": "gallon",
+    "phonetic0": "'gælәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "加仑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "gallons",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0717",
+    "word": "considerably",
+    "phonetic0": "kәn'sidәrәbli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "非常地, 很, 颇"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0718",
+    "word": "intervene",
+    "phonetic0": ".intә'vi:n",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "插入, 调停, 干涉"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "intervened",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "intervenes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "intervening",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0719",
+    "word": "repertoire",
+    "phonetic0": "'repәtwɑ:",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "全部剧目, 全部技能, 全部节目, 全部作品"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "repertoires",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0720",
+    "word": "halt",
+    "phonetic0": "hɒ:lt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "停止, 立定, 休息"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使停止, 使立定"
+      },
+      {
+        "pos": "vi.",
+        "cn": "立定, 停止, 蹒跚, 踌躇, 有缺点"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "halted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "halts",
+              "cn": "第三人称单数 / 复数"
+            },
+            {
+              "c": "halting",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0721",
+    "word": "niche",
+    "phonetic0": "nitʃ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "壁龛"
+      },
+      {
+        "pos": "vt.",
+        "cn": "放入壁龛, 安顿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0722",
+    "word": "shed",
+    "phonetic0": "ʃed",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车棚, 小屋, 脱落之物, 分水岭"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使流出, 放射, 脱落, 散发, 摆脱"
+      },
+      {
+        "pos": "vi.",
+        "cn": "流出, 散布, 脱落"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "sheds",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "shedding",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0723",
+    "word": "motive",
+    "phonetic0": "'mәutiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "动机, 目的, 主题, 基调"
+      },
+      {
+        "pos": "a.",
+        "cn": "运动的, 成为动机的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "motives",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0724",
+    "word": "whereby",
+    "phonetic0": "(h)weә'bai",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "靠什么, 如何, 为何, 靠那个, 因此, 由此"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0725",
+    "word": "median",
+    "phonetic0": "'mi:diәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "中央的, 中间的, 正中的"
+      },
+      {
+        "pos": "n.",
+        "cn": "正中动脉, 中位数, 中线"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "medians",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0726",
+    "word": "wholly",
+    "phonetic0": "'hәuli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "完全地, 整个, 统统, 全部"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0727",
+    "word": "supposedly",
+    "phonetic0": "sә'pәuzidli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "想象上, 看上去像, 被认为是, 恐怕, 按照推测"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0728",
+    "word": "crude",
+    "phonetic0": "kru:d",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "天然的, 未成熟的, 粗糙的, 粗鲁的"
+      },
+      {
+        "pos": "n.",
+        "cn": "天然的物质"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "cruder",
+              "cn": "比较级"
+            },
+            {
+              "c": "crudest",
+              "cn": "最高级"
+            },
+            {
+              "c": "crudes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0729",
+    "word": "commissioner",
+    "phonetic0": "kә'miʃәnә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "委员, 理事, 行政长官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "commissioners",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0730",
+    "word": "sufficiently",
+    "phonetic0": "sә'fiʃәntli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "足够, 充分"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0731",
+    "word": "protocol",
+    "phonetic0": "'prәutәkɒl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草案, 礼仪, 协议"
+      },
+      {
+        "pos": "v.",
+        "cn": "拟定"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "protocols",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0732",
+    "word": "constrain",
+    "phonetic0": "kәn'strein",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "强迫, 限制, 关押"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "constrained",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "constraining",
+              "cn": "现在分词"
+            },
+            {
+              "c": "constrains",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0733",
+    "word": "installation",
+    "phonetic0": ".instә'leiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "安装, 装置, 就职"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "installations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0734",
+    "word": "publicity",
+    "phonetic0": "pʌb'lisiti",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "名声, 宣传, 公开场合"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0735",
+    "word": "blank",
+    "phonetic0": "blæŋk",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "空格, 空白"
+      },
+      {
+        "pos": "a.",
+        "cn": "空白的, 空虚的, 完全的, 无色的"
+      },
+      {
+        "pos": "vi.",
+        "cn": "消失, 成为空白"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使无效, 取消, 封锁"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "blanks",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "blanked",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "blanking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "blanker",
+              "cn": "比较级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0736",
+    "word": "embed",
+    "phonetic0": "im'bed",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使插入, 使嵌入, 使深留脑中"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "embedded",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "embedding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "embeds",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0737",
+    "word": "legislature",
+    "phonetic0": "'ledʒisleitʃә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "立法机关, 议会, 立法院"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "legislatures",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0738",
+    "word": "steer",
+    "phonetic0": "stiә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "引导, 驾驶, 航行, 控制"
+      },
+      {
+        "pos": "vi.",
+        "cn": "驾驶, 掌舵, 行驶"
+      },
+      {
+        "pos": "n.",
+        "cn": "驾驶指示, 劝告"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "steered",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "steering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "steers",
+              "cn": "第三人称单数 / 复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0739",
+    "word": "beneficial",
+    "phonetic0": ".beni'fiʃәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "有益的, 受益的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0740",
+    "word": "punish",
+    "phonetic0": "'pʌniʃ",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "处罚, 惩罚, 严厉对待"
+      },
+      {
+        "pos": "vi.",
+        "cn": "惩罚"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "punished",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "punishing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "punishes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0741",
+    "word": "predictable",
+    "phonetic0": "pri'diktәbl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "可预言的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0742",
+    "word": "liquidation",
+    "phonetic0": ".likwi'deiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "偿还, 偿付, 清算"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "liquidations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0743",
+    "word": "chaos",
+    "phonetic0": "'keiɒs",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大混乱, 混沌"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0744",
+    "word": "tailor",
+    "phonetic0": "'teilә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "裁缝, 成衣匠"
+      },
+      {
+        "pos": "vt.",
+        "cn": "缝制, 制作, 使适应"
+      },
+      {
+        "pos": "vi.",
+        "cn": "做裁缝"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "tailored",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "tailors",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "tailoring",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0745",
+    "word": "impairment",
+    "phonetic0": "im'peәmәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "削弱, 减少, 损害, 损伤, 危害"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "impairments",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0746",
+    "word": "harvest",
+    "phonetic0": "'hɑ:vist",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收获, 成果, 收获物, 收获期"
+      },
+      {
+        "pos": "v.",
+        "cn": "收割, 收获"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "harvested",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "harvesting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "harvests",
+              "cn": "复数 / 第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0747",
+    "word": "insert",
+    "phonetic0": "in'sә:t",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "插入物"
+      },
+      {
+        "pos": "vt.",
+        "cn": "插入, 把(人造卫星)射入(轨道), 添写"
+      },
+      {
+        "pos": "vi.",
+        "cn": "附着"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "inserted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "inserting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "inserts",
+              "cn": "复数 / 第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0748",
+    "word": "residential",
+    "phonetic0": ".rezi'denʃәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "住宅的, 与居住有关的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0749",
+    "word": "electrical",
+    "phonetic0": "i'lektrikәl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "电的, 有关电的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "electricals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0750",
+    "word": "fluctuate",
+    "phonetic0": "'flʌktʃueit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "变动, 起伏, 动摇"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使波动, 使动摇"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "fluctuated",
+              "cn": "过去式 / 过去分词"
+            },
+            {
+              "c": "fluctuates",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "fluctuating",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0751",
+    "word": "migrant",
+    "phonetic0": "'maigrәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "候鸟, 移居者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "migrants",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0752",
+    "word": "objection",
+    "phonetic0": "әb'dʒekʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "objections",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0753",
+    "word": "macroeconomics",
+    "phonetic0": ",mækrәu,i:kә'nɔmiks",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "整体经济学, 宏观经济学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "macroeconomic",
+              "cn": "词形原型"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0754",
+    "word": "accommodate",
+    "phonetic0": "ә'kɒmәdeit",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使适应, 调和, 通融, 容纳, 向...提供"
+      },
+      {
+        "pos": "vi.",
+        "cn": "适应"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "accommodated",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "accommodating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "accommodates",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0755",
+    "word": "preliminary",
+    "phonetic0": "pri'liminәri",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "初步做法, 初步措施, 预试, 预选赛"
+      },
+      {
+        "pos": "a.",
+        "cn": "初步的, 开始的, 预备的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "preliminaries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0757",
+    "word": "accrual",
+    "phonetic0": "ә'kru:әl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自然增长, 自然增长额"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "accruals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0758",
+    "word": "confront",
+    "phonetic0": "kәn'frʌnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "使面对, 对抗, 遭遇, 使对质, 比较"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "confronted",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "confronting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "confronts",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0759",
+    "word": "punishment",
+    "phonetic0": "'pʌniʃmәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "处罚, 刑罚, 惩罚"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "punishments",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0760",
+    "word": "passive",
+    "phonetic0": "'pæsiv",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "消极的, 被动的, 冷漠的, 顺从的, 无源的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "passives",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0761",
+    "word": "conditional",
+    "phonetic0": "kәn'diʃәnl",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "有条件的, 有前提的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "conditionals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0762",
+    "word": "orientation",
+    "phonetic0": ".ɒ:rien'teiʃәn",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "定方位, 适应, 向东方"
+      },
+      {
+        "pos": "n.",
+        "cn": "方向"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "orientations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0763",
+    "word": "dispose",
+    "phonetic0": "dis'pәuz",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "处理, 排列, 布置"
+      },
+      {
+        "pos": "vi.",
+        "cn": "处置"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "disposing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "disposed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "disposes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0764",
+    "word": "scrutiny",
+    "phonetic0": "'skru:tini",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "细看, 仔细检查, 监视, 选票检查"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "scrutinies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0765",
+    "word": "accordingly",
+    "phonetic0": "ә'kɒ:diŋli",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "相应地, 因此, 于是"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0766",
+    "word": "exile",
+    "phonetic0": "'eksail",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "放逐, 流放, 被放逐者"
+      },
+      {
+        "pos": "vt.",
+        "cn": "放逐, 流放, 使背井离乡"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "exiles",
+              "cn": "复数 / 第三人称单数"
+            },
+            {
+              "c": "exiled",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "exiling",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0767",
+    "word": "prescribe",
+    "phonetic0": "pris'kraib",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "规定, 指定, 嘱咐, 开处方"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "prescribed",
+              "cn": "过去分词 / 过去式"
+            },
+            {
+              "c": "prescribing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "prescribes",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0768",
+    "word": "inherent",
+    "phonetic0": "in'hiәrәnt",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "固有的, 与生俱来的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0769",
+    "word": "explicitly",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "明确地；明白地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "business-03-0770",
+    "word": "clever",
+    "phonetic0": "'klevә",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "a.",
+        "cn": "聪明的, 精明的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "词形变化",
+          "words": [
+            {
+              "c": "cleverer",
+              "cn": "比较级"
+            },
+            {
+              "c": "cleverest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": []
+  }
+]

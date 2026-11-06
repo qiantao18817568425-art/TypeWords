@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "expanded-connectivity-001",
+    "word": "CAN controller",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "CAN 控制器，负责 CAN 帧收发和协议处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The CAN controller reports errors during the test.",
+        "cn": "CAN 控制器在测试期间报告了错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-002",
+    "word": "bus termination",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "总线终端匹配，用于减少传输线上的信号反射"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the bus termination at both ends of the harness.",
+        "cn": "检查线束两端的总线终端匹配。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-003",
+    "word": "arbitration",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "仲裁，决定多个发送方中谁先获得总线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows which frame won arbitration.",
+        "cn": "跟踪记录显示哪一帧赢得了仲裁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-004",
+    "word": "bit timing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "位时序，定义一位数据的持续时间和采样时机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the bit timing settings on both nodes.",
+        "cn": "检查两个节点的位时序设置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-005",
+    "word": "transmit error",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发送错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The node reports a transmit error when the link is interrupted.",
+        "cn": "链路中断时，节点报告了发送错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-006",
+    "word": "receive error",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "接收错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the receive error count before and after the test.",
+        "cn": "对照测试前后的接收错误次数。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-007",
+    "word": "CAN transceiver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "CAN 收发器，在控制器逻辑信号与总线电信号之间转换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the CAN transceiver is enabled.",
+        "cn": "确认 CAN 收发器是否已启用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-008",
+    "word": "signal validity",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信号有效性，表示接收方是否应使用该信号值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check signal validity before applying the new value.",
+        "cn": "使用新值前先检查信号是否有效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-009",
+    "word": "stale data",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "过期数据，已不能反映当前状态的数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The display still uses stale data after reconnecting.",
+        "cn": "重新连接后，屏幕仍在使用过期数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-010",
+    "word": "update period",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "更新周期，两次计划更新之间的时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm the expected update period for the status signal.",
+        "cn": "确认状态信号的预期更新周期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-011",
+    "word": "alive counter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "活跃计数器，随报文更新变化以帮助识别重复或漏报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The alive counter stopped changing before the fault appeared.",
+        "cn": "故障出现前，活跃计数器停止变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-012",
+    "word": "checksum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "校验和，用来检测数据错误的计算值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The receiver discards the frame when the checksum fails.",
+        "cn": "校验和检查失败时，接收方丢弃该帧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-013",
+    "word": "diagnostic session",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "诊断会话，决定当前可执行哪些诊断操作的状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the diagnostic session used for the read request.",
+        "cn": "记录发出读取请求时使用的诊断会话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-014",
+    "word": "physical layer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "物理层，负责将数据转换成介质上传输的信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the physical layer before tracing application traffic.",
+        "cn": "追踪应用流量前先检查物理层。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-015",
+    "word": "MAC address",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "MAC 地址，用于链路层标识网络接口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm the source MAC address in the captured frame.",
+        "cn": "确认抓到的帧中的源 MAC 地址。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-016",
+    "word": "Ethernet switch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "以太网交换机，在端口之间转发以太网帧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check both ports on the Ethernet switch.",
+        "cn": "检查以太网交换机的两个端口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-017",
+    "word": "twisted pair",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "双绞线，两根导线互相绞合以改善传输性能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Inspect the twisted pair for damage near the connector.",
+        "cn": "检查连接器附近的双绞线是否损坏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-018",
+    "word": "link negotiation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链路协商，链路两端确定共同通信参数的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Link negotiation completes before traffic starts.",
+        "cn": "链路协商完成后才开始传输数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-019",
+    "word": "link speed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链路速率，链路传输数据所用的速率"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The interface reports a lower link speed after reconnecting.",
+        "cn": "重新连接后，接口报告了较低的链路速率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-020",
+    "word": "duplex mode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "双工模式，定义能否同时发送和接收"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the duplex mode reported at both ends of the link.",
+        "cn": "检查链路两端报告的双工模式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-021",
+    "word": "VLAN",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Virtual Local Area Network，虚拟局域网"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The capture shows the frame on the expected VLAN.",
+        "cn": "抓包显示该帧出现在预期的虚拟局域网中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-022",
+    "word": "subnet mask",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "子网掩码，用于区分 IP 地址中的网络部分和主机部分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the subnet mask before testing a connection across networks.",
+        "cn": "测试跨网络连接前先核对子网掩码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-023",
+    "word": "default gateway",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "默认网关，用于转发无更具体路由匹配的数据包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify the default gateway after applying the new settings.",
+        "cn": "应用新配置后验证默认网关。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-024",
+    "word": "multicast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "组播，把数据发给加入同一组的多个接收方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The service sends updates to the multicast group.",
+        "cn": "服务向组播组发送更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-025",
+    "word": "network interface",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网络接口，系统用于发送和接收网络数据的入口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm which network interface carries the test traffic.",
+        "cn": "确认测试流量走的是哪个网络接口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-026",
+    "word": "link flapping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链路反复掉线重连，链路状态频繁在通断间切换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The switch log shows link flapping during the vibration test.",
+        "cn": "交换机日志显示振动测试期间链路反复掉线重连。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-027",
+    "word": "Bluetooth pairing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蓝牙配对，两台设备建立可信连接所需凭据的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Repeat Bluetooth pairing after removing the old pairing record.",
+        "cn": "删除旧配对记录后重新进行蓝牙配对。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-028",
+    "word": "Bluetooth profile",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蓝牙配置规范，定义特定用途的设备交互方式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check which Bluetooth profile is active during the call.",
+        "cn": "检查通话期间启用的是哪种蓝牙配置规范。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-029",
+    "word": "Bluetooth Low Energy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "低功耗蓝牙，简称 BLE"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The accessory uses Bluetooth Low Energy to send status updates.",
+        "cn": "配件通过低功耗蓝牙发送状态更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-030",
+    "word": "hands-free profile",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "免提配置规范，简称 HFP，用于通话控制及相关音频"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The hands-free profile is active when the call begins.",
+        "cn": "通话开始时，免提配置规范处于启用状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-031",
+    "word": "advanced audio distribution profile",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "高级音频分发配置规范，简称 A2DP，支持蓝牙媒体音频传输"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The advanced audio distribution profile carries the music stream.",
+        "cn": "高级音频分发配置规范承载音乐流。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-032",
+    "word": "service set identifier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务集标识，简称 SSID，通常显示为无线网络名称"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm the service set identifier before connecting.",
+        "cn": "连接前先确认无线网络名称。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-033",
+    "word": "received signal strength",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "接收信号强度，设备接收到的无线信号强弱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record received signal strength at each test location.",
+        "cn": "记录各测试位置的接收信号强度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-034",
+    "word": "roaming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "漫游，设备从一个无线接入点切换到另一个接入点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether playback continues during roaming.",
+        "cn": "检查漫游期间能否继续播放。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-035",
+    "word": "Wi-Fi hotspot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "无线热点，允许其他设备通过 Wi-Fi 接入的网络"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Connect the test phone to the Wi-Fi hotspot.",
+        "cn": "将测试手机连接到无线热点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-036",
+    "word": "station mode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "站点模式，无线设备作为客户端连接接入点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The module joins the test network in station mode.",
+        "cn": "模块以站点模式加入测试网络。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-037",
+    "word": "channel congestion",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信道拥塞，多路流量争用同一信道导致传输受阻"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare channel congestion before and after the test.",
+        "cn": "对照测试前后的信道拥塞情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-038",
+    "word": "tethering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网络共享，将设备的互联网连接共享给其他设备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test phone shares its internet connection through tethering.",
+        "cn": "测试手机通过网络共享提供互联网连接。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-039",
+    "word": "connection handshake",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "连接握手，建立连接时交换初始信息的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows where the connection handshake stopped.",
+        "cn": "跟踪记录显示连接握手在哪一步停止。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-040",
+    "word": "USB host",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 主机，负责发现、配置和调度 USB 设备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The USB host detects the drive after it is plugged in.",
+        "cn": "插入存储盘后，USB 主机检测到了它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-041",
+    "word": "USB device",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 设备，通过 USB 接口连接主机的设备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Test the same USB device on both ports.",
+        "cn": "在两个端口上用同一个 USB 设备测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-042",
+    "word": "host controller",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "主机控制器，管理主机端口及总线传输的硬件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The host controller reports a transfer error.",
+        "cn": "主机控制器报告了传输错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-043",
+    "word": "USB endpoint",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 端点，设备端进行数据收发的逻辑通道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The driver opens the USB endpoint for incoming data.",
+        "cn": "驱动打开 USB 端点接收入站数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-044",
+    "word": "USB hub",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 集线器，将一个上行 USB 连接扩展为多个下行端口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Repeat the test with the same USB hub.",
+        "cn": "用同一个 USB 集线器重复测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-045",
+    "word": "descriptor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "描述符，USB 设备用于描述身份、能力或接口的结构化数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The host reads the descriptor during enumeration.",
+        "cn": "主机在枚举时读取描述符。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-046",
+    "word": "device class",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设备类别，按功能划分的 USB 设备或接口类型"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check which device class the interface declares.",
+        "cn": "检查接口声明了哪一种设备类别。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-047",
+    "word": "USB power delivery",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 供电协议，支持在设备间协商供电参数，简称 USB PD"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows when USB power delivery negotiation starts.",
+        "cn": "跟踪记录显示 USB 供电协议协商何时开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-048",
+    "word": "data role",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数据角色，表示接口在数据通信中承担的角色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the data role after reconnecting the cable.",
+        "cn": "重新接线后检查数据角色。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-049",
+    "word": "power role",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "供电角色，表示接口作为供电方或受电方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The port changes its power role during negotiation.",
+        "cn": "该端口在协商期间切换了供电角色。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-050",
+    "word": "overcurrent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "过流，电流超过允许范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The port logs an overcurrent event and turns off power.",
+        "cn": "端口记录了一次过流事件，随后关闭供电。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-051",
+    "word": "link reset",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "链路复位，将连接恢复到规定初始状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The link reset interrupts the active transfer.",
+        "cn": "链路复位中断了正在进行的传输。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-052",
+    "word": "block device",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "块设备，以数据块为单位访问的存储设备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system detects the drive as a block device.",
+        "cn": "系统将该存储盘识别为块设备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-053",
+    "word": "interprocess communication",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "进程间通信，简称 IPC"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Interprocess communication carries the event between the two services.",
+        "cn": "该事件通过进程间通信在两个服务之间传递。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-054",
+    "word": "message queue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "消息队列，暂存等待处理的消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The message queue grows while the consumer is busy.",
+        "cn": "消费方忙碌时，消息队列的积压增多。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-055",
+    "word": "remote procedure call",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "远程过程调用，简称 RPC，调用另一进程或设备上的函数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The remote procedure call takes longer while the service is busy.",
+        "cn": "服务忙碌时，远程过程调用耗时更长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-056",
+    "word": "socket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "套接字，程序用于通信的接口端点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the service opened the socket.",
+        "cn": "检查服务是否打开了套接字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-057",
+    "word": "callback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "回调，由其他组件在指定事件发生时调用的函数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The callback runs when the new value arrives.",
+        "cn": "新值到达时执行回调。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-058",
+    "word": "event notification",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "事件通知，告知接收方某个事件已发生的消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The app receives an event notification when the state changes.",
+        "cn": "状态变化时，应用收到事件通知。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-059",
+    "word": "payload",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "有效载荷，消息中实际承载的业务数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the payload with the expected field values.",
+        "cn": "将有效载荷与预期字段值对照。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-060",
+    "word": "message broker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "消息代理，接收并转发消息的中间服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The message broker forwards the event to the subscribers.",
+        "cn": "消息代理将事件转发给订阅方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-061",
+    "word": "interface version",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "接口版本，用于识别接口定义及其兼容性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm the interface version used by both services.",
+        "cn": "确认两个服务使用的接口版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-062",
+    "word": "serialized data",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "序列化数据，转换成可传输或存储格式的数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The receiver decodes the serialized data before using it.",
+        "cn": "接收方在使用序列化数据前先解码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-063",
+    "word": "vehicle property",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车辆属性，车载接口中用于表示某项车辆状态或能力的字段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The car service reads the vehicle property before updating the display.",
+        "cn": "车载服务在更新界面前读取车辆属性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-064",
+    "word": "area identifier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "区域标识，用于区分属性对应的座椅、车门等区域"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the area identifier when the value appears in the wrong seat view.",
+        "cn": "数值显示在错误座椅界面上时，检查区域标识。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-connectivity-065",
+    "word": "signal freshness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信号新鲜度，表示信号是否在要求的时间范围内更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify signal freshness before showing the value on the display.",
+        "cn": "在屏幕上显示数值前，验证信号是否在要求的时间内更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

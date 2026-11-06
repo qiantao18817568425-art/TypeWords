@@ -290,7 +290,7 @@ useSeoMeta({
                 {{ $t('hero_perk_modes') }}
               </div>
               <div class="flex items-center gap-1.5 text-[.85rem] text-[var(--hw-text-2)]">
-                <span class="w-1.5 h-1.5 rounded-full bg-[#2563eb] shrink-0 opacity-80"></span>8
+                <span class="w-1.5 h-1.5 rounded-full bg-[#2563eb] shrink-0 opacity-80"></span>27
                 {{ $t('hero_perk_dicts') }}
               </div>
               <div class="flex items-center gap-1.5 text-[.85rem] text-[var(--hw-text-2)]">

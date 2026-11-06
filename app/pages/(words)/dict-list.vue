@@ -12,6 +12,7 @@ import { computed, watch } from 'vue'
 import { getDefaultDict } from '@/core/types/func.ts'
 import { useFetch } from '@vueuse/core'
 import { DICT_LIST, LIB_JS_URL, TourConfig } from '@/core/config/env.ts'
+import { withAppBaseURL } from '@/core/utils/base-url'
 import { useSettingStore } from '@/core/stores/setting.ts'
 
 const { nav } = useNav()
@@ -124,6 +125,22 @@ watch(dict_list, val => {
           </BaseIcon>
         </div>
       </div>
+      <details v-if="!searchKey" class="my-4 rounded-lg border border-[var(--color-border)] p-4 text-sm leading-6">
+        <summary class="cursor-pointer font-semibold">学习指南 · 从零基础到座舱 TPM</summary>
+        <p class="mt-3">27 本词库、4,774 条练习。按编号从 01 开始。已有日常基础时，可以从职场沟通切入，把通用阅读词库当作并行补充。</p>
+        <ol class="my-3 list-decimal ps-6">
+          <li><strong>基础入门（445 条）</strong>。用简单句做自我介绍，能问时间、地点和价格。</li>
+          <li><strong>生活会话（990 条）</strong>。练一次预约、问路、购物或改行程，能表达需求并复述关键细节。</li>
+          <li><strong>通用阅读拓展（1,647 条）</strong>。读一段简短英语，圈出陌生词，试着用一句话复述主旨。可以和职场阶段并行。</li>
+          <li><strong>职场沟通（910 条）</strong>。写一封简短确认邮件，把事项、负责人和时间说清楚。</li>
+          <li><strong>TPM 项目与交付（412 条）</strong>。用英文汇报里程碑、风险、依赖和请求决策的事项。</li>
+          <li><strong>座舱技术与实战（370 条）</strong>。说明故障现象、影响、证据、当前假设、责任人和关闭条件。</li>
+        </ol>
+        <p>每天先复习错词和到期词，再练一小组新词。先跟打并读出例句，然后遮住英文试着说或默写。每个阶段做一次上面的输出任务，隔天再试一遍。</p>
+        <p class="mt-2"><strong>职场练习</strong>。Could you confirm the owner and the due date? 请确认负责人和截止日期。</p>
+        <p class="mt-2"><strong>座舱汇报练习</strong>。We reproduced the screen freeze after wake-up. The root cause is still under investigation. 我们复现了唤醒后的屏幕冻结，根因仍在排查中。</p>
+        <p class="mt-2">场景词库提供中文释义和双语例句。通用与商务词汇册按词频编排，提供释义、可用的音标和词形。<a :href="withAppBaseURL('/word-sources/NOTICE.txt')" class="underline" target="_blank" rel="noopener">词表来源与授权</a></p>
+      </details>
       <div class="mt-4" v-if="searchKey">
         <DictList
           v-if="searchList.length"

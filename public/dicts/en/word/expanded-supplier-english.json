@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "expanded-supplier-001",
+    "word": "supplier nomination",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商定点；确定供货供应商"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Supplier nomination is planned after the technical and commercial reviews.",
+        "cn": "技术和商务评审结束后，计划完成供应商定点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-002",
+    "word": "supplier qualification",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商资质评定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Supplier qualification includes a review of the factory and quality process.",
+        "cn": "供应商资质评定包括工厂和质量流程评审。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-003",
+    "word": "preferred supplier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "优先选用的供应商"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our preferred supplier can provide samples earlier.",
+        "cn": "我们优先选用的供应商可以更早提供样件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-004",
+    "word": "single source",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "单一供货来源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A single source for this component increases the delivery risk.",
+        "cn": "这一部件只有单一供货来源，交付风险随之增加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-005",
+    "word": "dual sourcing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "双来源采购"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dual sourcing gives us another option if a plant misses its output target.",
+        "cn": "如果一家工厂未达到产量目标，双来源采购能给我们提供另一种选择。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-006",
+    "word": "supplier lead time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商交货周期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier lead time increased from four weeks to six.",
+        "cn": "供应商交货周期从四周延长到六周。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-007",
+    "word": "minimum order quantity",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "最小订购量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The minimum order quantity is higher than our pilot demand.",
+        "cn": "最小订购量高于我们的试点需求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-008",
+    "word": "purchase order",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "采购订单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier will start production after receiving the purchase order.",
+        "cn": "供应商将在收到采购订单后开始生产。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-009",
+    "word": "order acknowledgment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "订单确认回执"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The order acknowledgment includes the promised shipment date.",
+        "cn": "订单确认回执列明了承诺的发货日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-010",
+    "word": "blanket order",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "框架采购订单；可分批下达的总订单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The blanket order allows us to request smaller shipments each month.",
+        "cn": "这份框架采购订单允许我们每月分批要求发货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-011",
+    "word": "cost breakdown",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "成本明细"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cost breakdown separates tooling fees from the unit price.",
+        "cn": "成本明细将工装费与单价分开列出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-012",
+    "word": "supply agreement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供货协议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supply agreement specifies the delivery schedule and quality requirements.",
+        "cn": "供货协议规定了交付安排和质量要求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-013",
+    "word": "sample request",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "样件申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sample request specifies the connector revision we need.",
+        "cn": "样件申请注明了我们所需的连接器版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-014",
+    "word": "engineering sample",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工程样件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We used an engineering sample to check the connector fit.",
+        "cn": "我们用工程样件检查了连接器的装配情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-015",
+    "word": "golden sample",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "标准样件；供比对的基准样件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the new unit with the golden sample before signing off.",
+        "cn": "批准前，请将新设备与标准样件对比。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-016",
+    "word": "sample submission",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "样件送审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sample submission includes the inspection measurements.",
+        "cn": "样件送审材料包含检验测量结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-017",
+    "word": "sample approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "样件批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Production planning can proceed after sample approval.",
+        "cn": "样件获批后，可以继续安排生产。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-018",
+    "word": "part revision",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "零件版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The part revision is printed on the label beside the connector.",
+        "cn": "零件版本印在连接器旁的标签上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-019",
+    "word": "bill of materials",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "物料清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bill of materials lists all parts for the display assembly.",
+        "cn": "物料清单列出了显示总成的全部零件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-020",
+    "word": "approved vendor list",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "获准供货的供应商清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the approved vendor list before placing the order.",
+        "cn": "下单前请检查获准供货的供应商清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-021",
+    "word": "PPAP submission",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "生产件批准程序送审材料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The PPAP submission includes the dimensional report for the new part.",
+        "cn": "生产件批准程序送审材料中包含新零件的尺寸报告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-022",
+    "word": "deviation permit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "偏差许可"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The deviation permit covers only this batch of engineering samples.",
+        "cn": "偏差许可仅适用于这批工程样件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-023",
+    "word": "material shortage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "物料短缺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The material shortage could delay the next assembly run.",
+        "cn": "物料短缺可能推迟下一批装配。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-024",
+    "word": "delivery schedule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "交付计划；分批交付时间表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The delivery schedule shows when each sample batch will arrive.",
+        "cn": "交付计划列出了各批样件的到货时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-025",
+    "word": "supplier kickoff",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商项目启动会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "At the supplier kickoff, we agreed on the interface owners and review dates.",
+        "cn": "在供应商项目启动会上，我们确认了接口负责人和评审日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-026",
+    "word": "joint action plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "联合行动计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The joint action plan assigns an owner to each open interface issue.",
+        "cn": "联合行动计划为每个未解决的接口问题指定了负责人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-027",
+    "word": "supplier scorecard",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商绩效评分表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier scorecard tracks delivery, quality, and response times.",
+        "cn": "供应商绩效评分表跟踪交付、质量和响应时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-028",
+    "word": "supplier recovery plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商交付恢复计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier recovery plan adds a weekend production shift.",
+        "cn": "供应商交付恢复计划增加了周末生产班次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-029",
+    "word": "sub-tier supplier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "次级供应商；供方的上游供应商"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sub-tier supplier will send updated test data tomorrow.",
+        "cn": "次级供应商明天会发送更新后的测试数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-030",
+    "word": "capacity commitment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "产能承诺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a capacity commitment before increasing the forecast.",
+        "cn": "提高需求预测前，我们需要供应商作出产能承诺。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-031",
+    "word": "production ramp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "产量爬坡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The production ramp starts after the first batch passes inspection.",
+        "cn": "第一批产品检验通过后开始产量爬坡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-032",
+    "word": "shipment tracking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "运输跟踪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Shipment tracking shows that the samples reached the local depot.",
+        "cn": "运输跟踪显示样件已到达当地转运仓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-033",
+    "word": "expedite shipment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "加急发货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we expedite shipment of the two units needed for validation?",
+        "cn": "能否加急发出验证所需的两台设备？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-034",
+    "word": "corrective action request",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "纠正措施请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We issued a corrective action request after the repeated inspection failures.",
+        "cn": "多次检验不合格后，我们发出了纠正措施请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-035",
+    "word": "supplier audit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商审核"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier audit focused on traceability and final inspection.",
+        "cn": "供应商审核重点检查了追溯和出厂检验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-036",
+    "word": "line stop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "生产线停线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shortage could cause a line stop on Thursday.",
+        "cn": "这次缺料可能导致周四生产线停线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-037",
+    "word": "customer requirement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户需求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The customer requirement specifies the expected wake-up time.",
+        "cn": "客户需求规定了预期唤醒时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-038",
+    "word": "customer acceptance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户验收"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Customer acceptance follows the joint vehicle demonstration.",
+        "cn": "联合实车演示结束后进入客户验收。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-039",
+    "word": "customer approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The proposed display layout needs customer approval.",
+        "cn": "拟议的显示布局需要客户批准。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-040",
+    "word": "customer feedback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户反馈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Customer feedback highlighted an unclear loading message.",
+        "cn": "客户反馈指出加载提示不够清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-041",
+    "word": "customer concern",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户关切"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The customer concern is whether the update affects existing vehicles.",
+        "cn": "客户关切是更新是否会影响现有车辆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-042",
+    "word": "customer escalation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户侧问题升级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missed validation deadline led to a customer escalation.",
+        "cn": "未按时完成验证导致问题在客户侧升级。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-043",
+    "word": "customer milestone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户里程碑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need the demo build a week before the customer milestone.",
+        "cn": "我们需要在客户里程碑前一周拿到演示版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-044",
+    "word": "customer deliverable",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "面向客户的交付物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release summary is a customer deliverable for this phase.",
+        "cn": "发布摘要是本阶段要交给客户的材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-045",
+    "word": "customer sign-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户签字确认；客户正式认可"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The open findings must be reviewed before customer sign-off.",
+        "cn": "客户正式确认前，需要评审尚未解决的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-046",
+    "word": "customer communication plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户沟通计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The customer communication plan names the contact and update cadence.",
+        "cn": "客户沟通计划明确了联系人和更新频率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-047",
+    "word": "customer-facing summary",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "面向客户的摘要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The customer-facing summary explains the impact and recovery plan.",
+        "cn": "面向客户的摘要说明了影响和恢复方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-048",
+    "word": "agreed scope",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "已达成一致的范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The latest request extends the agreed scope for the pilot.",
+        "cn": "这项新请求扩大了已达成一致的试点范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-049",
+    "word": "decision brief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策简报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The decision brief presents two options and their schedule impact.",
+        "cn": "决策简报列出了两种方案及其排期影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-050",
+    "word": "decision owner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策负责人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The decision owner will confirm the path forward by Friday.",
+        "cn": "决策负责人将在周五前确认后续方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-051",
+    "word": "decision record",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "单项决策记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The decision record includes the options, rationale, and approver.",
+        "cn": "这份决策记录包括备选方案、决策理由和审批人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-052",
+    "word": "decision rationale",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策依据；选择理由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please add the decision rationale to the meeting notes.",
+        "cn": "请把决策依据补到会议纪要中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-053",
+    "word": "decision authority",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策权限；有权决策的人或机构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release board has decision authority for schedule exceptions.",
+        "cn": "发布委员会有权决定是否批准排期例外。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-054",
+    "word": "approval matrix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "审批权限矩阵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The approval matrix shows who can authorize a scope change.",
+        "cn": "审批权限矩阵列出了谁有权批准范围变更。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-055",
+    "word": "steering committee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "项目指导委员会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The steering committee reviewed the proposal for extra test capacity.",
+        "cn": "项目指导委员会评审了增加测试资源的提案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-056",
+    "word": "governance cadence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "项目治理例会节奏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The governance cadence includes a weekly risk review and a monthly steering meeting.",
+        "cn": "项目治理安排包括每周风险评审和每月指导委员会会议。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-057",
+    "word": "executive sponsor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "项目高层支持者；项目发起高管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The executive sponsor helped resolve the resource conflict.",
+        "cn": "项目高层支持者帮助解决了资源冲突。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-058",
+    "word": "alignment meeting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "对齐会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The alignment meeting is for agreeing on the pilot delivery date.",
+        "cn": "这次对齐会用于确定试点交付日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-059",
+    "word": "competing priorities",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "相互冲突的优先事项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The teams discussed competing priorities before allocating the test benches.",
+        "cn": "分配测试台架前，团队讨论了相互冲突的优先事项。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-060",
+    "word": "decision pending",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "状态短语",
+        "cn": "等待决策"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We marked the scope item as decision pending in the tracker.",
+        "cn": "我们在跟踪表里把这项范围问题标记为等待决策。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-061",
+    "word": "propose a trade-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "提出取舍方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can propose a trade-off between the feature scope and the test window.",
+        "cn": "我们可以提出在功能范围与测试窗口之间取舍的方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-062",
+    "word": "agree on a fallback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "就备用方案达成一致"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's agree on a fallback in case the supplier misses the delivery date.",
+        "cn": "我们先确定一个备用方案，以应对供应商未能按期交付的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-063",
+    "word": "commit to a date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "承诺一个日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can the supplier commit to a date for the revised samples?",
+        "cn": "供应商能否承诺更新样件的交付日期？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-064",
+    "word": "confirm the assumptions",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "确认所依据的假设"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please confirm the assumptions before we share the revised schedule.",
+        "cn": "分享修订后的排期前，请确认所依据的假设。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-065",
+    "word": "request an exception",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "申请例外处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We may need to request an exception for this late change.",
+        "cn": "这项较晚提出的变更可能需要申请例外处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-066",
+    "word": "negotiate a deadline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "协商截止时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to negotiate a deadline that leaves time for joint testing.",
+        "cn": "我们需要协商一个能为联合测试留出时间的截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-067",
+    "word": "seek approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "寻求批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please seek approval from the release board for the revised plan.",
+        "cn": "请向发布委员会申请批准修订后的计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-068",
+    "word": "defer the request",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "推迟处理该请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We agreed to defer the request until the next release cycle.",
+        "cn": "我们同意把该请求推迟到下一发布周期处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-069",
+    "word": "align expectations",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "对齐预期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's align expectations with the customer before we announce the pilot date.",
+        "cn": "公布试点日期前，我们先和客户对齐预期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-070",
+    "word": "issue a revised quote",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "出具修订后的报价"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier will issue a revised quote after the scope review.",
+        "cn": "供应商会在范围评审后出具修订报价。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-071",
+    "word": "document an agreement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "书面记录达成的协议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the decision record to document an agreement on the delivery sequence.",
+        "cn": "请在决策记录中写明双方就交付顺序达成的协议。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-supplier-072",
+    "word": "escalate with evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v. 短语",
+        "cn": "带着证据升级问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can escalate with evidence from the missed shipment and the updated forecast.",
+        "cn": "我们可以带上未按期发货的记录和更新后的预测来升级问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
