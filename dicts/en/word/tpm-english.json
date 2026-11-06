@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "tpm-001",
+    "word": "milestone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "里程碑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The next milestone is the first integrated demo.",
+        "cn": "下一个里程碑是首次集成演示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-002",
+    "word": "deliverable",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "交付物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test report is a required deliverable for this milestone.",
+        "cn": "测试报告是这个里程碑必须提交的交付物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-003",
+    "word": "baseline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "基线；经确认的计划或配置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's agree on the schedule baseline before we add any new work.",
+        "cn": "我们先确认排期基线，再增加新工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-004",
+    "word": "critical path",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "关键路径"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The display driver update is on the critical path.",
+        "cn": "显示驱动更新位于关键路径上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-005",
+    "word": "dependency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "依赖项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new hardware sample is a dependency for integration testing.",
+        "cn": "集成测试依赖新的硬件样件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-006",
+    "word": "lead time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "提前期；从提出需求到交付的时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is the lead time for the next batch of samples?",
+        "cn": "下一批样件从下单到交付需要多久？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-007",
+    "word": "schedule buffer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "进度缓冲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We added a schedule buffer for unexpected integration work.",
+        "cn": "我们留出了进度缓冲，以应对临时出现的集成工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-008",
+    "word": "target date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "目标日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we agree on a target date for the first test build?",
+        "cn": "我们能确定首个测试版本的目标日期吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-009",
+    "word": "schedule slip",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "进度延误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missing sample could cause a one-week schedule slip.",
+        "cn": "样件未到可能导致进度延误一周。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-010",
+    "word": "scope freeze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "范围冻结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We will review any new requests after the scope freeze.",
+        "cn": "范围冻结后，我们会单独评审新增请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-011",
+    "word": "reschedule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重新安排时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we reschedule the review to give the test team more time?",
+        "cn": "我们能重新安排评审时间，让测试团队多一点准备时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-012",
+    "word": "on track",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "按计划推进"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team is on track to finish the integration this week.",
+        "cn": "团队正按计划推进，预计本周完成集成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-013",
+    "word": "owner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "负责人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Each open issue needs an owner and a due date.",
+        "cn": "每个未关闭的问题都需要明确负责人和截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-014",
+    "word": "accountable",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "对结果负最终责任的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who is accountable for the release decision?",
+        "cn": "谁对发布决定负最终责任？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-015",
+    "word": "ownership",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "责任归属"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to clarify ownership of the wake-up sequence.",
+        "cn": "我们需要明确唤醒时序的责任归属。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-016",
+    "word": "handoff",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "交接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please include the build number and test results in the handoff.",
+        "cn": "请在交接时附上构建编号和测试结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-017",
+    "word": "escalation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "问题升级；向更高层级寻求协调"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need an escalation if the sample delivery date stays uncertain.",
+        "cn": "如果样件交付日期仍不确定，我们就需要升级协调。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-018",
+    "word": "blocker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阻塞项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missing interface specification is our main blocker.",
+        "cn": "缺少接口规范是目前的主要阻塞项。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-019",
+    "word": "action item",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "行动项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's record an action item to collect logs from both systems.",
+        "cn": "我们记一项行动，收集两个系统的日志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-020",
+    "word": "due date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "截止日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please confirm the due date with the team that owns the fix.",
+        "cn": "请和负责修复的团队确认截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-021",
+    "word": "mitigation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "缓解措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The mitigation reduces the chance of a blank screen during startup.",
+        "cn": "这项缓解措施降低了启动时黑屏的概率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-022",
+    "word": "contingency plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "应急预案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our contingency plan is to run the first test on the previous hardware revision.",
+        "cn": "我们的应急预案是先用上一版硬件执行首次测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-023",
+    "word": "follow through",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语动词",
+        "cn": "把已承诺的事项跟进到底"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please follow through on the agreed actions and update the tracker.",
+        "cn": "请把约定的行动跟进到底，并更新跟踪表。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-024",
+    "word": "decision maker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The decision maker needs the impact assessment before the review.",
+        "cn": "决策人需要在评审前拿到影响评估。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-025",
+    "word": "defect triage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "缺陷分诊；确定优先级和初步责任域"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We'll use defect triage to assign the first investigation and agree on severity.",
+        "cn": "我们会在缺陷分诊会上安排首轮调查，并确认严重程度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-026",
+    "word": "reproduce",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "复现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you reproduce the issue using the same build and test steps?",
+        "cn": "你能用相同的版本和测试步骤复现这个问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-027",
+    "word": "intermittent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "间歇性的；时有时无的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The connection failure is intermittent and usually occurs after resume.",
+        "cn": "连接故障间歇出现，通常发生在唤醒之后。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-028",
+    "word": "regression",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "回归缺陷；变更导致原有功能退化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new build introduced a regression in the camera preview.",
+        "cn": "新版本让原本正常的摄像头预览出现了回归缺陷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-029",
+    "word": "severity",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "严重程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We set the severity based on the impact on the driver.",
+        "cn": "我们根据对驾驶员的影响确定严重程度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-030",
+    "word": "priority",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "优先级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team raised the priority because the issue blocks system validation.",
+        "cn": "这个问题阻塞了系统验证，因此团队提高了它的优先级。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-031",
+    "word": "symptom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "故障现象；表征"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The first visible symptom is a frozen camera image.",
+        "cn": "用户最先看到的故障现象是摄像头画面冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-032",
+    "word": "trigger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "触发条件；触发事件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Rapidly switching between views appears to be the trigger.",
+        "cn": "快速切换视图似乎是触发条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-033",
+    "word": "root cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "根本原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a controlled test to confirm the root cause.",
+        "cn": "我们需要通过对照测试确认根本原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-034",
+    "word": "contributing factor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "促成因素；加剧因素"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "High CPU load was a contributing factor during recovery.",
+        "cn": "CPU 高负载是恢复阶段的一个加剧因素。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-035",
+    "word": "workaround",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "规避方案；临时绕行办法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Restarting the application is a temporary workaround.",
+        "cn": "重启应用是一种临时规避方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-036",
+    "word": "corrective action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "纠正措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The corrective action adds a readiness check before the command is sent.",
+        "cn": "这项纠正措施会在发送命令前检查系统是否就绪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-037",
+    "word": "instrument cluster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "仪表；组合仪表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The instrument cluster should show the current gear after the signal is received.",
+        "cn": "仪表收到信号后应显示当前挡位。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-038",
+    "word": "head unit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "车机主机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The head unit stopped responding during the startup test.",
+        "cn": "车机主机在启动测试中停止响应。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-039",
+    "word": "HMI",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "人机界面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The HMI should show a clear loading message while the camera initializes.",
+        "cn": "摄像头初始化时，人机界面应显示清楚的加载提示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-040",
+    "word": "CAN bus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "控制器局域网络总线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the gear signal is still present on the CAN bus.",
+        "cn": "检查 CAN 总线上是否仍有挡位信号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-041",
+    "word": "signal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We traced the signal from its source to the display application.",
+        "cn": "我们从信号源一路追踪到显示应用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-042",
+    "word": "gateway",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网关"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The gateway forwards the vehicle speed signal to the cockpit system.",
+        "cn": "网关将车速信号转发给座舱系统。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-043",
+    "word": "heartbeat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "心跳；表明组件仍在运行的周期信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The monitor detected a missing heartbeat from the service.",
+        "cn": "监控发现该服务的心跳信号丢失。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-044",
+    "word": "watchdog",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "看门狗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The watchdog reset the controller after the software stopped responding.",
+        "cn": "软件停止响应后，看门狗复位了控制器。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-045",
+    "word": "suspend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "挂起；进入挂起状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system failed to suspend while the camera was active.",
+        "cn": "摄像头处于工作状态时，系统未能进入挂起状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-046",
+    "word": "resume",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "恢复运行；从挂起状态唤醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system should resume and restore the previous display state.",
+        "cn": "系统应在唤醒后恢复先前的显示状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-047",
+    "word": "time alignment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "时间对齐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Time alignment lets us compare the same event across the two log files.",
+        "cn": "时间对齐后，我们可以在两份日志中比对同一事件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-048",
+    "word": "boot cycle",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "启动周期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the startup events within the same boot cycle.",
+        "cn": "请在同一个启动周期内比较各个启动事件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-049",
+    "word": "guest OS",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "客户操作系统；运行在虚拟机内的系统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The guest OS restarted while the host kept running.",
+        "cn": "客户操作系统重启时，宿主系统仍在运行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-050",
+    "word": "hypervisor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "虚拟机监控器；虚拟化管理层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The hypervisor logs show when the virtual machine was restarted.",
+        "cn": "虚拟化管理层的日志显示了虚拟机的重启时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-051",
+    "word": "test case",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试用例"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This test case covers the first gear change after startup.",
+        "cn": "这条测试用例覆盖启动后的首次挡位切换。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-052",
+    "word": "test matrix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试矩阵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The test matrix covers two hardware revisions and three software builds.",
+        "cn": "测试矩阵覆盖两个硬件版本和三个软件构建版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-053",
+    "word": "test coverage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试覆盖范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please review the test coverage for low-temperature startup.",
+        "cn": "请评审低温启动的测试覆盖范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-054",
+    "word": "test evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Attach the logs and video as test evidence for the fix.",
+        "cn": "请附上日志和视频，作为修复验证的证据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-055",
+    "word": "acceptance criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验收标准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's agree on the acceptance criteria before validation starts.",
+        "cn": "我们在开始验证前先确认验收标准。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-056",
+    "word": "regression test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "回归测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Run a regression test on the other audio sources after the fix.",
+        "cn": "修复后请对其他音源执行回归测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-057",
+    "word": "stress test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "压力测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The stress test runs repeated wake-up cycles overnight.",
+        "cn": "压力测试会在夜间反复执行唤醒循环。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-058",
+    "word": "fault injection",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "故障注入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We used fault injection to verify recovery after a connection loss.",
+        "cn": "我们用故障注入验证连接中断后的恢复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-059",
+    "word": "recovery test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "恢复测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The recovery test checks whether the stream returns after reconnecting the camera.",
+        "cn": "恢复测试检查重新连接摄像头后视频流是否恢复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-060",
+    "word": "traceability",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可追溯性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Link each requirement to its test case to maintain traceability.",
+        "cn": "把每条需求关联到对应测试用例，以保持可追溯性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-061",
+    "word": "retest",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "复测"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please retest the original failure scenario with the updated build.",
+        "cn": "请用更新后的构建版本复测原始故障场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-062",
+    "word": "closure criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "问题关闭标准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The closure criteria include a passing retest and a completed impact review.",
+        "cn": "关闭标准包括复测通过和影响评审完成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-063",
+    "word": "release candidate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "候选发布版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release candidate is ready for the final smoke test.",
+        "cn": "候选发布版本已就绪，可以开始最终冒烟测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-064",
+    "word": "build",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "构建版本；构建产物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please confirm which build was installed on the test unit.",
+        "cn": "请确认测试设备上安装的是哪个构建版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-065",
+    "word": "firmware",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "固件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The firmware update includes a fix for the wake-up issue.",
+        "cn": "这次固件更新包含唤醒问题的修复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-066",
+    "word": "version mismatch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "版本不匹配"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A version mismatch between the controller and head unit can prevent communication.",
+        "cn": "控制器和车机主机版本不匹配可能导致通信失败。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-067",
+    "word": "release notes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "List the fixed issues and remaining limitations in the release notes.",
+        "cn": "请在发布说明里列出已修复问题和仍存在的限制。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-068",
+    "word": "rollout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "上线部署；向目标设备逐步推送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The rollout starts with a small pilot group.",
+        "cn": "上线部署先从一小批试点设备开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-069",
+    "word": "rollback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "回滚；恢复到上一稳定版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We tested the rollback before approving the update.",
+        "cn": "我们在批准更新前测试了回滚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-070",
+    "word": "known issue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "已知问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release notes describe the known issue and its workaround.",
+        "cn": "发布说明记录了这个已知问题及其规避方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-071",
+    "word": "release gate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布关卡；发布前必过的检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Passing the system validation suite is a release gate.",
+        "cn": "通过整套系统验证是发布前必过的一道关卡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-072",
+    "word": "sign off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语动词",
+        "cn": "审核批准；签字确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Quality will sign off on the build after reviewing the evidence.",
+        "cn": "质量团队会在审查证据后批准这个构建版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-073",
+    "word": "hotfix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "紧急修复；热修复版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The hotfix addresses a crash during startup.",
+        "cn": "这个紧急修复解决了启动时的崩溃问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-074",
+    "word": "defect escape",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "缺陷逃逸；缺陷漏过既定检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team reviewed the defect escape and added a check to the validation plan.",
+        "cn": "团队复盘了这次缺陷逃逸，并在验证计划中增加了一项检查。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-075",
+    "word": "stakeholder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "相关方；利益相关者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Each stakeholder received the updated schedule before the review.",
+        "cn": "评审前，各相关方都收到了更新后的排期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-076",
+    "word": "alignment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "对齐；达成一致"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need alignment on which features go into the next release.",
+        "cn": "我们需要就下个版本包含哪些功能达成一致。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-077",
+    "word": "status update",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "进展更新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please include the top risks in your weekly status update.",
+        "cn": "请在每周进展更新中列出主要风险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-078",
+    "word": "meeting minutes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "会议纪要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The meeting minutes capture decisions, owners, and due dates.",
+        "cn": "会议纪要记录了决策、负责人和截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-079",
+    "word": "open question",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "待明确的问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The main open question is whether the new sensor is compatible with the current hardware.",
+        "cn": "主要待明确的问题是新传感器是否兼容现有硬件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-080",
+    "word": "decision log",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the version choice and its rationale in the decision log.",
+        "cn": "请把版本选择及其理由记入决策记录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-081",
+    "word": "trade-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "取舍；权衡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We discussed the trade-off between a faster release and more validation time.",
+        "cn": "我们讨论了如何在更快发布和更充分验证之间取舍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-082",
+    "word": "recommendation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建议；推荐方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My recommendation is to finish the recovery tests before the pilot rollout.",
+        "cn": "我建议在试点推送前完成恢复测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-083",
+    "word": "impact assessment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "影响评估"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The impact assessment covers affected versions, users, and test scope.",
+        "cn": "影响评估涵盖受影响的版本、用户和测试范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-084",
+    "word": "next steps",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "后续步骤；下一步行动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's agree on the next steps before we close the meeting.",
+        "cn": "我们在散会前明确下一步行动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-085",
+    "word": "follow up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语动词",
+        "cn": "跟进"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll follow up with the test team after the daily meeting.",
+        "cn": "每日例会后我会和测试团队跟进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "tpm-086",
+    "word": "raise a concern",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "动词短语",
+        "cn": "提出顾虑；指出风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please raise a concern if the new deadline puts validation at risk.",
+        "cn": "如果新的截止日期会影响验证，请及时提出顾虑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
