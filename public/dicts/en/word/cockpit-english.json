@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "cockpit-001",
+    "word": "AAOS",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Android Automotive OS，车载安卓操作系统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This test unit runs AAOS.",
+        "cn": "这台测试设备运行车载安卓操作系统。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-002",
+    "word": "Android framework",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "安卓应用框架，向应用提供系统能力的一层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Android framework handles the app's service request.",
+        "cn": "安卓应用框架处理了该应用的服务请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-003",
+    "word": "system service",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "系统服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait until the system service is ready.",
+        "cn": "等系统服务就绪后再继续。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-004",
+    "word": "Binder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "Android 的进程间通信机制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows a slow Binder call.",
+        "cn": "跟踪记录显示一次 Binder 调用耗时较长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-005",
+    "word": "HAL",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Hardware Abstraction Layer，硬件抽象层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The app reaches the hardware through the HAL and system services.",
+        "cn": "应用通过系统服务和硬件抽象层访问硬件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-006",
+    "word": "VHAL",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Vehicle Hardware Abstraction Layer，车辆硬件抽象层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The VHAL exposes the vehicle property to the car service.",
+        "cn": "车辆硬件抽象层向车载系统服务提供该车辆属性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-007",
+    "word": "kernel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "操作系统内核"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the kernel log for driver errors.",
+        "cn": "查看内核日志中是否有驱动错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-008",
+    "word": "device driver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设备驱动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The device driver reports an input error.",
+        "cn": "设备驱动报告了输入错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-009",
+    "word": "userspace",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "用户空间，应用和多数系统服务的运行空间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The driver delivers the event to userspace.",
+        "cn": "驱动将事件传给用户空间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-010",
+    "word": "Yocto Project",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "用于构建定制嵌入式 Linux 系统的开源项目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team uses the Yocto Project to build its Linux image.",
+        "cn": "团队使用 Yocto Project 构建 Linux 镜像。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-011",
+    "word": "system image",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "系统镜像"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the same system image on both test units.",
+        "cn": "两台测试设备请使用相同的系统镜像。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-012",
+    "word": "device tree",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设备树，用于描述硬件及其连接关系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the device tree for the panel configuration.",
+        "cn": "检查设备树中的屏幕配置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-013",
+    "word": "board support package",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "板级支持包，简称 BSP"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The board support package includes drivers for this test board.",
+        "cn": "板级支持包包含这块测试板的驱动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-014",
+    "word": "bootloader",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "引导加载程序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bootloader loads the kernel during startup.",
+        "cn": "引导加载程序在启动时加载内核。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-015",
+    "word": "virtual machine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "虚拟机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The virtual machine starts after the host is ready.",
+        "cn": "虚拟机在宿主环境就绪后启动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-016",
+    "word": "host OS",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宿主操作系统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Collect the host OS log for the same time window.",
+        "cn": "采集同一时间段的宿主操作系统日志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-017",
+    "word": "virtual CPU",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "虚拟处理器，简称 vCPU"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows when the virtual CPU was scheduled.",
+        "cn": "跟踪记录显示了虚拟处理器何时获得调度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-018",
+    "word": "passthrough",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设备直通，将物理设备直接分配给虚拟机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm whether the guest uses device passthrough for the controller.",
+        "cn": "确认客户机是否通过设备直通使用该控制器。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-019",
+    "word": "shared memory",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "共享内存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The two processes exchange data through shared memory.",
+        "cn": "两个进程通过共享内存交换数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-020",
+    "word": "memory pressure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "内存压力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Memory pressure rose before the app closed.",
+        "cn": "应用关闭前，内存压力升高了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-021",
+    "word": "process crash",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "进程崩溃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The process crash interrupted the audio service.",
+        "cn": "进程崩溃中断了音频服务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-022",
+    "word": "ANR",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Application Not Responding，Android 应用无响应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ANR report includes thread information.",
+        "cn": "应用无响应报告包含线程信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-023",
+    "word": "deadlock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "死锁，多个执行单元相互等待而无法继续"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The two threads entered a deadlock while waiting for locks.",
+        "cn": "两个线程在互相等待对方释放锁时发生了死锁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-024",
+    "word": "kernel panic",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "内核恐慌，内核遇到无法继续运行的严重错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The console captured a kernel panic before the reboot.",
+        "cn": "控制台在重启前记录了一次内核恐慌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-025",
+    "word": "stack trace",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "调用栈跟踪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the stack trace to find the failing function.",
+        "cn": "用调用栈跟踪定位出错的函数。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-026",
+    "word": "tombstone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "Android 原生进程崩溃时生成的诊断记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tombstone shows which native thread crashed.",
+        "cn": "崩溃记录显示了哪个原生线程发生崩溃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-027",
+    "word": "crash dump",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "崩溃转储，保存故障时的部分运行状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Save the crash dump before running the next test.",
+        "cn": "开始下一轮测试前先保存崩溃转储。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-028",
+    "word": "VM restart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "虚拟机重启"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the VM restart changed the guest boot time.",
+        "cn": "检查虚拟机重启是否改变了客户机的启动时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-029",
+    "word": "MCU",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Microcontroller Unit，微控制器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The MCU reports a change in the power state.",
+        "cn": "微控制器报告了电源状态变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-030",
+    "word": "SoC",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "System on Chip，片上系统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The SoC leaves its low power state after the wakeup event.",
+        "cn": "片上系统收到唤醒事件后退出低功耗状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-031",
+    "word": "ignition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车辆点火或上电状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the ignition state before starting the test.",
+        "cn": "开始测试前记录车辆的点火状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-032",
+    "word": "cold boot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冷启动，从断电或关机状态启动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure the display startup time after a cold boot.",
+        "cn": "测量冷启动时屏幕点亮所需的时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-033",
+    "word": "warm reboot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "热重启，不经历完整断电的重启"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The issue occurs during a warm reboot.",
+        "cn": "问题发生在热重启过程中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-034",
+    "word": "suspend-to-RAM",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "挂起到内存，简称 STR，由内存保留系统运行状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system keeps its state in memory during suspend-to-RAM.",
+        "cn": "系统挂起到内存时，运行状态保留在内存中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-035",
+    "word": "wakeup source",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "唤醒源，能够触发系统唤醒的事件或设备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Identify the wakeup source in the power log.",
+        "cn": "在电源日志中确认唤醒源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-036",
+    "word": "wake lock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "唤醒锁，按类型阻止系统进入相应的低功耗状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The app holds a wake lock while it writes the update.",
+        "cn": "应用写入更新数据时持有唤醒锁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-037",
+    "word": "power rail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "供电轨，为一组电路供电的电压线路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the panel power rail is stable.",
+        "cn": "检查屏幕供电轨是否稳定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-038",
+    "word": "power sequence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电源时序，各路电源启停的顺序和时间关系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the power sequence with the board requirements.",
+        "cn": "对照板卡要求检查电源时序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-039",
+    "word": "power state",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电源状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The device changes its power state when the test begins.",
+        "cn": "测试开始时，设备切换了电源状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-040",
+    "word": "reset reason",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "复位原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Read the reset reason before assigning the issue.",
+        "cn": "分派问题前先读取复位原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-041",
+    "word": "startup latency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "启动时延，从指定起点到功能就绪的时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure startup latency from power on to the first usable screen.",
+        "cn": "测量从上电到首个可用界面的启动时延。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-042",
+    "word": "boot animation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "开机动画"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The boot animation ended before the home screen appeared.",
+        "cn": "开机动画结束后，主界面才显示出来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-043",
+    "word": "center display",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "中控屏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The center display goes black when the fault occurs.",
+        "cn": "故障发生时中控屏变黑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-044",
+    "word": "backlight",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "背光"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The backlight is on, but the screen shows no image.",
+        "cn": "背光亮着，但屏幕没有图像。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-045",
+    "word": "black screen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "黑屏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record how long the black screen lasts.",
+        "cn": "记录黑屏持续了多长时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-046",
+    "word": "frozen frame",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冻结的画面，长时间停留在同一帧的画面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The video shows a frozen frame while the system still plays audio.",
+        "cn": "录像显示画面冻结，但系统仍在播放声音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-047",
+    "word": "frame rate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "帧率，单位时间内输出或显示的帧数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure the frame rate during the transition.",
+        "cn": "测量界面切换时的帧率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-048",
+    "word": "dropped frame",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "丢失的一帧，未按预期输出或显示的帧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows a dropped frame during the animation.",
+        "cn": "跟踪记录显示动画播放时丢了一帧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-049",
+    "word": "jank",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "画面卡顿，画面更新不均匀造成的不流畅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The list shows jank when the user scrolls quickly.",
+        "cn": "用户快速滚动时，列表出现卡顿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-050",
+    "word": "display pipeline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "显示链路，从图像生成到屏幕输出的处理路径"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Follow the display pipeline to see where the image stops.",
+        "cn": "沿显示链路检查图像在哪一段停止更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-051",
+    "word": "compositor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "图层合成器，将多个图层合成为画面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The compositor combines the app and system layers.",
+        "cn": "图层合成器合并了应用图层和系统图层。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-052",
+    "word": "scanout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "扫描输出，显示硬件读取并输出图像数据的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether scanout is still active while the image is frozen.",
+        "cn": "画面冻结时，检查显示硬件是否仍在扫描输出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-053",
+    "word": "vertical sync",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "垂直同步，简称 VSync，用于协调画面更新时机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the frame timing with the vertical sync signal.",
+        "cn": "将帧时序与垂直同步信号对照。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-054",
+    "word": "touch controller",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "触摸控制器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The touch controller reports two contact points.",
+        "cn": "触摸控制器报告了两个触点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-055",
+    "word": "touch event",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "触摸事件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the app received the touch event.",
+        "cn": "检查应用是否收到了触摸事件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-056",
+    "word": "coordinate mapping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "坐标映射，将一套坐标转换到另一套坐标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify coordinate mapping after rotating the display.",
+        "cn": "旋转屏幕后，验证坐标映射是否正确。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-057",
+    "word": "surround view",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "环视，用于展示车辆周围画面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Surround view opens when the driver selects the camera view.",
+        "cn": "驾驶员选择摄像头视图后，环视界面打开。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-058",
+    "word": "rear-view camera",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "后视摄像头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the rear-view camera sends video frames.",
+        "cn": "检查后视摄像头是否发送视频帧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-059",
+    "word": "camera stream",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摄像头视频流"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The camera stream stops before the preview turns black.",
+        "cn": "摄像头视频流先停止，随后预览变黑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-060",
+    "word": "video frame",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "视频帧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the first video frame with the request time.",
+        "cn": "对照首个视频帧的时间与请求时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-061",
+    "word": "frame timeout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "帧等待超时，在约定时间内未收到下一帧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The capture service reports a frame timeout.",
+        "cn": "采集服务报告了帧等待超时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-062",
+    "word": "serializer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "串行器，将数据转换为串行形式传输"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the serializer on the camera side of the link.",
+        "cn": "检查链路摄像头一侧的串行器。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-063",
+    "word": "deserializer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "解串器，将串行数据恢复为可供下游使用的数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The deserializer reports a link error.",
+        "cn": "解串器报告了链路错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-064",
+    "word": "image stitching",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "图像拼接，将多路画面合成为一幅图像"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check image stitching after replacing a camera.",
+        "cn": "更换摄像头后检查图像拼接效果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-065",
+    "word": "audio source",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Switch to another audio source and check the output.",
+        "cn": "切换到另一个音源并检查输出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-066",
+    "word": "audio routing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音频路由，决定音频流送往哪个输出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify audio routing when a call starts.",
+        "cn": "通话开始时验证音频路由。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-067",
+    "word": "audio focus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音频焦点，用于协调不同应用的播放行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The media app pauses when it loses audio focus.",
+        "cn": "媒体应用失去音频焦点后暂停播放。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-068",
+    "word": "amplifier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "功率放大器，常简称功放"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the amplifier status when all speakers are silent.",
+        "cn": "所有扬声器都无声时，检查功放状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-069",
+    "word": "acoustic echo cancellation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "声学回声消除，简称 AEC，用于削弱麦克风收进的扬声器回声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Acoustic echo cancellation reduces speaker echo during a call.",
+        "cn": "声学回声消除减弱通话中的扬声器回声。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-070",
+    "word": "audio dropout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音频短时中断，常称断音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tester heard a brief audio dropout during playback.",
+        "cn": "测试人员在播放过程中听到了一次短时断音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-071",
+    "word": "ECU",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Electronic Control Unit，电子控制单元"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm which ECU sends the status message.",
+        "cn": "确认是哪个电子控制单元发送状态消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-072",
+    "word": "CAN FD",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "CAN with Flexible Data-rate，支持灵活数据速率的 CAN"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether both test nodes are configured for CAN FD.",
+        "cn": "检查两个测试节点是否都配置为 CAN FD。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-073",
+    "word": "bus-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "CAN 总线关闭状态，节点因错误累积停止正常收发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The controller entered bus-off after repeated bus errors.",
+        "cn": "控制器在多次总线错误后进入总线关闭状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-074",
+    "word": "bus load",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "总线负载，总线传输容量被占用的程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure the bus load while the issue is present.",
+        "cn": "在问题出现时测量总线负载。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-075",
+    "word": "diagnostic trouble code",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "诊断故障码，简称 DTC"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Read the diagnostic trouble code before clearing the fault records.",
+        "cn": "清除故障记录前先读取诊断故障码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-076",
+    "word": "UDS",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Unified Diagnostic Services，统一诊断服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The diagnostic tool uses UDS to read the fault records.",
+        "cn": "诊断工具通过统一诊断服务读取故障记录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-077",
+    "word": "automotive Ethernet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车载以太网"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The two controllers exchange data over automotive Ethernet.",
+        "cn": "两个控制器通过车载以太网交换数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-078",
+    "word": "SOME/IP",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "基于 IP 的面向服务车载通信协议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The capture shows a SOME/IP request and its response.",
+        "cn": "抓包中可见一组 SOME/IP 请求和响应。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-079",
+    "word": "service discovery",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务发现，客户端查找可用服务的机制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check service discovery before testing the method call.",
+        "cn": "测试方法调用前，先检查服务发现。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-080",
+    "word": "packet loss",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "丢包，传输过程中部分数据包未到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Packet loss increased when the link became unstable.",
+        "cn": "链路不稳定时，丢包增多了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-081",
+    "word": "packet capture",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "抓包，也指保存下来的网络数据包记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Save a packet capture from both sides of the link.",
+        "cn": "保存链路两端的抓包记录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-082",
+    "word": "sequence number",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "序列号，用于标识消息顺序的编号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the sequence numbers to find the missing message.",
+        "cn": "对照序列号找出缺失的消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-084",
+    "word": "timeout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "超时，等待超过设定时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The client reports a timeout before it tries again.",
+        "cn": "客户端报告超时后再次尝试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-085",
+    "word": "Wi-Fi",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "无线局域网技术"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the unit reconnects to Wi-Fi after wakeup.",
+        "cn": "检查设备唤醒后是否重新连上无线网络。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-086",
+    "word": "Bluetooth",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蓝牙，短距离无线通信技术"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The phone connects to the test unit over Bluetooth.",
+        "cn": "手机通过蓝牙连接到测试设备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-087",
+    "word": "phone projection",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手机投屏或互联投射，将手机应用界面和功能呈现在车机上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Phone projection stops when the phone disconnects.",
+        "cn": "手机断开连接时，投屏停止。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-088",
+    "word": "access point",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "无线接入点，简称 AP"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Move the test unit closer to the access point.",
+        "cn": "将测试设备移到更靠近无线接入点的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-089",
+    "word": "IP address",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "IP 地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The network link is up, but the device has no IP address.",
+        "cn": "网络链路已建立，但设备没有 IP 地址。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-090",
+    "word": "DHCP",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "Dynamic Host Configuration Protocol，动态主机配置协议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the device gets an address through DHCP.",
+        "cn": "检查设备是否通过 DHCP 获取到地址。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-091",
+    "word": "network link",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网络链路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The network link comes up before the service starts.",
+        "cn": "网络链路先建立，服务随后启动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-092",
+    "word": "USB enumeration",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB 枚举，主机识别并配置 USB 设备的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The host logs an error during USB enumeration.",
+        "cn": "主机在 USB 枚举过程中记录了错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-093",
+    "word": "USB Type-C",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "USB Type-C 接口，采用可正反插的连接器形式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the same USB Type-C cable in both tests.",
+        "cn": "两次测试使用同一根 USB Type-C 线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-094",
+    "word": "mass storage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大容量存储设备或存储设备类别"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The USB drive is detected as mass storage.",
+        "cn": "U 盘被识别为大容量存储设备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-095",
+    "word": "filesystem",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件系统，组织和管理存储文件的方式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the filesystem is supported.",
+        "cn": "检查系统是否支持该文件系统。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-096",
+    "word": "mount",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "挂载，使文件系统可供访问"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system can mount the drive after it is detected.",
+        "cn": "检测到存储盘后，系统可以挂载它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-097",
+    "word": "unmount",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "卸载，使文件系统脱离当前访问路径"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Unmount the drive before unplugging it.",
+        "cn": "拔出存储盘前先卸载它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-098",
+    "word": "storage corruption",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "存储数据损坏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team checked for storage corruption after the power loss.",
+        "cn": "断电后，团队检查了存储数据是否损坏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-099",
+    "word": "timestamp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时间戳，记录事件发生时间的值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the timestamp of the first visible symptom.",
+        "cn": "记录首次可见现象的时间戳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-100",
+    "word": "wall clock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "墙上时钟，表示日期和时刻的系统时钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The wall clock changed after the device synchronized its time.",
+        "cn": "设备同步时间后，墙上时钟发生变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-101",
+    "word": "monotonic clock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "单调时钟，用于测量时间间隔且不会倒退的时钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use a monotonic clock to measure the duration.",
+        "cn": "用单调时钟测量持续时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-102",
+    "word": "clock offset",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时钟偏移，两套时钟在同一时刻的读数差"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure the clock offset before comparing the two logs.",
+        "cn": "比较两份日志前，先测量时钟偏移。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-103",
+    "word": "log capture",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日志采集"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Start the log capture before reproducing the issue.",
+        "cn": "复现问题前先开始采集日志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-104",
+    "word": "log rotation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日志轮转，按规则切换、归档或清理日志文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Log rotation removed an older file that covered the startup.",
+        "cn": "日志轮转清理了一份包含启动过程的旧文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-105",
+    "word": "log buffer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日志缓冲区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The log buffer filled before the team collected it.",
+        "cn": "团队采集日志前，日志缓冲区已经写满了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-106",
+    "word": "log gap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "日志缺口，一段时间缺少可用记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A log gap makes the first failure hard to verify.",
+        "cn": "日志缺口使最早的故障难以核实。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-107",
+    "word": "event timeline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "事件时间线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add the screen recording to the event timeline.",
+        "cn": "把屏幕录像的时间信息加入事件时间线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-108",
+    "word": "trace",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "跟踪记录，记录一段时间内的系统活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows when the render thread stopped running.",
+        "cn": "跟踪记录显示渲染线程何时停止运行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-109",
+    "word": "first failure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "最早的失效点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mark the first failure that the evidence supports.",
+        "cn": "标出证据能够支持的最早失效点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-110",
+    "word": "recovery path",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "恢复路径，故障后恢复功能所经过的步骤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify the recovery path after a failed connection.",
+        "cn": "连接失败后验证功能恢复的步骤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-111",
+    "word": "retry",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The client retries the request after the connection returns.",
+        "cn": "连接恢复后，客户端重新发出请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-112",
+    "word": "graceful degradation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "平稳降级，部分功能失败时保留可用能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team verified graceful degradation when an optional service stopped.",
+        "cn": "可选服务停止时，团队验证了系统能否保留其他可用功能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-113",
+    "word": "interface contract",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "接口约定，规定两侧输入、输出和异常行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The teams agreed on the interface contract before integration.",
+        "cn": "各团队在集成前达成了接口约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-114",
+    "word": "precondition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "前置条件，执行操作前必须满足的条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "List every precondition for the wakeup test.",
+        "cn": "列出唤醒测试的所有前置条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-115",
+    "word": "state transition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "状态转换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the state transition from standby to active.",
+        "cn": "记录从待机到运行的状态转换。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-116",
+    "word": "acknowledgment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "确认应答，表示消息已被接收或请求已被确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The controller sends an acknowledgment when it receives the request.",
+        "cn": "控制器收到请求后发出确认应答。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-117",
+    "word": "request",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the request time with the server log.",
+        "cn": "将请求时间与服务端日志进行对照。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-118",
+    "word": "response",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "响应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The response arrived after the client reported a timeout.",
+        "cn": "客户端报告超时后，响应才到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-119",
+    "word": "publish",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "发布消息，供订阅方接收"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The service publishes a status update when its state changes.",
+        "cn": "服务状态变化时会发布一条状态更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-120",
+    "word": "subscribe",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "订阅，登记接收指定消息或事件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The app subscribes to vehicle status updates.",
+        "cn": "应用订阅车辆状态更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-121",
+    "word": "end-to-end latency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "端到端时延，从指定输入到最终输出的耗时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure end-to-end latency from the tap to the visible response.",
+        "cn": "测量从触摸到可见响应的端到端时延。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-122",
+    "word": "benchmark",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "基准测试，用于衡量和比较性能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Run the same benchmark on both software versions.",
+        "cn": "在两个软件版本上运行相同的基准测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-123",
+    "word": "pass rate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "通过率，通过项目占已执行项目的比例"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Report the pass rate together with the number of tests run.",
+        "cn": "同时报告通过率和已执行测试数。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-124",
+    "word": "soak test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "长时间运行测试，用于观察随时间出现的问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Run a soak test to check for memory growth over time.",
+        "cn": "通过长时间运行测试检查内存占用是否持续增长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-125",
+    "word": "bench test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "台架测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Repeat the bench test after updating the software.",
+        "cn": "更新软件后重新执行台架测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "cockpit-126",
+    "word": "negative test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "反向测试，使用无效输入或异常条件验证处理行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The negative test checks how the service handles an invalid request.",
+        "cn": "反向测试检查服务如何处理无效请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

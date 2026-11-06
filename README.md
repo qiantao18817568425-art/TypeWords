@@ -23,19 +23,29 @@
   <b>Learn English, one keystroke at a time; smarter memorization, more efficient learning - an open-source word and article practice tool</b>
 </p>
 
-## 日常英语与座舱 TPM 英语版
+## 从零基础到座舱 TPM 英语
 
 [打开练习网站](https://qiantao18817568425-art.github.io/TypeWords/)
 
-此版本基于 [zyronon/TypeWords](https://github.com/zyronon/TypeWords) 的源码，保留项目的许可证和署名。内置两套带中文释义和双语例句的词库：
+此版本基于 [zyronon/TypeWords](https://github.com/zyronon/TypeWords)，保留项目许可证和署名。
+学习路线包含 8 本词库、759 条练习，每条附中文释义和双语例句。
 
-- 日常英语：70 条，覆盖问候、购物、点餐、出行、约时间和求助。
-- 座舱 TPM 英语：86 条，覆盖项目推进、分责升级、缺陷分析、座舱协作、验证和发布。
+| 顺序 | 词库 | 条目 | 练完后尝试做的事 |
+| --- | --- | ---: | --- |
+| 1 | 零基础核心 | 120 | 从人称、数字、时间和常用动作开始，练习用短句自我介绍和提问。 |
+| 2 | 生活场景词汇 | 108 | 认得家里、商店、餐厅、车站和就医时常见的词，能用简单英语表达基本需求。 |
+| 3 | 日常英语对话 | 70 | 练习问候、购物、点餐、出行、预约和礼貌求助时能直接说的短句。 |
+| 4 | 工作英语沟通 | 90 | 从读懂邮件和会议邀请开始，练习约时间、请求澄清、回复和跟进。 |
+| 5 | 座舱 TPM 入门 | 86 | 掌握项目推进、问题分诊、责任分配、跨团队协作和验收的基础术语。 |
+| 6 | TPM 项目与交付 | 110 | 练习需求、排期、供应商协作、风险、验证、版本管理和交付用语。 |
+| 7 | 座舱技术与诊断 | 125 | 练习描述座舱系统、软硬件接口、故障现象和取证动作。 |
+| 8 | TPM 闭环与汇报 | 50 | 用可直接复用的句型说清影响、证据、责任、下一步、风险和关闭标准。 |
+
+打开「单词 → 选择词典」，从 01 开始。有基础时可直接选择对应场景。先跟打并读出例句，再用默写复习。到 08 时，尝试用英文说明一个问题的影响、已有证据、责任域和下一步。
 
 学习记录保存在当前浏览器。换电脑时可通过设置导出和导入。
 
-用 Node.js 24 和 pnpm 安装锁定依赖后，设置环境变量 NUXT_APP_BASE_URL=/TypeWords/ 和 NITRO_PRESET=github-pages，执行 pnpm run generate。将 .output/public 发布到 GitHub Pages。
-
+用 Node.js 24 和 pnpm 安装锁定依赖后，设置环境变量 `NUXT_APP_BASE_URL=/TypeWords/` 和 `NITRO_PRESET=github-pages`，执行 `pnpm run generate`。将 `.output/public` 发布到 GitHub Pages。
 
 ## Project Introduction
 

@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "foundation-001",
+    "word": "I",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am here.",
+        "cn": "我在这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-002",
+    "word": "you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "你、你们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you ready?",
+        "cn": "你准备好了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-003",
+    "word": "he",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "他"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is my friend.",
+        "cn": "他是我的朋友。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-004",
+    "word": "she",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "她"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She is at home.",
+        "cn": "她在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-005",
+    "word": "it",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "它、这件事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It is a book.",
+        "cn": "它是一本书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-006",
+    "word": "we",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "我们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are ready.",
+        "cn": "我们准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-007",
+    "word": "they",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "他们、她们、它们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They are here.",
+        "cn": "他们在这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-008",
+    "word": "me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "我（宾格）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Come with me.",
+        "cn": "跟我来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-009",
+    "word": "my",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "我的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my bag.",
+        "cn": "这是我的包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-010",
+    "word": "your",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "你的、你们的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this your pen?",
+        "cn": "这是你的笔吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-011",
+    "word": "this",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "这个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is for you.",
+        "cn": "这是给你的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-012",
+    "word": "that",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "那个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That is my seat.",
+        "cn": "那是我的座位。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-013",
+    "word": "be",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "是、处于某种状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please be careful.",
+        "cn": "请小心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-014",
+    "word": "am",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "是（与 I 搭配）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am fine.",
+        "cn": "我很好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-015",
+    "word": "is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "是（与 he、she、it 或单数名词搭配）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She is busy.",
+        "cn": "她很忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-016",
+    "word": "are",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "是（与 you、we、they 或复数名词搭配）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are at home.",
+        "cn": "我们在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-017",
+    "word": "do",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "aux.",
+        "cn": "助动词，帮助构成问句"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you need water?",
+        "cn": "你需要水吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-018",
+    "word": "does",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "aux.",
+        "cn": "助动词，用于第三人称单数的问句"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does she live here?",
+        "cn": "她住在这里吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-019",
+    "word": "have",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "有"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a pen.",
+        "cn": "我有一支笔。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-020",
+    "word": "has",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "有（第三人称单数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He has a bike.",
+        "cn": "他有一辆自行车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-021",
+    "word": "can",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "modal",
+        "cn": "能、可以"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can help.",
+        "cn": "我能帮忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-022",
+    "word": "will",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "modal",
+        "cn": "将会、会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I will call you.",
+        "cn": "我会给你打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-023",
+    "word": "not",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "不、没有"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am not busy.",
+        "cn": "我不忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-024",
+    "word": "a",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "art.",
+        "cn": "一个，放在以辅音音素开头的单数可数名词前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a bag.",
+        "cn": "我有一个包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-025",
+    "word": "go",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "去、走"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go home at six.",
+        "cn": "我六点回家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-026",
+    "word": "come",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please come in.",
+        "cn": "请进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-027",
+    "word": "get",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拿到、去拿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can get some water.",
+        "cn": "我可以去拿点水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-028",
+    "word": "take",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拿、带走、乘坐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I take the bus to work.",
+        "cn": "我坐公交车上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-029",
+    "word": "give",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "给"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Give me a minute, please.",
+        "cn": "请给我一分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-030",
+    "word": "want",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want a cup of tea.",
+        "cn": "我想要一杯茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-031",
+    "word": "need",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "需要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need your help.",
+        "cn": "我需要你的帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-032",
+    "word": "like",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "喜欢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like this song.",
+        "cn": "我喜欢这首歌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-033",
+    "word": "know",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "知道、认识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I know her name.",
+        "cn": "我知道她的名字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-034",
+    "word": "see",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "看见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can see the door.",
+        "cn": "我能看到门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-035",
+    "word": "say",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "说"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do you say this in English?",
+        "cn": "这个用英语怎么说？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-036",
+    "word": "help",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can help you.",
+        "cn": "我可以帮你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-037",
+    "word": "name",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My name is Sam.",
+        "cn": "我叫萨姆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-038",
+    "word": "friend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "朋友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my friend Amy.",
+        "cn": "这是我的朋友艾米。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-039",
+    "word": "home",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are at home.",
+        "cn": "我们在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-040",
+    "word": "work",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工作、工作场所"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go to work at eight.",
+        "cn": "我八点去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-041",
+    "word": "room",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This room is small.",
+        "cn": "这个房间很小。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-042",
+    "word": "door",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please close the door.",
+        "cn": "请把门关上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-043",
+    "word": "bag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "包、袋子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My bag is here.",
+        "cn": "我的包在这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-044",
+    "word": "phone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电话、手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My phone is on the table.",
+        "cn": "我的手机在桌上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-045",
+    "word": "book",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a book.",
+        "cn": "我有一本书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-046",
+    "word": "water",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need some water.",
+        "cn": "我需要一点水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-047",
+    "word": "food",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "食物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The food is good.",
+        "cn": "这食物很好吃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-048",
+    "word": "money",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I don't have any money with me.",
+        "cn": "我没带钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-049",
+    "word": "good",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is a good idea.",
+        "cn": "这是个好主意。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-050",
+    "word": "bad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "坏的、不好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The weather is bad today.",
+        "cn": "今天天气不好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-051",
+    "word": "big",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That is a big bus.",
+        "cn": "那是一辆大巴士。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-052",
+    "word": "small",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My bag is small.",
+        "cn": "我的包很小。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-053",
+    "word": "new",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "新的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my new phone.",
+        "cn": "这是我的新手机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-054",
+    "word": "old",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "旧的、老的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This book is old.",
+        "cn": "这本书很旧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-055",
+    "word": "hot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "热的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tea is hot.",
+        "cn": "茶很烫。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-056",
+    "word": "cold",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The water is cold.",
+        "cn": "水很凉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-057",
+    "word": "easy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "容易的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This word is easy.",
+        "cn": "这个单词很简单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-058",
+    "word": "hard",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "难的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This question is hard.",
+        "cn": "这个问题很难。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-059",
+    "word": "busy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "忙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am busy now.",
+        "cn": "我现在很忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-060",
+    "word": "ready",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "准备好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are ready to go.",
+        "cn": "我们准备好出发了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-061",
+    "word": "zero",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "零"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The score is zero.",
+        "cn": "分数是零。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-062",
+    "word": "one",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have one question.",
+        "cn": "我有一个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-063",
+    "word": "two",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need two tickets.",
+        "cn": "我需要两张票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-064",
+    "word": "three",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "三"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have three chairs.",
+        "cn": "我们有三把椅子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-065",
+    "word": "four",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "四"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There are four of us.",
+        "cn": "我们有四个人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-066",
+    "word": "five",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "五"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please wait five minutes.",
+        "cn": "请等五分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-067",
+    "word": "six",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "六"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dinner is at six.",
+        "cn": "晚饭是六点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-068",
+    "word": "seven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "七"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I get up at seven.",
+        "cn": "我七点起床。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-069",
+    "word": "eight",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "八"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We meet at eight.",
+        "cn": "我们八点见面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-070",
+    "word": "nine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "九"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shop opens at nine.",
+        "cn": "商店九点开门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-071",
+    "word": "ten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "十"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It costs ten dollars.",
+        "cn": "它卖十美元。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-072",
+    "word": "twenty",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "二十"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bus ride takes twenty minutes.",
+        "cn": "坐公交车需要二十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-073",
+    "word": "now",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "现在"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need it now.",
+        "cn": "我现在就需要它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-074",
+    "word": "today",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "今天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I work today.",
+        "cn": "我今天上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-075",
+    "word": "tomorrow",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "明天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "See you tomorrow.",
+        "cn": "明天见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-076",
+    "word": "yesterday",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "昨天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was at home yesterday.",
+        "cn": "我昨天在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-077",
+    "word": "morning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "早晨、上午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I work in the morning.",
+        "cn": "我上午工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-078",
+    "word": "afternoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "下午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's meet this afternoon.",
+        "cn": "我们今天下午见吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-079",
+    "word": "evening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "傍晚、晚上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I read in the evening.",
+        "cn": "我晚上看书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-080",
+    "word": "night",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夜晚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I sleep at night.",
+        "cn": "我晚上睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-081",
+    "word": "day",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "天、白天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have a nice day!",
+        "cn": "祝你今天愉快！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-082",
+    "word": "week",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星期、周"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "See you next week.",
+        "cn": "下周见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-083",
+    "word": "minute",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "分钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait a minute, please.",
+        "cn": "请等一分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-084",
+    "word": "hour",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll be there in an hour.",
+        "cn": "我一小时后到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-085",
+    "word": "what",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is this?",
+        "cn": "这是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-086",
+    "word": "who",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "谁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who is she?",
+        "cn": "她是谁？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-087",
+    "word": "where",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在哪里、去哪儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is my bag?",
+        "cn": "我的包在哪儿？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-088",
+    "word": "when",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "什么时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When do we eat?",
+        "cn": "我们什么时候吃饭？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-089",
+    "word": "why",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "为什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Why are you sad?",
+        "cn": "你为什么难过？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-090",
+    "word": "how",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "怎样、如何"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How are you?",
+        "cn": "你好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-091",
+    "word": "which",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "哪一个、哪一些"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which bus goes downtown?",
+        "cn": "哪路公交车去市中心？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-092",
+    "word": "whose",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "谁的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Whose phone is this?",
+        "cn": "这是谁的手机？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-093",
+    "word": "how many",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "多少（问可数名词的数量）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How many people are here?",
+        "cn": "这里有多少人？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-094",
+    "word": "how much",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "多少钱、多少（问价格或不可数名词的量）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much does it cost?",
+        "cn": "这个多少钱？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-095",
+    "word": "what time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "几点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time does the bus leave?",
+        "cn": "公交车几点发车？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-096",
+    "word": "how long",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "多长时间、多久"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How long does it take?",
+        "cn": "这需要多长时间？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-097",
+    "word": "and",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "和、并且"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like tea and coffee.",
+        "cn": "我喜欢茶和咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-098",
+    "word": "or",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "或、还是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want tea or coffee?",
+        "cn": "你想喝茶还是咖啡？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-099",
+    "word": "but",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "但是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like it, but it's too big.",
+        "cn": "我喜欢它，但它太大了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-100",
+    "word": "because",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "因为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm late because I missed the bus.",
+        "cn": "我迟到了，因为我没赶上公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-101",
+    "word": "so",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "所以"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's cold, so I need a coat.",
+        "cn": "天冷，所以我需要一件外套。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-102",
+    "word": "in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……里面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My keys are in my bag.",
+        "cn": "我的钥匙在包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-103",
+    "word": "on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……上面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The book is on the table.",
+        "cn": "书在桌上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-104",
+    "word": "at",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在（某地点或时刻）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am at the station.",
+        "cn": "我在车站。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-105",
+    "word": "to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "去、到、向"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I walk to school.",
+        "cn": "我走路去学校。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-106",
+    "word": "from",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "来自、从……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am from China.",
+        "cn": "我来自中国。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-107",
+    "word": "with",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "和……一起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Come with us.",
+        "cn": "跟我们一起来吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-108",
+    "word": "the",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "art.",
+        "cn": "这、那，用于特指的事物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please open the door.",
+        "cn": "请把门打开。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-109",
+    "word": "hello",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "interj.",
+        "cn": "你好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hello, my name is Sam.",
+        "cn": "你好，我叫萨姆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-110",
+    "word": "yes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "interj.",
+        "cn": "是的、好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Yes, I can help.",
+        "cn": "好，我能帮忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-111",
+    "word": "no",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "interj.",
+        "cn": "不、不用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "No, thank you.",
+        "cn": "不用了，谢谢。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-112",
+    "word": "please",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "请、麻烦"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please sit here.",
+        "cn": "请坐这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-113",
+    "word": "thank you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "谢谢你"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank you for your help.",
+        "cn": "谢谢你的帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-114",
+    "word": "you're welcome",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "不客气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You're welcome. I'm glad I could help.",
+        "cn": "不客气。很高兴能帮上忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-115",
+    "word": "I'm sorry",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "对不起、抱歉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm sorry I'm late.",
+        "cn": "抱歉，我迟到了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-116",
+    "word": "see you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "再见、回头见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "See you after work.",
+        "cn": "下班后见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-117",
+    "word": "I don't know",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我不知道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I don't know the answer.",
+        "cn": "我不知道答案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-118",
+    "word": "I don't understand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我没听懂、我不明白"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I don't understand this word.",
+        "cn": "我不明白这个词的意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-119",
+    "word": "can I have",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "可以给我……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have some water, please?",
+        "cn": "可以给我一点水吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "foundation-120",
+    "word": "one more time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "再来一次、再说一遍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you say it one more time?",
+        "cn": "你能再说一遍吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
