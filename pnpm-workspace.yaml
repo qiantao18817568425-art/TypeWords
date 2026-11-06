@@ -1,0 +1,8 @@
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  sharp: true
+
+# Local install: nuxt.config.ts imports this locked transitive dependency.
+publicHoistPattern:
+  - pathe

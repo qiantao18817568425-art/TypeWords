@@ -1,0 +1,62 @@
+[
+  {
+    "id": 10001,
+    "enName": "daily-english",
+    "name": "日常英语",
+    "description": "从问候聊天到出行、点餐和预约，练习开口就能用的表达。",
+    "categoryId": 10001,
+    "url": "daily-english.json",
+    "length": 70,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "日常交流",
+    "tags": [
+      "问候与闲聊",
+      "购物与付款",
+      "餐饮与点单",
+      "出行与问路",
+      "约时间与改期",
+      "求助与澄清",
+      "礼貌请求与回应"
+    ]
+  },
+  {
+    "id": 10002,
+    "enName": "tpm-english",
+    "name": "座舱 TPM 英语",
+    "description": "练习项目推进、缺陷分诊、跨域协作、验证交付和项目沟通。",
+    "categoryId": 10002,
+    "url": "tpm-english.json",
+    "length": 86,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "职场英语",
+    "tags": [
+      "排期与里程碑",
+      "分责与升级",
+      "缺陷分诊与根因",
+      "座舱与跨域",
+      "验证与验收",
+      "发布与质量",
+      "沟通与协作"
+    ]
+  }
+]

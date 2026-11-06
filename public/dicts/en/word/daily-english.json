@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "daily-001",
+    "word": "good morning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "早上好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Good morning, did you sleep well?",
+        "cn": "早上好，你睡得好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-002",
+    "word": "how's it going",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "最近怎么样"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How's it going at your new job?",
+        "cn": "新工作做得怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-003",
+    "word": "good to see you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "见到你真好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's good to see you again.",
+        "cn": "又见到你真好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-004",
+    "word": "how have you been",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你近来过得怎么样"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How have you been since we last met?",
+        "cn": "上次见面后，你过得怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-005",
+    "word": "what have you been up to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你最近在忙什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What have you been up to lately?",
+        "cn": "你最近在忙些什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-006",
+    "word": "not much",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "没什么特别的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Not much. I just stayed home and read a book.",
+        "cn": "没什么特别的。我就在家看了本书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-007",
+    "word": "weekend plans",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "周末安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have any weekend plans?",
+        "cn": "你周末有什么安排吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-008",
+    "word": "hang out",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "一起玩、一起待一会儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want to hang out after work?",
+        "cn": "下班后要不要一起出去玩？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-009",
+    "word": "catch up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "叙旧、聊聊近况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's catch up over coffee sometime.",
+        "cn": "改天一起喝杯咖啡，聊聊近况吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-010",
+    "word": "take care",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "保重、照顾好自己"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take care, and I'll see you next week.",
+        "cn": "保重，下周见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-011",
+    "word": "how much is this",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "这个多少钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is this jacket?",
+        "cn": "这件夹克多少钱？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-012",
+    "word": "try it on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "试穿一下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I try it on before I buy it?",
+        "cn": "我买之前可以试穿一下吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-013",
+    "word": "fitting room",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "试衣间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where's the fitting room?",
+        "cn": "试衣间在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-014",
+    "word": "in stock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "有货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this shirt in stock in a medium?",
+        "cn": "这件衬衫还有 M 码吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-015",
+    "word": "on sale",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "打折、特价"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These shoes are on sale this week.",
+        "cn": "这双鞋本周打折。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-016",
+    "word": "pay by card",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "刷卡付款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I pay by card here?",
+        "cn": "这里可以刷卡吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-017",
+    "word": "receipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收据、小票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I get a receipt, please?",
+        "cn": "可以给我一张小票吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-018",
+    "word": "refund",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "退款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a refund if I bring the receipt?",
+        "cn": "我带小票来可以退款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-019",
+    "word": "exchange",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "换货、更换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I exchange this for a larger size?",
+        "cn": "我可以把这件换成大一码的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-020",
+    "word": "just looking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "随便看看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks, I'm just looking for now.",
+        "cn": "谢谢，我先随便看看。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-021",
+    "word": "a table for two",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "两人桌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we get a table for two, please?",
+        "cn": "可以给我们安排一张两人桌吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-022",
+    "word": "menu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "菜单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we see the menu, please?",
+        "cn": "可以给我们看看菜单吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-023",
+    "word": "what do you recommend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你推荐什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What do you recommend for someone who likes spicy food?",
+        "cn": "如果喜欢吃辣，你推荐什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-024",
+    "word": "I'd like",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like the chicken sandwich, please.",
+        "cn": "我想要一份鸡肉三明治。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-025",
+    "word": "for here",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "堂食、在店里吃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is that for here or to go?",
+        "cn": "您是在这儿吃还是带走？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-026",
+    "word": "to go",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "外带、打包带走"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I get that coffee to go?",
+        "cn": "那杯咖啡可以外带吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-027",
+    "word": "allergic to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "对……过敏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm allergic to peanuts. Does this dish contain any?",
+        "cn": "我对花生过敏。这道菜里有花生吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-028",
+    "word": "on the side",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "另放、单独装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I get the dressing on the side?",
+        "cn": "沙拉酱可以单独放吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-029",
+    "word": "split the bill",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "分摊账单、AA 制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want to split the bill?",
+        "cn": "我们要不要分摊账单？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-030",
+    "word": "the check, please",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "麻烦买单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The check, please. We're ready to pay.",
+        "cn": "麻烦买单。我们准备结账了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-031",
+    "word": "how do I get to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我怎么去……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I get to the train station from here?",
+        "cn": "从这里怎么去火车站？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-032",
+    "word": "straight ahead",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "一直往前、正前方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The entrance is straight ahead.",
+        "cn": "入口就在正前方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-033",
+    "word": "turn left",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "向左转"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn left at the next traffic light.",
+        "cn": "在下一个红绿灯处左转。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-034",
+    "word": "within walking distance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "步行可达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is the hotel within walking distance of the station?",
+        "cn": "从车站能走到这家酒店吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-035",
+    "word": "bus stop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公交车站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a bus stop near here?",
+        "cn": "这附近有公交车站吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-036",
+    "word": "fare",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "票价、车费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is the fare to the airport?",
+        "cn": "去机场的车费是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-037",
+    "word": "get off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "下车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which stop should I get off at?",
+        "cn": "我应该在哪一站下车？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-038",
+    "word": "transfer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "换乘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need to transfer at Central Station?",
+        "cn": "我需要在中央车站换乘吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-039",
+    "word": "platform",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "站台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which platform does the train leave from?",
+        "cn": "这趟火车从哪个站台出发？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-040",
+    "word": "one-way ticket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "单程票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a one-way ticket to the city center.",
+        "cn": "我想买一张到市中心的单程票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-041",
+    "word": "are you free",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你有空吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you free on Saturday afternoon?",
+        "cn": "你周六下午有空吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-042",
+    "word": "works for me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我没问题、这个时间我可以"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Six o'clock works for me.",
+        "cn": "六点我可以。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-043",
+    "word": "what time suits you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "什么时间适合你"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What time suits you best on Friday?",
+        "cn": "周五几点对你最方便？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-044",
+    "word": "make an appointment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to make an appointment for a haircut.",
+        "cn": "我想预约剪头发。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-045",
+    "word": "reschedule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "改期、重新安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we reschedule our lunch for next week?",
+        "cn": "我们的午饭约会能改到下周吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-046",
+    "word": "rain check",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "下次再约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I take a rain check on dinner tonight?",
+        "cn": "今晚的晚饭我们能改天再约吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-047",
+    "word": "running late",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "要迟到了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, I'm running late. I'll be there in ten minutes.",
+        "cn": "不好意思，我要迟到了。十分钟后到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-048",
+    "word": "on my way",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在路上了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm on my way to the cafe now.",
+        "cn": "我已经在去咖啡馆的路上了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-049",
+    "word": "see you there",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "到时在那儿见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's meet at the front entrance. See you there!",
+        "cn": "我们在正门见。到时候见！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-050",
+    "word": "let me know",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "告诉我一声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me know if your plans change.",
+        "cn": "如果你的安排有变，告诉我一声。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-051",
+    "word": "could you help me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你能帮我一下吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you help me find my seat?",
+        "cn": "你能帮我找一下我的座位吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-052",
+    "word": "give me a hand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "帮我一把"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you give me a hand with this suitcase?",
+        "cn": "你能帮我搬一下这个行李箱吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-053",
+    "word": "say that again",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "把刚才的话再说一遍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you say that again, please?",
+        "cn": "能请你再说一遍吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-054",
+    "word": "speak more slowly",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "说慢一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you speak more slowly, please?",
+        "cn": "能请你说慢一点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-055",
+    "word": "what do you mean",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你是什么意思"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What do you mean by the back entrance?",
+        "cn": "你说的后门是指哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-056",
+    "word": "how do you spell",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "……怎么拼写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do you spell your last name?",
+        "cn": "你的姓怎么拼写？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-057",
+    "word": "write it down",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "把它写下来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you write it down for me?",
+        "cn": "可以帮我写下来吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-058",
+    "word": "I'm not sure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我不确定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm not sure which bus to take.",
+        "cn": "我不确定该坐哪路公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-059",
+    "word": "lost and found",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "失物招领处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a lost and found at the station?",
+        "cn": "车站有失物招领处吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-060",
+    "word": "look for",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "寻找"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll look for your keys in the car.",
+        "cn": "我去车里找找你的钥匙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-061",
+    "word": "excuse me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "打扰一下、借过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Excuse me, is this seat taken?",
+        "cn": "打扰一下，请问这个座位有人吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-062",
+    "word": "could I borrow",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我可以借……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I borrow your pen for a minute?",
+        "cn": "我可以借你的笔用一下吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-063",
+    "word": "would you mind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你介意……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you mind closing the window?",
+        "cn": "你介意把窗户关一下吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-064",
+    "word": "could you please",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "可以请你……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you please turn down the music?",
+        "cn": "可以请你把音乐声音调小一点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-065",
+    "word": "go ahead",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "请便、你先来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Go ahead and order. I need another minute.",
+        "cn": "你先点吧。我还要再看一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-066",
+    "word": "of course",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "当然、没问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Of course, you can sit here.",
+        "cn": "当然可以，你可以坐这儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-067",
+    "word": "no worries",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "没事、别担心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "No worries. We still have plenty of time.",
+        "cn": "没事，我们还有很多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-068",
+    "word": "I appreciate it",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我很感激、太谢谢了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for waiting. I appreciate it.",
+        "cn": "谢谢你等我。我很感激。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-069",
+    "word": "sorry to keep you waiting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "抱歉让你久等了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry to keep you waiting. Your table is ready now.",
+        "cn": "抱歉让您久等了。您的座位准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "daily-070",
+    "word": "that sounds good",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "听起来不错、好呀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That sounds good. Let's meet at noon.",
+        "cn": "好呀，那就中午见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
