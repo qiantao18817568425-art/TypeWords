@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "office-001",
+    "word": "subject line",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邮件主题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the request in the subject line.",
+        "cn": "把请求写进邮件主题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-002",
+    "word": "inbox",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收件箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The message is in my inbox.",
+        "cn": "邮件在我的收件箱里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-003",
+    "word": "draft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草稿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I saved a draft of the email.",
+        "cn": "我保存了邮件草稿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-004",
+    "word": "reply",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please reply by tomorrow.",
+        "cn": "请在明天之前回复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-005",
+    "word": "reply all",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "回复全部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use reply all if everyone needs the answer.",
+        "cn": "如果所有人都需要知道答案，就选择回复全部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-006",
+    "word": "forward",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "转发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you forward that message to me?",
+        "cn": "你能把那条消息转发给我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-007",
+    "word": "attachment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "附件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The attachment contains the agenda.",
+        "cn": "附件里有会议议程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-008",
+    "word": "attach",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "附上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I will attach the document to my email.",
+        "cn": "我会在邮件里附上这份文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-009",
+    "word": "copy someone in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "抄送某人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please copy me in on the email.",
+        "cn": "请在邮件里抄送我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-010",
+    "word": "recipient",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收件人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the recipient before you send the email.",
+        "cn": "发送邮件前核对收件人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-011",
+    "word": "acknowledge receipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "确认收到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please acknowledge receipt of the document.",
+        "cn": "请确认收到文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-012",
+    "word": "reminder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "提醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I sent a reminder this morning.",
+        "cn": "我今天上午发了一条提醒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-013",
+    "word": "contact details",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "联系方式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you share your contact details?",
+        "cn": "你能提供一下联系方式吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-014",
+    "word": "typo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "打字错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There is a typo in the file name.",
+        "cn": "文件名里有个打字错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-015",
+    "word": "for your reference",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "供你参考"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have attached the notes for your reference.",
+        "cn": "我附上了笔记供你参考。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-016",
+    "word": "invite",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I will invite the test team to the meeting.",
+        "cn": "我会邀请测试团队参会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-017",
+    "word": "calendar invite",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "会议日历邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you receive the calendar invite?",
+        "cn": "你收到会议日历邀请了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-018",
+    "word": "agenda",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "会议议程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's review the agenda first.",
+        "cn": "我们先看一下议程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-019",
+    "word": "attendee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "参会者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Each attendee can add a comment.",
+        "cn": "每位参会者都可以添加一条评论。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-020",
+    "word": "time zone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which time zone are you in?",
+        "cn": "你在哪个时区？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-021",
+    "word": "time slot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is the afternoon time slot available?",
+        "cn": "下午的时段有空吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-022",
+    "word": "join the call",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "加入通话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll join the call in two minutes.",
+        "cn": "我两分钟后加入通话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-023",
+    "word": "on mute",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "处于静音状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I think you're on mute.",
+        "cn": "我想你的麦克风静音了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-024",
+    "word": "unmute",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "取消静音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please unmute before you speak.",
+        "cn": "发言前请取消静音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-025",
+    "word": "share my screen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "共享我的屏幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me share my screen.",
+        "cn": "我来共享屏幕。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-026",
+    "word": "switch to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "切换到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's switch to the next slide.",
+        "cn": "我们切到下一张幻灯片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-027",
+    "word": "speak up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "说大声一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you speak up a little?",
+        "cn": "你能稍微大声一点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-028",
+    "word": "cut out",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "声音断断续续"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your audio keeps cutting out.",
+        "cn": "你的声音一直断断续续。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-029",
+    "word": "over to you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "接下来请你讲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's my part. Over to you.",
+        "cn": "我的部分讲完了，接下来请你讲。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-030",
+    "word": "wrap up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "结束、收尾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's wrap up in five minutes.",
+        "cn": "我们五分钟后结束吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-031",
+    "word": "clarify",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "澄清，说明清楚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you clarify your request?",
+        "cn": "你能把请求再说明一下吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-032",
+    "word": "confirm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you confirm the meeting time?",
+        "cn": "你能确认一下会议时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-033",
+    "word": "in other words",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "换句话说"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In other words, we need one more day.",
+        "cn": "换句话说，我们还需要一天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-034",
+    "word": "as far as I know",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "据我所知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "As far as I know, the file is ready.",
+        "cn": "据我所知，文件已经准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-035",
+    "word": "if I understand correctly",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "如果我理解得对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "If I understand correctly, we start on Monday.",
+        "cn": "如果我理解得对，我们周一开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-036",
+    "word": "point out",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "指出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for pointing out the difference.",
+        "cn": "谢谢你指出这个区别。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-037",
+    "word": "go over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "过一遍，查看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we go over the notes together?",
+        "cn": "我们能一起过一遍笔记吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-038",
+    "word": "get back to you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "稍后给你答复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll check and get back to you.",
+        "cn": "我查一下再给你答复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-039",
+    "word": "take a look",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "看一下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you take a look at this chart?",
+        "cn": "你能看一下这张图吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-040",
+    "word": "give an example",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "举个例子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you give an example?",
+        "cn": "你能举个例子吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-041",
+    "word": "make sense",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "说得通，容易理解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does this explanation make sense?",
+        "cn": "这个解释好理解吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-042",
+    "word": "agree on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "就某事达成一致"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we agree on a time to meet?",
+        "cn": "我们能定一个见面时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-043",
+    "word": "be specific",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "说具体一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please be specific about what you need.",
+        "cn": "请具体说一下你需要什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-044",
+    "word": "for now",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "目前，暂时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's use the same file for now.",
+        "cn": "我们暂时用同一个文件吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-045",
+    "word": "bring up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "提出某个话题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to bring up one more point.",
+        "cn": "我想再提一点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-046",
+    "word": "availability",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "有空的时间，可用性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you share your availability for next week?",
+        "cn": "你能说一下你下周什么时候有空吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-047",
+    "word": "move up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "提前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we move up the call to nine?",
+        "cn": "我们能把通话提前到九点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-048",
+    "word": "push back",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "推迟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to push back the meeting by an hour.",
+        "cn": "我们需要把会议推迟一小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-049",
+    "word": "postpone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "推迟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's postpone the workshop until next week.",
+        "cn": "我们把研讨会推迟到下周吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-050",
+    "word": "tentative",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "暂定的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Friday is a tentative date.",
+        "cn": "周五是暂定日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-051",
+    "word": "by end of day",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在今天结束前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please send the draft by end of day.",
+        "cn": "请在今天结束前发来草稿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-052",
+    "word": "in advance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "提前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please send the questions in advance.",
+        "cn": "请提前发来问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-053",
+    "word": "out of office",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "不在办公室，休假"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll be out of office on Thursday.",
+        "cn": "我周四不在办公室。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-054",
+    "word": "conflict",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冲突"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a conflict at three.",
+        "cn": "我三点有其他安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-055",
+    "word": "overlap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重叠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The two meetings overlap by ten minutes.",
+        "cn": "这两场会议的时间重叠了十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-056",
+    "word": "make time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "抽出时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can make time after lunch.",
+        "cn": "我午饭后可以抽空。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-057",
+    "word": "pencil in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "暂时安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's pencil in Tuesday morning.",
+        "cn": "我们暂定周二上午吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-058",
+    "word": "cancel the meeting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "取消会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Should we cancel the meeting today?",
+        "cn": "我们要取消今天的会议吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-059",
+    "word": "hold a slot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "保留一个时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you hold a slot for us tomorrow?",
+        "cn": "你能给我们留出明天的一个时段吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-060",
+    "word": "at short notice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在很短的通知时间内"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for joining at short notice.",
+        "cn": "谢谢你在这么短的通知时间内参会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-061",
+    "word": "document",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文档"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The document is ready to review.",
+        "cn": "文档已准备好，可以审阅。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-062",
+    "word": "folder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件夹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Save the photos in this folder.",
+        "cn": "把照片保存到这个文件夹里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-063",
+    "word": "file name",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please use a clear file name.",
+        "cn": "请使用清楚易懂的文件名。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-064",
+    "word": "file format",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文件格式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which file format do you need?",
+        "cn": "你需要哪种文件格式？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-065",
+    "word": "shared link",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "共享链接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shared link works for me.",
+        "cn": "我能打开这个共享链接。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-066",
+    "word": "download",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "下载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Download the file before the meeting.",
+        "cn": "开会前下载这个文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-067",
+    "word": "upload",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "上传"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please upload the photos to the shared folder.",
+        "cn": "请把照片上传到共享文件夹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-068",
+    "word": "screenshot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "截图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you send a screenshot?",
+        "cn": "你能发一张截图吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-069",
+    "word": "spreadsheet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电子表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I added a row to the spreadsheet.",
+        "cn": "我在电子表格中加了一行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-070",
+    "word": "slide",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "幻灯片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This slide shows the main points.",
+        "cn": "这张幻灯片展示了要点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-071",
+    "word": "highlight",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "突出显示，标出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please highlight the parts you changed.",
+        "cn": "请标出你修改的部分。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-072",
+    "word": "label",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "标记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Label each photo with the date.",
+        "cn": "给每张照片标上日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-073",
+    "word": "access",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "访问权限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need access to the shared folder.",
+        "cn": "我需要这个共享文件夹的访问权限。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-074",
+    "word": "read-only",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "只读的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is a read-only copy of the file.",
+        "cn": "这是该文件的只读副本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-075",
+    "word": "keep a copy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "保留一份副本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please keep a copy for your records.",
+        "cn": "请保留一份副本存档。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-076",
+    "word": "feedback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "反馈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for your feedback on the draft.",
+        "cn": "谢谢你对草稿的反馈。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-077",
+    "word": "suggest",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "建议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I suggest we start with a short call.",
+        "cn": "我建议先开一个简短的电话会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-078",
+    "word": "option",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "选项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which option works best for you?",
+        "cn": "哪个选项最适合你？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-079",
+    "word": "prefer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "更喜欢，更倾向于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I prefer a written reply.",
+        "cn": "我更希望收到书面回复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-080",
+    "word": "review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "审阅，查看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you review this page today?",
+        "cn": "你今天能审阅一下这一页吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-081",
+    "word": "approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need your approval before we send it.",
+        "cn": "我们发送之前需要你的批准。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-082",
+    "word": "revision",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "修订，修订版"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I sent the latest revision this morning.",
+        "cn": "我今天上午发了最新修订版。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-083",
+    "word": "summary",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摘要，要点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send a short summary after the call.",
+        "cn": "通话后我会发一份简短总结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-084",
+    "word": "key point",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "要点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's start with the key point.",
+        "cn": "我们先说重点吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-085",
+    "word": "check in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "问一下近况，了解进展"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll check in with you tomorrow.",
+        "cn": "我明天会和你确认一下进展。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-086",
+    "word": "keep me posted",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "有进展请随时告诉我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please keep me posted if anything changes.",
+        "cn": "如果有变化，请随时告诉我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-087",
+    "word": "take a note",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "记一笔，记下来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll take a note of that question.",
+        "cn": "我会把这个问题记下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-088",
+    "word": "pending",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "待处理，待定的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Two replies are still pending.",
+        "cn": "还有两条回复没收到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-089",
+    "word": "resolve",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "解决"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can resolve this over a short call.",
+        "cn": "我们可以开个简短的电话会来解决这件事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "office-090",
+    "word": "thank you for your time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "感谢你抽出时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank you for your time today.",
+        "cn": "感谢你今天抽出时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,2810 @@
+[
+  {
+    "id": "everyday-001",
+    "word": "family",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家庭、家人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My family lives near here.",
+        "cn": "我家人住在这附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-002",
+    "word": "mother",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "母亲、妈妈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My mother likes tea.",
+        "cn": "我妈妈喜欢喝茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-003",
+    "word": "father",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "父亲、爸爸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My father is at home.",
+        "cn": "我爸爸在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-004",
+    "word": "sister",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "姐姐、妹妹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My sister has a cat.",
+        "cn": "我姐姐养了一只猫。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-005",
+    "word": "brother",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "哥哥、弟弟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My brother is ten years old.",
+        "cn": "我弟弟十岁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-006",
+    "word": "parents",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. pl.",
+        "cn": "父母"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live with my parents.",
+        "cn": "我和父母一起住。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-007",
+    "word": "child",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "孩子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The child is asleep.",
+        "cn": "那个孩子睡着了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-008",
+    "word": "son",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "儿子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Their son is in school.",
+        "cn": "他们的儿子在上学。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-009",
+    "word": "daughter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our daughter likes to draw.",
+        "cn": "我们的女儿喜欢画画。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-010",
+    "word": "neighbor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our neighbor is very kind.",
+        "cn": "我们的邻居人很好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-011",
+    "word": "pet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宠物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have a pet?",
+        "cn": "你养宠物吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-012",
+    "word": "live together",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "一起住、共同生活"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We live together in a small house.",
+        "cn": "我们一起住在一栋小房子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-013",
+    "word": "house",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My house is near the park.",
+        "cn": "我家在公园附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-014",
+    "word": "apartment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公寓、一套住宅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They live in a small apartment.",
+        "cn": "他们住在一套小公寓里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-015",
+    "word": "kitchen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "厨房"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cups are in the kitchen.",
+        "cn": "杯子在厨房里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-016",
+    "word": "bathroom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "浴室、卫生间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bathroom is upstairs.",
+        "cn": "卫生间在楼上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-017",
+    "word": "bed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cat is on my bed.",
+        "cn": "猫在我的床上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-018",
+    "word": "chair",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "椅子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is this chair free?",
+        "cn": "这把椅子有人坐吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-019",
+    "word": "table",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put your keys on the table.",
+        "cn": "把钥匙放在桌上吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-020",
+    "word": "window",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "窗户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please open the window.",
+        "cn": "请打开窗户。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-021",
+    "word": "key",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "钥匙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't find my key.",
+        "cn": "我找不到钥匙了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-022",
+    "word": "light",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "灯、光"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The light is still on.",
+        "cn": "灯还亮着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-023",
+    "word": "fridge",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The milk is in the fridge.",
+        "cn": "牛奶在冰箱里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-024",
+    "word": "towel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "毛巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a clean towel in the bathroom.",
+        "cn": "卫生间里有一条干净毛巾。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-025",
+    "word": "wake up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "醒来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I usually wake up at six.",
+        "cn": "我通常六点醒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-026",
+    "word": "get up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "起床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I get up at seven.",
+        "cn": "我七点起床。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-027",
+    "word": "brush my teeth",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "刷牙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I brush my teeth after breakfast.",
+        "cn": "我早饭后刷牙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-028",
+    "word": "get dressed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "穿好衣服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I get dressed before breakfast.",
+        "cn": "我吃早饭前穿好衣服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-029",
+    "word": "leave home",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "出门、离家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I leave home at eight.",
+        "cn": "我八点出门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-030",
+    "word": "go to work",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "去上班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go to work by bus.",
+        "cn": "我坐公交车去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-031",
+    "word": "take a break",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "休息一下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's take a break.",
+        "cn": "我们休息一下吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-032",
+    "word": "go home",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "回家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go home after work.",
+        "cn": "我下班后回家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-033",
+    "word": "cook dinner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "做晚饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I cook dinner on Sundays.",
+        "cn": "我周日做晚饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-034",
+    "word": "do the dishes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "洗碗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll do the dishes tonight.",
+        "cn": "今晚我来洗碗。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-035",
+    "word": "take a shower",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "洗澡、淋浴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I take a shower after I run.",
+        "cn": "我跑步后洗个澡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-036",
+    "word": "go to bed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "上床睡觉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I go to bed at eleven.",
+        "cn": "我十一点上床睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-037",
+    "word": "breakfast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's for breakfast?",
+        "cn": "早餐吃什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-038",
+    "word": "lunch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have lunch at noon.",
+        "cn": "我中午十二点吃午饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-039",
+    "word": "dinner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "晚餐、正餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dinner is ready.",
+        "cn": "晚饭做好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-040",
+    "word": "rice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "米、米饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like some rice?",
+        "cn": "你要来点米饭吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-041",
+    "word": "bread",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need some bread.",
+        "cn": "我们需要买点面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-042",
+    "word": "egg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡蛋、蛋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I had an egg for breakfast.",
+        "cn": "我早餐吃了一个鸡蛋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-043",
+    "word": "chicken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡肉、鸡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We had chicken for dinner.",
+        "cn": "我们晚饭吃了鸡肉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-044",
+    "word": "fruit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I eat fruit every day.",
+        "cn": "我每天都吃水果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-045",
+    "word": "vegetables",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. pl.",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These vegetables are fresh.",
+        "cn": "这些蔬菜很新鲜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-046",
+    "word": "tea",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "茶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like a cup of tea.",
+        "cn": "我想要一杯茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-047",
+    "word": "coffee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I drink coffee in the morning.",
+        "cn": "我早上喝咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-048",
+    "word": "milk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you take milk in your tea?",
+        "cn": "你的茶里要加牛奶吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-049",
+    "word": "shop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shop is open today.",
+        "cn": "这家店今天营业。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-050",
+    "word": "supermarket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "超市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a supermarket near here?",
+        "cn": "这附近有超市吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-051",
+    "word": "price",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the price of this bag?",
+        "cn": "这个包多少钱？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-052",
+    "word": "buy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "买"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to buy some milk.",
+        "cn": "我需要买点牛奶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-053",
+    "word": "sell",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "卖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you sell phone chargers?",
+        "cn": "你们卖手机充电器吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-054",
+    "word": "cheap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "便宜的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bus is cheap.",
+        "cn": "坐公交车很便宜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-055",
+    "word": "expensive",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "贵的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This jacket is too expensive.",
+        "cn": "这件夹克太贵了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-056",
+    "word": "cash",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you take cash?",
+        "cn": "你们收现金吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-057",
+    "word": "card",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卡、银行卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use my card?",
+        "cn": "我可以用银行卡付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-058",
+    "word": "change",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "找零、零钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here's your change.",
+        "cn": "这是找您的零钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-059",
+    "word": "size",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "尺寸、尺码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What size do you need?",
+        "cn": "你要什么尺码？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-060",
+    "word": "shopping bag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "购物袋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you need a shopping bag?",
+        "cn": "你需要购物袋吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-061",
+    "word": "street",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "街道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live on this street.",
+        "cn": "我住在这条街上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-062",
+    "word": "map",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you show me on the map?",
+        "cn": "你能在地图上指给我看吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-063",
+    "word": "station",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "车站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The station is near the park.",
+        "cn": "车站在公园附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-064",
+    "word": "bus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "公交车、巴士"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bus is late.",
+        "cn": "公交车晚点了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-065",
+    "word": "train",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I take the train to work.",
+        "cn": "我坐火车上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-066",
+    "word": "subway",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地铁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can take the subway.",
+        "cn": "我们可以坐地铁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-067",
+    "word": "taxi",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出租车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you call a taxi for me?",
+        "cn": "你能帮我叫辆出租车吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-068",
+    "word": "ticket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a ticket to the airport.",
+        "cn": "我需要一张去机场的票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-069",
+    "word": "near",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……附近"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bank is near the station.",
+        "cn": "银行在车站附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-070",
+    "word": "across from",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在……对面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The hotel is across from the station.",
+        "cn": "酒店在车站对面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-071",
+    "word": "next to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在……旁边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cafe is next to the bank.",
+        "cn": "咖啡馆就在银行旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-072",
+    "word": "turn right",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "向右转"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn right at the next corner.",
+        "cn": "在下一个拐角右转。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-073",
+    "word": "hungry",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "饿的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm hungry. Let's eat.",
+        "cn": "我饿了。我们去吃饭吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-074",
+    "word": "thirsty",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "口渴的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Are you thirsty?",
+        "cn": "你渴吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-075",
+    "word": "tired",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "累的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm tired after work.",
+        "cn": "我下班后觉得很累。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-076",
+    "word": "sleepy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "困的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel sleepy after lunch.",
+        "cn": "午饭后我觉得很困。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-077",
+    "word": "wait",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等、等待"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please wait here.",
+        "cn": "请在这里等。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-078",
+    "word": "look",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Look at the sign.",
+        "cn": "看一下那个标志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-079",
+    "word": "find",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "找到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you help me find my phone?",
+        "cn": "你能帮我找一下手机吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-080",
+    "word": "call",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打电话、呼叫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Call me when you get home.",
+        "cn": "到家后给我打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-081",
+    "word": "charger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "充电器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have a charger for this phone?",
+        "cn": "你有这部手机的充电器吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-082",
+    "word": "power outlet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电源插座"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a power outlet near this seat?",
+        "cn": "这个座位附近有电源插座吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-083",
+    "word": "password",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "密码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the Wi-Fi password?",
+        "cn": "无线网络的密码是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-084",
+    "word": "restroom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "洗手间（常用于美式英语）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the restroom?",
+        "cn": "洗手间在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-085",
+    "word": "weather",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "天气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How's the weather today?",
+        "cn": "今天天气怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-086",
+    "word": "sunny",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晴朗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's sunny today.",
+        "cn": "今天是晴天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-087",
+    "word": "cloudy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "多云的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's cloudy this morning.",
+        "cn": "今天上午多云。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-088",
+    "word": "rainy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "下雨的、多雨的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It was rainy yesterday.",
+        "cn": "昨天下雨了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-089",
+    "word": "windy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有风的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's windy outside.",
+        "cn": "外面风很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-090",
+    "word": "warm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "暖和的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's warm in here.",
+        "cn": "这里面很暖和。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-091",
+    "word": "cool",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "凉爽的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The evening air is cool.",
+        "cn": "傍晚的空气很凉爽。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-092",
+    "word": "umbrella",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "雨伞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't forget your umbrella.",
+        "cn": "别忘了带伞。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-093",
+    "word": "coat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "外套、大衣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need a coat today.",
+        "cn": "你今天得穿件外套。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-094",
+    "word": "shirt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "衬衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm wearing a blue shirt.",
+        "cn": "我穿着一件蓝衬衫。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-095",
+    "word": "shoes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. pl.",
+        "cn": "鞋子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please take off your shoes.",
+        "cn": "请把鞋脱掉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-096",
+    "word": "put on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "穿上、戴上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put on your coat before you go out.",
+        "cn": "出门前把外套穿上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-097",
+    "word": "sick",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "生病的、不舒服的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel sick today.",
+        "cn": "我今天不舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-098",
+    "word": "pain",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "疼痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have pain in my back.",
+        "cn": "我背疼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-099",
+    "word": "headache",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "头痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a headache.",
+        "cn": "我头疼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-100",
+    "word": "fever",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "发烧、发热"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you have a fever?",
+        "cn": "你发烧了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-101",
+    "word": "cough",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "咳嗽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a cough.",
+        "cn": "我咳嗽。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-102",
+    "word": "sore throat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "喉咙痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I woke up with a sore throat.",
+        "cn": "我一醒来就觉得喉咙痛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-103",
+    "word": "stomachache",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "肚子痛、胃痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My son has a stomachache.",
+        "cn": "我儿子肚子痛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-104",
+    "word": "doctor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "医生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to see a doctor.",
+        "cn": "我想看医生。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-105",
+    "word": "hospital",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "医院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a hospital nearby?",
+        "cn": "附近有医院吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-106",
+    "word": "pharmacy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The pharmacy is on the corner.",
+        "cn": "药店在拐角处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-107",
+    "word": "medicine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "药、药物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I buy this medicine?",
+        "cn": "我在哪里买得到这种药？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "everyday-108",
+    "word": "feel better",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "感觉好一些"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hope you feel better soon.",
+        "cn": "希望你很快好起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

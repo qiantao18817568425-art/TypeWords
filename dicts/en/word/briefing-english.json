@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "briefing-001",
+    "word": "We are on track",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们按计划推进"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are on track to deliver the test build on Friday.",
+        "cn": "我们按计划推进，将于周五交付测试版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-002",
+    "word": "We are at risk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们面临风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are at risk of missing the pilot date.",
+        "cn": "我们可能赶不上试点日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-003",
+    "word": "We are behind schedule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们的进度落后了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are behind schedule because the samples arrived late.",
+        "cn": "由于样件到货晚，我们的进度落后了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-004",
+    "word": "Here is the latest status",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "这是最新进展"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here is the latest status for the display integration.",
+        "cn": "这是显示集成的最新进展。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-005",
+    "word": "The main risk is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "主要风险是……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The main risk is the limited time for recovery testing.",
+        "cn": "主要风险是恢复测试时间有限。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-006",
+    "word": "Our next milestone is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "下一个里程碑是……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Our next milestone is the first system validation run.",
+        "cn": "下一个里程碑是首次系统验证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-007",
+    "word": "We have a fallback plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们有备用方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a fallback plan if the new hardware is delayed.",
+        "cn": "如果新硬件延期，我们有备用方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-008",
+    "word": "The impact is limited to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "影响仅限于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The impact is limited to the first startup after the update.",
+        "cn": "影响仅限于更新后的首次启动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-009",
+    "word": "The forecast is unchanged",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "预测保持不变"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The forecast is unchanged for the pilot delivery.",
+        "cn": "试点交付日期的预测保持不变。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-010",
+    "word": "We need a decision by",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们需要在……前作出决定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a decision by Thursday to keep the test slot.",
+        "cn": "为保住测试档期，我们需要在周四前作出决定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-011",
+    "word": "What is the exact symptom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "具体故障现象是什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is the exact symptom when the screen wakes up?",
+        "cn": "屏幕唤醒时的具体故障现象是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-012",
+    "word": "Which build was used",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "使用的是哪个构建版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which build was used for the failed test?",
+        "cn": "失败的测试使用的是哪个构建版本？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-013",
+    "word": "What are the steps to reproduce",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "复现步骤是什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are the steps to reproduce the blank screen?",
+        "cn": "黑屏的复现步骤是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-014",
+    "word": "Can you share the logs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "能否提供日志"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you share the logs from both systems for the same time window?",
+        "cn": "你能提供两个系统在同一时段的日志吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-015",
+    "word": "What was the system state",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "系统当时处于什么状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What was the system state when the camera feed froze?",
+        "cn": "摄像头画面冻结时，系统处于什么状态？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-016",
+    "word": "How often does it happen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "多久发生一次；发生频率是多少"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How often does it happen during repeated wake-up tests?",
+        "cn": "在重复唤醒测试中，这个问题的发生频率是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-017",
+    "word": "When did the issue start",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "问题是什么时候出现的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When did the issue start in the recorded timeline?",
+        "cn": "按记录的时间线，问题是什么时候出现的？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-018",
+    "word": "Which versions are affected",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "哪些版本受影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which versions are affected by the update failure?",
+        "cn": "哪些版本受这次更新失败影响？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-019",
+    "word": "Can we test with the same setup",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "能否用相同配置测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we test with the same setup on both benches?",
+        "cn": "我们能否在两个台架上用相同配置测试？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-020",
+    "word": "Please capture both sides of the interface",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请采集接口两侧的证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please capture both sides of the interface during the next reproduction attempt.",
+        "cn": "下次尝试复现时，请采集接口两侧的证据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-021",
+    "word": "Who will lead the investigation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "谁来牵头调查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who will lead the investigation into the startup failure?",
+        "cn": "谁来牵头调查这次启动故障？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-022",
+    "word": "Who owns the next action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "谁负责下一项行动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who owns the next action to compare the two logs?",
+        "cn": "比对两份日志这项工作由谁负责？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-023",
+    "word": "Please confirm the due date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请确认截止日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please confirm the due date for the revised test report.",
+        "cn": "请确认更新版测试报告的截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-024",
+    "word": "What is blocking the team",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "是什么阻塞了团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is blocking the team from starting the retest?",
+        "cn": "是什么阻碍了团队开始复测？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-025",
+    "word": "We need support from",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们需要……提供支持"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need support from the supplier to verify the hardware revision.",
+        "cn": "我们需要供应商协助核对硬件版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-026",
+    "word": "Please escalate this today",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请今天升级协调这件事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please escalate this today so we can secure a backup test bench.",
+        "cn": "请今天升级协调这件事，以便我们落实备用台架。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-027",
+    "word": "Could we move the review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "能否调整评审时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we move the review to Friday morning?",
+        "cn": "我们能否把评审移到周五上午？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-028",
+    "word": "Let us agree on an owner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们先明确负责人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let us agree on an owner for the recovery test.",
+        "cn": "我们先明确恢复测试的负责人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-029",
+    "word": "Please flag any schedule risk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请及时标出排期风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please flag any schedule risk before the customer review.",
+        "cn": "客户评审前，请及时标出排期风险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-030",
+    "word": "We need a decision from",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们需要……作出决定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a decision from the release owner on whether to proceed.",
+        "cn": "我们需要发布负责人决定是否继续推进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-031",
+    "word": "The first failure we can verify is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们能证实的首个故障是……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The first failure we can verify is a timeout in the camera service.",
+        "cn": "我们能证实的首个故障是摄像头服务超时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-032",
+    "word": "The current evidence points to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "现有证据指向……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The current evidence points to a missing readiness check.",
+        "cn": "现有证据指向缺少就绪检查。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-033",
+    "word": "This is still a working hypothesis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "这仍是待验证的假设"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is still a working hypothesis until we reproduce the timing issue.",
+        "cn": "在复现这个时序问题之前，这仍是待验证的假设。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-034",
+    "word": "What would rule out this cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "什么证据能排除这个原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What would rule out this cause in the next bench test?",
+        "cn": "下一次台架测试中，什么证据能排除这个原因？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-035",
+    "word": "Let us compare the two runs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们对比这两次运行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let us compare the two runs at the point where the signal first changes.",
+        "cn": "我们对比这两次运行，重点看信号首次变化的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-036",
+    "word": "What allowed the defect to escape",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "是什么让缺陷漏检"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What allowed the defect to escape the release checks?",
+        "cn": "是什么让缺陷漏过了发布检查？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-037",
+    "word": "We have a temporary containment action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们已有一项临时遏制措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a temporary containment action to stop the pilot from expanding.",
+        "cn": "我们已有一项临时遏制措施，暂停扩大试点范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-038",
+    "word": "What is the permanent corrective action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "永久纠正措施是什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is the permanent corrective action for this startup failure?",
+        "cn": "这次启动故障的永久纠正措施是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-039",
+    "word": "Please document the five whys",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请记录五问分析过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please document the five whys and link each answer to evidence.",
+        "cn": "请记录五问分析过程，并把每个答案关联到证据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-040",
+    "word": "Please update the 8D report",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请更新 8D 报告"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please update the 8D report with the confirmed escape cause.",
+        "cn": "请在 8D 报告中补上已确认的逃逸原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-041",
+    "word": "What are the exit criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "结束当前阶段的标准是什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are the exit criteria for the pilot phase?",
+        "cn": "结束试点阶段的标准是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-042",
+    "word": "Please retest the original scenario",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请复测原始场景"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please retest the original scenario using the latest build.",
+        "cn": "请用最新版本复测原始场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-043",
+    "word": "Have we covered the recovery path",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们覆盖恢复路径了吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have we covered the recovery path after a camera disconnect?",
+        "cn": "我们覆盖摄像头断开后的恢复路径了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-044",
+    "word": "What did we verify on the new build",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们在新版本上验证了什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What did we verify on the new build during the overnight run?",
+        "cn": "夜间测试中，我们在新版本上验证了什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-045",
+    "word": "Please attach the validation evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请附上验证证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please attach the validation evidence to the issue before closing it.",
+        "cn": "关闭问题前，请把验证证据附在问题单上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-046",
+    "word": "The fix is ready for validation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "修复已就绪，可以开始验证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fix is ready for validation on both hardware revisions.",
+        "cn": "修复已就绪，可以在两个硬件版本上开始验证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-047",
+    "word": "We can close the issue once",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "一旦……就可以关闭问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can close the issue once the original scenario and regression tests pass.",
+        "cn": "原始场景复测和回归测试通过后，我们就可以关闭问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-048",
+    "word": "Please record the decision",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请记录决策"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please record the decision and who approved it.",
+        "cn": "请记录决策及其审批人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-049",
+    "word": "We will follow up by",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们会在……前跟进"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We will follow up by Friday with the supplier's response.",
+        "cn": "我们会在周五前跟进并反馈供应商的回复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "briefing-050",
+    "word": "Thanks for the quick turnaround",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "感谢快速处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for the quick turnaround on the validation report.",
+        "cn": "感谢你快速处理验证报告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

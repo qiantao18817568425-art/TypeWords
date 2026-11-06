@@ -1,9 +1,57 @@
 [
   {
+    "id": 10003,
+    "enName": "foundation-english",
+    "name": "01 零基础核心",
+    "description": "从人称、数字、时间和常用动作开始，练习用短句自我介绍和提问。",
+    "categoryId": 10001,
+    "url": "foundation-english.json",
+    "length": 120,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "01 从零开口",
+    "tags": [
+      "学习路线"
+    ]
+  },
+  {
+    "id": 10004,
+    "enName": "everyday-english",
+    "name": "02 生活场景词汇",
+    "description": "认得家里、商店、餐厅、车站和就医时常见的词，能用简单英语表达基本需求。",
+    "categoryId": 10001,
+    "url": "everyday-english.json",
+    "length": 108,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "01 从零开口",
+    "tags": [
+      "学习路线"
+    ]
+  },
+  {
     "id": 10001,
     "enName": "daily-english",
-    "name": "日常英语",
-    "description": "从问候聊天到出行、点餐和预约，练习开口就能用的表达。",
+    "name": "03 日常英语对话",
+    "description": "练习问候、购物、点餐、出行、预约和礼貌求助时能直接说的短句。",
     "categoryId": 10001,
     "url": "daily-english.json",
     "length": 70,
@@ -18,22 +66,40 @@
     "updatedAt": "2026-11-06 00:00:00",
     "cover": null,
     "hidden": false,
-    "category": "日常交流",
+    "category": "01 从零开口",
     "tags": [
-      "问候与闲聊",
-      "购物与付款",
-      "餐饮与点单",
-      "出行与问路",
-      "约时间与改期",
-      "求助与澄清",
-      "礼貌请求与回应"
+      "学习路线"
+    ]
+  },
+  {
+    "id": 10005,
+    "enName": "office-english",
+    "name": "04 工作英语沟通",
+    "description": "从读懂邮件和会议邀请开始，练习约时间、请求澄清、回复和跟进。",
+    "categoryId": 10002,
+    "url": "office-english.json",
+    "length": 90,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "02 工作与项目",
+    "tags": [
+      "学习路线"
     ]
   },
   {
     "id": 10002,
     "enName": "tpm-english",
-    "name": "座舱 TPM 英语",
-    "description": "练习项目推进、缺陷分诊、跨域协作、验证交付和项目沟通。",
+    "name": "05 座舱 TPM 入门",
+    "description": "掌握项目推进、问题分诊、责任分配、跨团队协作和验收的基础术语。",
     "categoryId": 10002,
     "url": "tpm-english.json",
     "length": 86,
@@ -48,15 +114,81 @@
     "updatedAt": "2026-11-06 00:00:00",
     "cover": null,
     "hidden": false,
-    "category": "职场英语",
+    "category": "02 工作与项目",
     "tags": [
-      "排期与里程碑",
-      "分责与升级",
-      "缺陷分诊与根因",
-      "座舱与跨域",
-      "验证与验收",
-      "发布与质量",
-      "沟通与协作"
+      "学习路线"
+    ]
+  },
+  {
+    "id": 10006,
+    "enName": "delivery-english",
+    "name": "06 TPM 项目与交付",
+    "description": "练习需求、排期、供应商协作、风险、验证、版本管理和交付用语。",
+    "categoryId": 10002,
+    "url": "delivery-english.json",
+    "length": 110,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "02 工作与项目",
+    "tags": [
+      "学习路线"
+    ]
+  },
+  {
+    "id": 10007,
+    "enName": "cockpit-english",
+    "name": "07 座舱技术与诊断",
+    "description": "练习描述座舱系统、软硬件接口、故障现象和取证动作。",
+    "categoryId": 10003,
+    "url": "cockpit-english.json",
+    "length": 125,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "03 座舱与实战",
+    "tags": [
+      "学习路线"
+    ]
+  },
+  {
+    "id": 10008,
+    "enName": "briefing-english",
+    "name": "08 TPM 闭环与汇报",
+    "description": "用可直接复用的句型说清影响、证据、责任、下一步、风险和关闭标准。",
+    "categoryId": 10003,
+    "url": "briefing-english.json",
+    "length": 50,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-06 00:00:00",
+    "updatedAt": "2026-11-06 00:00:00",
+    "cover": null,
+    "hidden": false,
+    "category": "03 座舱与实战",
+    "tags": [
+      "学习路线"
     ]
   }
 ]

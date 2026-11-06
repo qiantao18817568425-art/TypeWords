@@ -1,0 +1,2862 @@
+[
+  {
+    "id": "delivery-001",
+    "word": "scope creep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "范围蔓延；未受控的范围扩大"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Scope creep can push the integration work past the target date.",
+        "cn": "范围蔓延可能使集成工作超出目标日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-002",
+    "word": "out of scope",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "超出本次范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new dashboard is out of scope for this release.",
+        "cn": "新仪表功能超出本次发布范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-003",
+    "word": "change request",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please submit a change request for the new display behavior.",
+        "cn": "请为新的显示行为提交变更请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-004",
+    "word": "change control",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更控制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Change control applies to interface updates after the freeze.",
+        "cn": "冻结后的接口更新需要走变更控制流程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-005",
+    "word": "scope baseline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "范围基线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The scope baseline lists the features approved for this release.",
+        "cn": "范围基线列出了已获批准纳入本次发布的功能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-006",
+    "word": "scope statement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "范围说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The scope statement defines what this project will deliver.",
+        "cn": "范围说明明确本项目将交付哪些内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-007",
+    "word": "change impact",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to review the change impact on testing and delivery.",
+        "cn": "我们需要评审变更对测试和交付的影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-008",
+    "word": "change approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更审批"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The updated interface is waiting for change approval.",
+        "cn": "更新后的接口正在等待变更审批。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-009",
+    "word": "scope trade-off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "范围取舍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The scope trade-off keeps the core features within the release window.",
+        "cn": "这次范围取舍使核心功能可以按发布窗口交付。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-010",
+    "word": "requirement freeze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "需求冻结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The requirement freeze starts after the customer review.",
+        "cn": "客户评审结束后开始需求冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-011",
+    "word": "change log",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please record the approved changes in the change log.",
+        "cn": "请把获批的变更记入变更记录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-012",
+    "word": "acceptance review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验收评审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The acceptance review is scheduled after system validation.",
+        "cn": "验收评审安排在系统验证完成之后。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-013",
+    "word": "work breakdown structure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工作分解结构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The work breakdown structure shows how the delivery is split into tasks.",
+        "cn": "工作分解结构展示了如何把交付拆成各项任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-014",
+    "word": "capacity planning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "产能规划；人员或设备容量规划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Capacity planning helped us reserve enough lab time.",
+        "cn": "容量规划帮助我们预留了足够的实验室时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-015",
+    "word": "schedule variance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "进度偏差"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The schedule variance is three days for the camera workstream.",
+        "cn": "摄像头工作线的实际进度与计划相差三天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-016",
+    "word": "schedule recovery plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "进度恢复计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The schedule recovery plan moves some checks into parallel work.",
+        "cn": "进度恢复计划将部分检查改为并行开展。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-017",
+    "word": "dependency map",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "依赖关系图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The dependency map shows which teams need the new controller build.",
+        "cn": "依赖关系图展示了哪些团队需要新的控制器版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-018",
+    "word": "resource constraint",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "资源限制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Limited bench availability is a resource constraint this week.",
+        "cn": "本周台架数量有限，是当前的资源限制。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-019",
+    "word": "delivery forecast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "交付预测"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please update the delivery forecast after the integration review.",
+        "cn": "请在集成评审后更新交付预测。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-020",
+    "word": "milestone review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "里程碑评审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bring the updated test summary to the milestone review.",
+        "cn": "请带上最新的测试总结参加里程碑评审。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-021",
+    "word": "decision deadline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策截止时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The decision deadline is Friday so procurement can place the order.",
+        "cn": "决策截止时间是周五，以便采购及时下单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-022",
+    "word": "launch decision",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "上线决策；投产决策"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The launch decision depends on the results of the pilot.",
+        "cn": "上线决策取决于试点结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-023",
+    "word": "option analysis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "方案分析"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The option analysis compares timing, cost, and validation effort.",
+        "cn": "方案分析对比了时间、成本和验证工作量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-024",
+    "word": "decision criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "决策标准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's agree on the decision criteria before we compare the options.",
+        "cn": "我们先确认决策标准，再比较各个方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-025",
+    "word": "interface agreement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "接口约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Both teams signed off on the interface agreement.",
+        "cn": "双方团队都确认了接口约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-026",
+    "word": "interface specification",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "接口规范"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The interface specification defines the allowed values for the gear signal.",
+        "cn": "接口规范定义了挡位信号的允许取值。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-027",
+    "word": "integration build",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "集成版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The integration build includes the display and camera updates.",
+        "cn": "集成版本包含显示和摄像头更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-028",
+    "word": "integration window",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "集成窗口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have a two-hour integration window on Thursday.",
+        "cn": "周四有两小时的集成窗口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-029",
+    "word": "integration readiness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "集成就绪情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please report integration readiness at the daily meeting.",
+        "cn": "请在每日例会上汇报集成就绪情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-030",
+    "word": "data contract",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "数据契约；数据格式和语义约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The data contract specifies the fields sent by the service.",
+        "cn": "数据契约规定了服务发送的字段。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-031",
+    "word": "signal mapping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "信号映射"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Review the signal mapping before testing the new cluster software.",
+        "cn": "测试新仪表软件前，请评审信号映射。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-032",
+    "word": "message timeout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "消息超时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The log shows a message timeout during wake-up.",
+        "cn": "日志显示唤醒期间发生消息超时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-033",
+    "word": "backward compatibility",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "向后兼容性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team tested backward compatibility with the previous controller version.",
+        "cn": "团队用上一版控制器验证了向后兼容性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-034",
+    "word": "dependency version",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "依赖版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the dependency version in the build manifest.",
+        "cn": "请检查构建清单中的依赖版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-035",
+    "word": "compatibility matrix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "兼容性矩阵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The compatibility matrix lists the supported hardware and software combinations.",
+        "cn": "兼容性矩阵列出了受支持的软硬件组合。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-036",
+    "word": "integration defect",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "集成缺陷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We found an integration defect when the two services started in a different order.",
+        "cn": "两个服务以不同顺序启动时，我们发现了集成缺陷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-037",
+    "word": "configuration baseline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "配置基线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The configuration baseline records the approved versions for this vehicle build.",
+        "cn": "配置基线记录了本批车辆使用的已批准版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-038",
+    "word": "build manifest",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The build manifest lists the package versions and checksums.",
+        "cn": "构建清单列出了软件包版本和校验值。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-039",
+    "word": "build provenance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建来源；构建产物的生成记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Build provenance identifies the source revision and the build process.",
+        "cn": "构建来源记录可以确定源码修订版本和构建过程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-040",
+    "word": "commit hash",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "提交哈希；源码提交标识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please include the commit hash in the validation report.",
+        "cn": "请在验证报告中附上提交哈希。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-041",
+    "word": "version tag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "版本标签"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Use the version tag to locate the approved source revision.",
+        "cn": "请通过版本标签定位已批准的源码修订版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-042",
+    "word": "release branch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布分支"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fix was merged into the release branch after review.",
+        "cn": "修复通过评审后合入发布分支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-043",
+    "word": "feature flag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "功能开关"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The feature flag lets us enable the new behavior for pilot devices.",
+        "cn": "功能开关允许我们在试点设备上启用新行为。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-044",
+    "word": "configuration drift",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "配置漂移；实际配置逐步偏离基线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Configuration drift made the two test benches behave differently.",
+        "cn": "配置漂移导致两个测试台架表现不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-045",
+    "word": "software bill of materials",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "软件物料清单；软件组件清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The software bill of materials records the components shipped with the release.",
+        "cn": "软件物料清单记录了随版本交付的组件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-046",
+    "word": "reproducible build",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "可复现构建"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A reproducible build helps the team verify the release artifact.",
+        "cn": "可复现构建有助于团队核验发布产物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-047",
+    "word": "configuration item",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "配置项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The display parameter file is a configuration item in this release.",
+        "cn": "显示参数文件是本次发布中的一个配置项。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-048",
+    "word": "change set",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更集"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The change set includes the fix and the updated interface definition.",
+        "cn": "这组变更包含修复和更新后的接口定义。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-049",
+    "word": "deployment plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "部署计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The deployment plan names the owners and the order of the updates.",
+        "cn": "部署计划列明了负责人和更新顺序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-050",
+    "word": "pilot release",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "试点发布；小范围发布"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The pilot release goes to twenty test vehicles first.",
+        "cn": "试点版本先发给二十辆测试车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-051",
+    "word": "phased rollout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "分阶段推送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A phased rollout gives us time to monitor the first group of vehicles.",
+        "cn": "分阶段推送让我们有时间监控首批车辆的表现。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-052",
+    "word": "deployment window",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "部署窗口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please reserve the deployment window for Friday evening.",
+        "cn": "请预留周五晚上的部署窗口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-053",
+    "word": "release approval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布批准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Release approval requires a passing system test report.",
+        "cn": "发布批准需要一份通过的系统测试报告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-054",
+    "word": "release checklist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布检查清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify the rollback package using the release checklist.",
+        "cn": "请按发布检查清单核验回滚包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-055",
+    "word": "upgrade path",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "升级路径；支持的版本升级顺序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The upgrade path from the previous version is documented.",
+        "cn": "从上一版本升级的路径已记录在文档中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-056",
+    "word": "rollback plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "回滚方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We reviewed the rollback plan before deploying the new software.",
+        "cn": "部署新软件前，我们评审了回滚方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-057",
+    "word": "rollback trigger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "回滚触发条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A confirmed startup failure is a rollback trigger for the pilot.",
+        "cn": "确认出现启动故障时，试点发布应触发回滚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-058",
+    "word": "release waiver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布豁免；获批的例外放行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release waiver records the accepted risk and its expiry date.",
+        "cn": "发布豁免记录了已接受的风险及豁免到期日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-059",
+    "word": "post-release monitoring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布后监控"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Post-release monitoring focuses on startup failures and update completion.",
+        "cn": "发布后监控重点关注启动故障和更新完成情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-060",
+    "word": "field issue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "现场问题；实际使用中发现的问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Support reported a field issue after the update reached customer vehicles.",
+        "cn": "更新推送到客户车辆后，支持团队报告了一个现场问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-061",
+    "word": "statement of work",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工作说明书；约定的工作范围与交付要求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The statement of work lists the supplier's software deliverables.",
+        "cn": "工作说明书列出了供应商的软件交付物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-062",
+    "word": "request for quotation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "询价单；报价请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The request for quotation includes the expected sample quantity.",
+        "cn": "询价单写明了预计需要的样件数量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-063",
+    "word": "supplier commitment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商承诺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need a supplier commitment on the sample delivery date.",
+        "cn": "我们需要供应商对样件交付日期作出承诺。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-064",
+    "word": "sample readiness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "样件就绪情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please confirm sample readiness before booking the test bench.",
+        "cn": "预约测试台架前，请确认样件已就绪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-065",
+    "word": "supplier corrective action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商纠正措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We reviewed the supplier corrective action after the connector failure.",
+        "cn": "连接器发生故障后，我们评审了供应商提出的纠正措施。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-066",
+    "word": "engineering change notice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工程变更通知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The engineering change notice explains the new connector requirement.",
+        "cn": "工程变更通知说明了新的连接器要求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-067",
+    "word": "supplier deviation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商偏差；供应商交付与要求的差异"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier deviation must be reviewed before the samples are accepted.",
+        "cn": "接收样件前，必须评审供应商交付偏差。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-068",
+    "word": "delivery confirmation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "交付确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please share the delivery confirmation once the parts arrive.",
+        "cn": "零件到货后，请提供交付确认。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-069",
+    "word": "incoming inspection",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "来料检验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Incoming inspection found a mismatch in the part labels.",
+        "cn": "来料检验发现零件标签不匹配。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-070",
+    "word": "source of supply",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供货来源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Procurement confirmed an alternative source of supply for the connector.",
+        "cn": "采购确认了连接器的备用供货来源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-071",
+    "word": "tooling readiness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工装就绪情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier will report tooling readiness at the next review.",
+        "cn": "供应商将在下次评审会上汇报工装就绪情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-072",
+    "word": "supplier escalation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应商问题升级协调"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missed delivery date requires supplier escalation.",
+        "cn": "交付日期未能兑现，需要发起供应商问题升级协调。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-073",
+    "word": "verification plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验证计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The verification plan links each requirement to a test method.",
+        "cn": "验证计划把每条需求与对应的测试方法关联起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-074",
+    "word": "test environment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试环境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the test environment when you report the failure.",
+        "cn": "报告故障时，请记录测试环境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-075",
+    "word": "test readiness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试就绪情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team will confirm test readiness before the overnight run.",
+        "cn": "通宵测试前，团队会确认测试就绪情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-076",
+    "word": "smoke test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "冒烟测试；快速检查基本功能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Run a smoke test before starting the full validation suite.",
+        "cn": "开始完整验证前，先运行一次冒烟测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-077",
+    "word": "end-to-end test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "端到端测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The end-to-end test checks the path from gear selection to the camera view.",
+        "cn": "端到端测试检查从切换挡位到显示摄像头画面的完整链路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-078",
+    "word": "power cycle test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "断电再上电测试；电源循环测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The power cycle test verifies startup after a complete power loss.",
+        "cn": "断电再上电测试验证完全断电后能否正常启动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-079",
+    "word": "endurance test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "耐久测试；长时间运行测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The endurance test runs the audio and display functions for two days.",
+        "cn": "耐久测试连续运行音频和显示功能两天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-080",
+    "word": "test result",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试结果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please link the test result to the corresponding issue.",
+        "cn": "请把测试结果关联到对应的问题单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-081",
+    "word": "evidence package",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "证据包；成套验证材料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The evidence package contains the logs, screenshots, and build information.",
+        "cn": "证据包包含日志、截图和版本信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-082",
+    "word": "validation report",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验证报告"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The validation report summarizes coverage and open findings.",
+        "cn": "验证报告总结了覆盖范围和仍待处理的发现。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-083",
+    "word": "test gap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "测试缺口；未覆盖的场景"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We identified a test gap in the recovery sequence.",
+        "cn": "我们发现恢复时序有一个测试缺口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-084",
+    "word": "acceptance test",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验收测试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The acceptance test confirms the customer can use the main functions.",
+        "cn": "验收测试确认客户可以使用主要功能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-085",
+    "word": "containment action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "遏制措施；限制故障影响的临时措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The containment action pauses the rollout while we investigate the failure.",
+        "cn": "这项遏制措施在故障调查期间暂停推送。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-086",
+    "word": "permanent corrective action",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "永久纠正措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The permanent corrective action changes how the service handles startup requests.",
+        "cn": "永久纠正措施调整了服务处理启动请求的方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-087",
+    "word": "occurrence cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发生原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The occurrence cause explains how the defect was introduced.",
+        "cn": "发生原因解释了缺陷是如何产生的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-088",
+    "word": "escape cause",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "逃逸原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The escape cause explains why the existing tests missed the defect.",
+        "cn": "逃逸原因解释了为什么现有测试漏掉了该缺陷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-089",
+    "word": "root cause analysis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "根因分析"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The root cause analysis includes a timeline and the supporting logs.",
+        "cn": "根因分析包含时间线和支撑日志。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-090",
+    "word": "causal evidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "因果证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We still need causal evidence that the timeout leads to the black screen.",
+        "cn": "我们还需要因果证据，确认超时确实会导致黑屏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-091",
+    "word": "failure mode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "失效模式；故障呈现方式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The failure mode is a frozen image after the camera is switched.",
+        "cn": "失效模式是在切换摄像头后画面冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-092",
+    "word": "failure mechanism",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "失效机理；导致失效的过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The failure mechanism involves a buffer that is reused before it is released.",
+        "cn": "失效机理涉及缓冲区尚未释放就被再次使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-093",
+    "word": "failure rate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "故障率；失效率"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The failure rate fell after the new build was installed.",
+        "cn": "安装新版本后，故障率下降了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-094",
+    "word": "defect backlog",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "待处理缺陷清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team reviewed the defect backlog before deciding what to fix next.",
+        "cn": "团队评审了待处理缺陷清单，再决定接下来修复哪些问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-095",
+    "word": "reopen criteria",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "问题重开标准"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The reopen criteria include recurrence on a verified build.",
+        "cn": "问题重开标准包括在已验证版本上再次出现。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-096",
+    "word": "lessons learned",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "经验教训；复盘所得"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We added the lessons learned to the next project's checklist.",
+        "cn": "我们把复盘所得纳入了下一个项目的检查清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-097",
+    "word": "five whys",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "五个为什么；五问分析法（5 Why）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team used the five whys to explore how the defect escaped.",
+        "cn": "团队用五问分析法调查缺陷是如何逃逸的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-098",
+    "word": "eight disciplines",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "八步问题解决法（8D）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We used the eight disciplines to document containment, root cause, and corrective action.",
+        "cn": "我们用 8D 方法记录遏制措施、根因和纠正措施。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-099",
+    "word": "risk register",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险登记表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add the supplier delay to the risk register with a named owner.",
+        "cn": "请把供应商延误登记到风险表，并指定负责人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-100",
+    "word": "risk exposure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险敞口；项目面临的风险程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Risk exposure increased when the backup test bench became unavailable.",
+        "cn": "备用台架不可用后，项目面临的风险增大了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-101",
+    "word": "risk owner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险负责人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The risk owner will update the mitigation plan by Thursday.",
+        "cn": "风险负责人将在周四前更新缓解计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-102",
+    "word": "early warning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "预警；早期警示信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missed sample check was an early warning of a delivery delay.",
+        "cn": "样件未按时完成检查，是交付延误的早期信号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-103",
+    "word": "issue tracker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "问题跟踪系统；问题跟踪表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Update the issue tracker after the triage meeting.",
+        "cn": "缺陷分诊会议结束后，请更新问题跟踪系统。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-104",
+    "word": "impact window",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "影响时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The impact window runs from the first failed update to the rollback.",
+        "cn": "影响时段从第一次更新失败持续到回滚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-105",
+    "word": "mitigation plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险缓解计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The mitigation plan includes a backup bench and an extra test shift.",
+        "cn": "风险缓解计划包括备用台架和额外的测试班次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-106",
+    "word": "contingency trigger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "启动应急预案的条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A sample delay beyond Friday is the contingency trigger.",
+        "cn": "样件推迟到周五之后，就是启动应急预案的条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-107",
+    "word": "residual risk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "剩余风险；采取措施后仍存在的风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The review board considered the residual risk before approving the release.",
+        "cn": "评审委员会在批准发布前考虑了剩余风险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-108",
+    "word": "risk acceptance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险接受；对剩余风险作出明确接受决定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Risk acceptance requires a named approver and a written rationale.",
+        "cn": "风险接受需要明确审批人并记录书面理由。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-109",
+    "word": "risk review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险评审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The weekly risk review covers new risks and overdue mitigations.",
+        "cn": "每周风险评审会检查新增风险和逾期的缓解措施。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "delivery-110",
+    "word": "risk retirement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险解除；关闭已消除的风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Risk retirement requires evidence that the delivery constraint has been removed.",
+        "cn": "解除风险需要有证据表明交付限制已消除。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
