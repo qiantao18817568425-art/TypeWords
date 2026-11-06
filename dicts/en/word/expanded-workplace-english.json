@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "expanded-workplace-001",
+    "word": "Can we start with",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们可以先从……开始吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we start with the questions from yesterday?",
+        "cn": "我们可以先处理昨天的问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-002",
+    "word": "Could we focus on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们能否先聚焦于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we focus on the main question first?",
+        "cn": "我们能先聚焦于主要问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-003",
+    "word": "Let's hear from",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们来听听……的看法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's hear from the design team.",
+        "cn": "我们来听听设计团队的看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-004",
+    "word": "Before we move on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "在进入下一项之前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Before we move on, does anyone need more time?",
+        "cn": "进入下一项之前，有人需要更多时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-005",
+    "word": "Let's leave that for later",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "这个我们晚点再谈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's leave that for later and finish this topic first.",
+        "cn": "这个晚点再谈，我们先把当前的话题讲完。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-006",
+    "word": "Can we take this offline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我们会后单独谈好吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we take this offline and get back to the agenda?",
+        "cn": "这个问题我们会后单独谈，先回到议程好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-007",
+    "word": "on the same page",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "理解一致、达成共识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's make sure we're all on the same page.",
+        "cn": "我们确认一下大家的理解是否一致。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-008",
+    "word": "Does anyone have a question",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "有人有问题吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does anyone have a question before we continue?",
+        "cn": "继续之前，有人有问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-009",
+    "word": "Here's what we agreed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "以下是我们达成的共识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here's what we agreed to do next.",
+        "cn": "接下来怎么做，我们达成的共识是这样的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-010",
+    "word": "I'll send a recap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我会发一份简要总结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll send a recap after the meeting.",
+        "cn": "会后我会发一份简要总结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-011",
+    "word": "I'm writing to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我写信是为了……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm writing to ask about the new schedule.",
+        "cn": "我写信想了解新的日程安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-012",
+    "word": "Just a quick note to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "简单发个消息，想……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Just a quick note to say thanks for your help.",
+        "cn": "发个简短的消息，感谢你的帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-013",
+    "word": "Please find attached",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "请查收附件中的……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please find attached the updated schedule.",
+        "cn": "请查收附件中更新后的日程安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-014",
+    "word": "Please let me know if",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "如果……请告诉我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please let me know if you need a copy.",
+        "cn": "如果你需要一份副本，请告诉我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-015",
+    "word": "Could you confirm receipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "可以确认收到吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you confirm receipt of the document?",
+        "cn": "可以确认一下你是否收到了这份文档吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-016",
+    "word": "For your information",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "供你知悉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "For your information, the office will close early on Friday.",
+        "cn": "告知一下，办公室周五会提前关闭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-017",
+    "word": "As discussed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "如前所述、按之前讨论的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "As discussed, we'll start with the smaller group.",
+        "cn": "按之前讨论的，我们会先从较小的小组开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-018",
+    "word": "To keep you updated",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "为让你了解最新情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "To keep you updated, I'll send a short note each Friday.",
+        "cn": "我每周五会发条简讯，让你了解最新进展。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-019",
+    "word": "Thanks for getting back to me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "谢谢你回复我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for getting back to me so quickly.",
+        "cn": "谢谢你这么快回复我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-020",
+    "word": "Best regards",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "致意（邮件结尾）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She ended the email with 'Best regards.'",
+        "cn": "她在邮件结尾写上了“致意”。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-021",
+    "word": "Could you walk me through",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "可以带我一步步了解……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you walk me through how this form works?",
+        "cn": "你能一步步告诉我怎么用这张表吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-022",
+    "word": "What do you need from me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你需要我提供什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What do you need from me before Friday?",
+        "cn": "周五之前，你需要我提供什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-023",
+    "word": "When do you need this by",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你最迟什么时候需要这个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When do you need this by? I can start today.",
+        "cn": "你最迟什么时候需要这个？我今天可以开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-024",
+    "word": "Can you send me",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "你能发给我……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you send me the latest file?",
+        "cn": "你能把最新文件发给我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-025",
+    "word": "What should I focus on first",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我应该先做什么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What should I focus on first in this task?",
+        "cn": "这项任务我该先做哪部分？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-026",
+    "word": "Which one should we use",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我们应该用哪一个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Which one should we use for the presentation?",
+        "cn": "我们做展示应该用哪一个？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-027",
+    "word": "Could you check whether",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "可以帮忙核实是否……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you check whether the link still works?",
+        "cn": "你能检查一下这个链接还能不能用吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-028",
+    "word": "Would it be possible to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "是否可以……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would it be possible to meet on Thursday?",
+        "cn": "我们可以周四见面吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-029",
+    "word": "Could you give me more detail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "可以再具体一点吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you give me more detail about the last step?",
+        "cn": "你能把最后一步讲得更具体一点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-030",
+    "word": "Have I understood that correctly",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我理解得对吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have I understood that correctly, or am I missing something?",
+        "cn": "我理解得对吗，还是漏了什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-031",
+    "word": "Today I'll cover",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "今天我会讲……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Today I'll cover three ways to use this tool.",
+        "cn": "今天我会讲这个工具的三种用法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-032",
+    "word": "Let's start with",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我们先看……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's start with a simple example.",
+        "cn": "我们先看一个简单的例子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-033",
+    "word": "This chart shows",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "这张图表显示……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This chart shows how many people visited each week.",
+        "cn": "这张图显示了每周的到访人数。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-034",
+    "word": "As you can see",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "如你所见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "As you can see, the new form is shorter.",
+        "cn": "如你所见，新表格更短了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-035",
+    "word": "Compared with last month",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "和上个月相比"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compared with last month, we had more visitors.",
+        "cn": "与上个月相比，我们的访客更多。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-036",
+    "word": "The key takeaway is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "最需要记住的是……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The key takeaway is that the new process saves time.",
+        "cn": "最需要记住的是，新流程节省时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-037",
+    "word": "Here's an example",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "这里有个例子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here's an example of what a good reply looks like.",
+        "cn": "这里有一个好的回复示例。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-038",
+    "word": "Let me show you how",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我来演示怎么……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me show you how to find the file.",
+        "cn": "我来演示怎么找到这个文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-039",
+    "word": "Now let's turn to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "现在来看……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Now let's turn to the second question.",
+        "cn": "现在来看第二个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-040",
+    "word": "To sum up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "概括一下、总的来说"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "To sum up, we have two choices.",
+        "cn": "概括一下，我们有两个选择。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-041",
+    "word": "I see your point",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我理解你的意思"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I see your point about the cost.",
+        "cn": "我理解你对成本的看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-042",
+    "word": "I have a different view",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我有不同看法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a different view on how we should start.",
+        "cn": "对于该怎么开始，我有不同看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-043",
+    "word": "I'm not convinced",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我还没有被说服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm not convinced this is the best use of our time.",
+        "cn": "我还不确信这样安排时间最合适。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-044",
+    "word": "I agree up to a point",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我在一定程度上同意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I agree up to a point, but I think we need more time.",
+        "cn": "我部分同意，但我觉得我们还需要更多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-045",
+    "word": "My concern is",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我担心的是……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My concern is that some people won't see the update.",
+        "cn": "我担心有些人看不到更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-046",
+    "word": "Could we try a different approach",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我们能换个办法试试吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could we try a different approach before we decide?",
+        "cn": "作决定之前，我们能换个办法试试吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-047",
+    "word": "What if we",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "如果我们……会怎么样"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What if we ask the team first?",
+        "cn": "要不我们先问问团队？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-048",
+    "word": "That might work",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "那也许可行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That might work if we keep the group small.",
+        "cn": "如果小组人数保持较少，那也许可行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-049",
+    "word": "I'd suggest we",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我建议我们……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd suggest we try it with one team first.",
+        "cn": "我建议我们先让一个团队试试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-050",
+    "word": "Can we meet halfway",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我们可以各退一步吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can we meet halfway on the timing?",
+        "cn": "时间安排上，我们可以各退一步吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-051",
+    "word": "Could you take a look at",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "可以帮我看看……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you take a look at my first draft?",
+        "cn": "能帮我看看我的初稿吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-052",
+    "word": "Can you take the lead on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "你能牵头负责……吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you take the lead on preparing the slides?",
+        "cn": "你能牵头准备幻灯片吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-053",
+    "word": "I'll take care of",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我会处理……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll take care of booking the room.",
+        "cn": "我会负责订会议室。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-054",
+    "word": "Let's split the work",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我们分工吧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's split the work so we can finish today.",
+        "cn": "我们分头做吧，这样今天就能完成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-055",
+    "word": "I can cover for you",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我可以替你顶一下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can cover for you while you're at lunch.",
+        "cn": "你去吃午饭时，我可以替你顶一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-056",
+    "word": "I'm available after",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我在……之后有空"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm available after two if you need help.",
+        "cn": "如果你需要帮忙，我两点之后有空。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-057",
+    "word": "Please keep me in the loop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "请随时让我了解情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please keep me in the loop as the plans change.",
+        "cn": "计划有变化时，请让我了解最新情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-058",
+    "word": "Could you give me a heads-up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "可以提前跟我打声招呼吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you give me a heads-up before you send it?",
+        "cn": "发出去之前，可以提前跟我说一声吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-059",
+    "word": "I need a bit more time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我还需要一点时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a bit more time to check the numbers.",
+        "cn": "我还需要一点时间来核对数字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-060",
+    "word": "I'll let you know when it's ready",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "准备好后我会告诉你"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll let you know when it's ready to share.",
+        "cn": "可以分享时我会告诉你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-061",
+    "word": "Here's where things stand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "目前的情况是这样"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here's where things stand after today's call.",
+        "cn": "今天的通话结束后，目前的情况是这样的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-062",
+    "word": "I've finished the first part",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我已经完成了第一部分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've finished the first part of the report.",
+        "cn": "我已经完成了报告的第一部分。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-063",
+    "word": "The rest is still in progress",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "其余部分还在进行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The rest is still in progress, but the first page is ready.",
+        "cn": "其余部分还在进行，不过第一页已经准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-064",
+    "word": "Could you pick up where I left off",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "你可以接着我没做完的地方继续吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you pick up where I left off tomorrow?",
+        "cn": "明天你可以接着我没做完的地方继续吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-065",
+    "word": "Let me know if anything is unclear",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "如果有不清楚的地方，请告诉我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me know if anything is unclear after you read the notes.",
+        "cn": "你看完笔记后，如有不清楚的地方请告诉我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-066",
+    "word": "Can you take it from here",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "接下来你能接手吗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you take it from here while I'm away?",
+        "cn": "我不在时，接下来你能接手吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-067",
+    "word": "I'll leave you a note",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "我会给你留个便条"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll leave you a note with the details.",
+        "cn": "我会给你留个便条，写下细节。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-068",
+    "word": "Here's what still needs doing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "这些是还没做完的事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Here's what still needs doing before Friday.",
+        "cn": "这些是周五之前还需要做的事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-069",
+    "word": "This is ready to share",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "这已经可以分享了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is ready to share with the whole team.",
+        "cn": "这已经可以分享给整个团队了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-workplace-070",
+    "word": "Thanks for taking over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "谢谢你接手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thanks for taking over while I'm away.",
+        "cn": "谢谢你在我不在时接手。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

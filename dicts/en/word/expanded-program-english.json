@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "expanded-program-001",
+    "word": "integrated master schedule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "集成主进度计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The integrated master schedule links the hardware, software, and validation dates.",
+        "cn": "集成主进度计划把硬件、软件和验证日期关联起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-002",
+    "word": "project charter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "项目章程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The project charter defines the delivery goal and key responsibilities.",
+        "cn": "项目章程明确了交付目标和主要责任。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-003",
+    "word": "work package",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工作包；可分配和验收的一组工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The display work package includes driver integration and bench testing.",
+        "cn": "显示工作包包括驱动集成和台架测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-004",
+    "word": "workstream",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工作线；并行推进的一组工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The camera workstream needs two more days to finish validation.",
+        "cn": "摄像头工作线还需要两天完成验证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-005",
+    "word": "sprint goal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "冲刺目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sprint goal is to complete the basic wake-up flow.",
+        "cn": "本轮冲刺目标是完成基本唤醒流程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-006",
+    "word": "iteration plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "迭代计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The iteration plan reserves time for fixes from the demo.",
+        "cn": "迭代计划为演示暴露的问题预留了修复时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-007",
+    "word": "rolling wave planning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "滚动式规划；逐步细化临近工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Rolling wave planning lets us detail the next phase as we learn more.",
+        "cn": "滚动式规划让我们在掌握更多信息后逐步细化下一阶段。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-008",
+    "word": "program increment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "项目群增量；跨团队协同交付周期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The next program increment includes the first vehicle integration demo.",
+        "cn": "下一个跨团队交付周期包含首次实车集成演示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-009",
+    "word": "schedule compression",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "工期压缩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schedule compression requires more bench time and parallel testing.",
+        "cn": "压缩工期需要更多台架时间和并行测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-010",
+    "word": "resource leveling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "资源平衡；按资源上限调整排期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Resource leveling moved one test run to the following week.",
+        "cn": "为平衡资源，我们把一轮测试移到了下一周。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-011",
+    "word": "dependency resolution",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "依赖问题解决"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dependency resolution starts with confirming when the new controller build will arrive.",
+        "cn": "解决依赖问题的第一步是确认新的控制器版本何时交付。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-012",
+    "word": "catch-up plan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "赶进度方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The catch-up plan adds a second test bench for the last week.",
+        "cn": "赶进度方案在最后一周增加一台测试台架。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-013",
+    "word": "requirement decomposition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "需求分解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Requirement decomposition turns the wake-up target into separate system requirements.",
+        "cn": "需求分解把唤醒目标拆成若干系统需求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-014",
+    "word": "requirement allocation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "需求分配"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Requirement allocation clarifies which component owns each behavior.",
+        "cn": "需求分配明确了每项行为由哪个组件负责。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-015",
+    "word": "functional requirement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "功能需求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The functional requirement states when the rear camera view should appear.",
+        "cn": "功能需求规定了后视摄像头画面何时应显示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-016",
+    "word": "nonfunctional requirement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "非功能需求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The startup time limit is a nonfunctional requirement.",
+        "cn": "启动时限是一条非功能需求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-017",
+    "word": "acceptance condition",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "验收条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "One acceptance condition is that the system restores the previous view.",
+        "cn": "其中一条验收条件是系统能恢复先前的视图。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-018",
+    "word": "traceability matrix",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "追溯矩阵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The traceability matrix links requirements to test cases and results.",
+        "cn": "追溯矩阵将需求与测试用例及结果关联起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-019",
+    "word": "interface change",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "接口变更"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The interface change adds a status field to the response.",
+        "cn": "接口变更在响应中增加了一个状态字段。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-020",
+    "word": "change advisory board",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更咨询委员会；评审变更的组织"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The change advisory board reviewed the proposed deployment date.",
+        "cn": "变更咨询委员会评审了拟定的部署日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-021",
+    "word": "change freeze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更冻结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A change freeze starts before the final validation run.",
+        "cn": "最终验证开始前进入变更冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-022",
+    "word": "change window",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "变更窗口；允许实施变更的时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The approved change window is Sunday from nine to eleven.",
+        "cn": "获批的变更窗口是周日九点到十一点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-023",
+    "word": "scope reduction",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "缩减交付范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Scope reduction lets the team protect the core launch date.",
+        "cn": "缩减交付范围使团队能守住核心功能的上线日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-024",
+    "word": "requirement traceability",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "需求可追溯性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Requirement traceability helps us identify the tests affected by an interface update.",
+        "cn": "需求可追溯性有助于识别接口更新会影响哪些测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-025",
+    "word": "source revision",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "源码修订版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Record the source revision used to produce the test image.",
+        "cn": "请记录生成测试镜像所用的源码修订版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-026",
+    "word": "branching strategy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "分支策略"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The branching strategy defines where fixes for older releases go.",
+        "cn": "分支策略规定了旧版本的修复应进入哪个分支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-027",
+    "word": "merge conflict",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "合并冲突"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A merge conflict delayed the final build by an hour.",
+        "cn": "一次合并冲突让最终构建推迟了一小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-028",
+    "word": "cherry-pick",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "择取单个提交；挑拣提交"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please cherry-pick the approved fix into the maintenance branch.",
+        "cn": "请把已获批准的修复提交择取到维护分支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-029",
+    "word": "code freeze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "代码冻结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The code freeze begins after the approved fixes are merged.",
+        "cn": "获准的修复合入后进入代码冻结。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-030",
+    "word": "version pinning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "固定依赖版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Version pinning keeps the same dependency version across builds.",
+        "cn": "固定依赖版本可让不同构建使用同一个依赖版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-031",
+    "word": "semantic versioning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "语义化版本管理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shared library uses semantic versioning for public API changes.",
+        "cn": "共享库采用语义化版本管理来标识公共 API 的变更。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-032",
+    "word": "dependency lockfile",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "依赖锁定文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Commit the dependency lockfile so the build can resolve the same packages.",
+        "cn": "请提交依赖锁定文件，以便构建时解析出相同的软件包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-033",
+    "word": "artifact repository",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建产物仓库"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The final package is available in the artifact repository.",
+        "cn": "最终软件包可以从构建产物仓库获取。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-034",
+    "word": "artifact checksum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建产物校验值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the artifact checksum before flashing the image.",
+        "cn": "刷写镜像前请比对构建产物校验值。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-035",
+    "word": "artifact retention",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建产物保留策略"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The artifact retention policy keeps validation builds for three months.",
+        "cn": "构建产物保留策略要求验证版本保留三个月。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-036",
+    "word": "build pipeline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "构建流水线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The build pipeline creates and tests the package on each release commit.",
+        "cn": "每次发布提交后，构建流水线都会生成并测试软件包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-037",
+    "word": "release train",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "按固定节奏运行的发布批次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fix will go into the next release train.",
+        "cn": "这项修复会进入下一批定期发布。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-038",
+    "word": "release cadence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布频率；发布节奏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release cadence changes to once a month after the pilot.",
+        "cn": "试点后，发布频率调整为每月一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-039",
+    "word": "release readiness review",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布就绪评审"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release readiness review covers evidence, open issues, and rollback readiness.",
+        "cn": "发布就绪评审检查验证证据、未关闭问题和回滚就绪情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-040",
+    "word": "release scope",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release scope includes the camera fix and two audio improvements.",
+        "cn": "发布范围包含摄像头修复和两项音频改进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-041",
+    "word": "release bundle",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布包；一组配套的发布文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release bundle contains the image, checksum, and installation notes.",
+        "cn": "发布包包含镜像、校验值和安装说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-042",
+    "word": "release branch cut",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "切出发布分支"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release branch cut is scheduled for Wednesday morning.",
+        "cn": "切出发布分支安排在周三上午。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-043",
+    "word": "production deployment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "生产环境部署"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Production deployment starts after the final approval is recorded.",
+        "cn": "记录最终批准后开始生产环境部署。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-044",
+    "word": "canary deployment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "金丝雀部署；先向少量设备部署"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The canary deployment targets ten vehicles before a broader rollout.",
+        "cn": "在扩大推送前，金丝雀部署先覆盖十辆车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-045",
+    "word": "release hold",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "暂停发布"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The team placed a release hold after the failed recovery test.",
+        "cn": "恢复测试失败后，团队暂停了发布。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-046",
+    "word": "maintenance release",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "维护版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The maintenance release includes only approved fixes.",
+        "cn": "维护版本只包含获准的修复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-047",
+    "word": "hotfix branch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "紧急修复分支"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The hotfix branch starts from the last production tag.",
+        "cn": "紧急修复分支从上一个生产版本标签切出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-048",
+    "word": "release handover",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "发布交接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The release handover includes the support contact and monitoring checklist.",
+        "cn": "发布交接包含支持联系人和监控检查清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-049",
+    "word": "risk indicator",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险指标；用于观察风险变化的信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The supplier's weekly shipment count is our main risk indicator.",
+        "cn": "供应商每周的发货数量是我们的主要风险指标。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-050",
+    "word": "risk scoring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险评分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Risk scoring helps the team rank the open risks for review.",
+        "cn": "风险评分帮助团队确定待评审风险的顺序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-051",
+    "word": "likelihood",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可能性；发生概率的估计"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We rated the likelihood of a late shipment as high.",
+        "cn": "我们评估发货延迟的可能性较高。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-052",
+    "word": "business impact",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "业务影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The business impact includes a delay to the customer demo.",
+        "cn": "业务影响包括客户演示延期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-053",
+    "word": "technical risk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "技术风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The main technical risk is compatibility with the older display controller.",
+        "cn": "主要技术风险是与旧版显示控制器的兼容性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-054",
+    "word": "supply risk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "供应风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The backup vendor reduces our supply risk for the connector.",
+        "cn": "备用供应商降低了连接器的供应风险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-055",
+    "word": "risk threshold",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险阈值"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We escalate a delay that crosses the agreed risk threshold.",
+        "cn": "延误超过约定的风险阈值时，我们会升级协调。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-056",
+    "word": "risk response",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险应对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The risk response includes reserving a second test slot.",
+        "cn": "风险应对措施包括预订第二个测试时段。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-057",
+    "word": "risk transfer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险转移；由另一方承担部分风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The contract review considered risk transfer for shipment damage.",
+        "cn": "合同评审考虑了运输损坏风险的转移。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-058",
+    "word": "mitigation owner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "缓解措施负责人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The mitigation owner will reserve the backup test bench.",
+        "cn": "缓解措施负责人将预订备用测试台架。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-059",
+    "word": "risk trend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "风险走势"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The risk trend improved after two sample batches arrived on time.",
+        "cn": "两批样件按时到货后，风险走势有所改善。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-060",
+    "word": "fallback option",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "备选方案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The fallback option is to use the previous image for the demo.",
+        "cn": "备选方案是在演示时使用上一版镜像。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-061",
+    "word": "delivery confidence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "对按计划交付的信心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Delivery confidence improved after the pilot build passed validation.",
+        "cn": "试点版本通过验证后，团队对按计划交付更有信心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-062",
+    "word": "percent complete",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "完成百分比"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please update the percent complete after the test results are reviewed.",
+        "cn": "测试结果评审后，请更新完成百分比。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-063",
+    "word": "baseline date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "基线日期；计划原定日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The baseline date for integration was the first Friday in May.",
+        "cn": "集成的原定日期是五月的第一个周五。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-064",
+    "word": "actual completion date",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "实际完成日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Enter the actual completion date when the test report is approved.",
+        "cn": "测试报告获批时，请填写实际完成日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-065",
+    "word": "variance analysis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "偏差分析"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The variance analysis explains why the integration took three extra days.",
+        "cn": "偏差分析解释了集成为什么多用了三天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-066",
+    "word": "plan of record",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "当前正式计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Update the plan of record after the steering committee approves the change.",
+        "cn": "项目指导委员会批准变更后，请更新正式计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-067",
+    "word": "outstanding dependency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "尚未落实的依赖项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The last outstanding dependency is the approved controller image.",
+        "cn": "最后一项尚未落实的依赖是已批准的控制器镜像。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-068",
+    "word": "blocker aging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "阻塞项持续时长；阻塞项账龄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We review blocker aging to find issues that need quicker decisions.",
+        "cn": "我们查看阻塞持续时长，以发现需要更快决策的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-069",
+    "word": "on-time delivery",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "按期交付"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "On-time delivery depends on the samples arriving before the test slot.",
+        "cn": "能否按期交付取决于样件能否在测试档期前到货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-070",
+    "word": "missed milestone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "未按期达成的里程碑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The missed milestone triggered a review of the remaining schedule.",
+        "cn": "里程碑未按期达成后，团队重新评审了剩余排期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-071",
+    "word": "review cadence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "评审频率；评审节奏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The review cadence increases to twice a week before launch.",
+        "cn": "上线前，评审频率提高到每周两次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-program-072",
+    "word": "weekly checkpoint",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. 短语",
+        "cn": "每周检查点；每周例行进度检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The weekly checkpoint covers dates, blockers, and decisions.",
+        "cn": "每周检查会核对日期、阻塞项和决策。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

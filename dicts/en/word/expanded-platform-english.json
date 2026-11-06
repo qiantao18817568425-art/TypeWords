@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "expanded-platform-001",
+    "word": "power management",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电源管理，控制设备何时切换功耗状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The power management service prepares the unit for shutdown.",
+        "cn": "电源管理服务为设备关机做准备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-002",
+    "word": "standby",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "待机，设备处于可恢复运行的低功耗状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure the current while the unit is in standby.",
+        "cn": "测量设备待机期间的电流。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-003",
+    "word": "shutdown",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "关机，结束设备运行并关闭相关功能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait for shutdown to finish before the next run.",
+        "cn": "等关机完成再开始下一轮测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-004",
+    "word": "hibernation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "休眠到磁盘，将运行状态保存到非易失存储后进入低功耗状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The system restores the saved state after hibernation.",
+        "cn": "系统在从休眠恢复时还原已保存的状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-005",
+    "word": "suspend blocker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "休眠阻止项，使系统暂时不能挂起的条件或机制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check which suspend blocker is still active.",
+        "cn": "检查哪个休眠阻止项仍然生效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-006",
+    "word": "wakeup interrupt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "能让系统退出低功耗状态的中断"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trace shows a wakeup interrupt before the screen lights up.",
+        "cn": "跟踪记录显示屏幕点亮前收到了一次唤醒中断。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-007",
+    "word": "wakeup latency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "唤醒时延，从指定唤醒事件到功能就绪的时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure wakeup latency from the input to the first usable screen.",
+        "cn": "测量从输入到首个可用界面的唤醒时延。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-008",
+    "word": "power consumption",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "功耗，设备在指定状态下消耗的功率"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare power consumption with the display on and off.",
+        "cn": "比较屏幕开启与关闭时的功耗。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-009",
+    "word": "quiescent current",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "静态电流，设备在规定静止条件下消耗的电流"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let the device settle before measuring quiescent current.",
+        "cn": "等设备状态稳定后再测量静态电流。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-010",
+    "word": "brownout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "供电欠压，电源电压降到正常工作所需水平以下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A brief brownout interrupted the startup test.",
+        "cn": "一次短时供电欠压中断了启动测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-011",
+    "word": "voltage drop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电压下降或压降"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The meter shows a voltage drop when the load increases.",
+        "cn": "负载增加时，仪表显示电压下降。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-012",
+    "word": "reset pin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "复位引脚，用于输入或输出复位信号的硬件引脚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the reset pin and the supply voltage together.",
+        "cn": "同时检查复位引脚和供电电压。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-013",
+    "word": "Garage Mode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "AAOS 车库模式，停车关屏后允许运行符合条件的后台任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The scheduled job runs during Garage Mode.",
+        "cn": "计划任务在车库模式期间运行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-014",
+    "word": "application lifecycle",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "应用生命周期，从创建、运行到退出的各个阶段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The application lifecycle log shows when the screen moved to the background.",
+        "cn": "应用生命周期日志显示界面何时切到后台。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-015",
+    "word": "service startup",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务启动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare service startup timing across the two runs.",
+        "cn": "对照两轮测试的服务启动时机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-016",
+    "word": "service manager",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务管理器，管理服务注册、查询或运行的组件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The service manager lists the newly registered service.",
+        "cn": "服务管理器列出了新注册的服务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-017",
+    "word": "service readiness",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务就绪状态，表示服务是否可以处理正常请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check service readiness before sending the command.",
+        "cn": "发送命令前确认服务是否就绪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-018",
+    "word": "initialization",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "初始化，建立功能运行所需的初始状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Initialization failed before the first request arrived.",
+        "cn": "第一个请求还没到达，初始化就失败了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-019",
+    "word": "provisioning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "开通配置，为设备、账户或服务准备所需配置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The unit completed provisioning before the first test.",
+        "cn": "设备在首次测试前完成了开通配置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-020",
+    "word": "foreground",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "前台，当前可见或正在被用户操作的运行环境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bring the app to the foreground and repeat the test.",
+        "cn": "将应用切到前台并重复测试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-021",
+    "word": "background task",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "后台任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A background task continues after the main screen closes.",
+        "cn": "主界面关闭后，一个后台任务仍在运行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-022",
+    "word": "guest isolation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "客户机隔离，限制虚拟机之间相互访问或影响的机制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check guest isolation by monitoring both virtual machines during the test.",
+        "cn": "测试时同时观察两台虚拟机，以检查客户机隔离情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-023",
+    "word": "memory ballooning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "内存气球机制，通过客户机配合调整虚拟机占用的物理内存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The report shows when memory ballooning reclaimed memory from the guest.",
+        "cn": "报告显示内存气球机制何时从客户机回收了内存。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-024",
+    "word": "virtual device",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "虚拟设备，以软件实现或提供给虚拟机的设备接口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The guest detects a virtual device during startup.",
+        "cn": "客户机在启动时检测到一个虚拟设备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-025",
+    "word": "device assignment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设备分配，指定设备由哪个系统或虚拟机使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the device assignment before changing the guest configuration.",
+        "cn": "更改客户机配置前，先确认设备的分配关系。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-026",
+    "word": "resource contention",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "资源争用，多个任务同时竞争有限的资源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Resource contention increased while both services were busy.",
+        "cn": "两个服务都处于忙碌状态时，资源争用加剧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-027",
+    "word": "SurfaceFlinger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "Android 的显示合成服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "SurfaceFlinger receives buffers from the visible layers.",
+        "cn": "SurfaceFlinger 接收可见图层的缓冲区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-028",
+    "word": "Hardware Composer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "硬件合成器，Android 中协调显示硬件参与合成的接口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Hardware Composer selects how to combine the layers.",
+        "cn": "硬件合成器决定如何合成图层。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-029",
+    "word": "window manager",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "窗口管理器，管理窗口位置、可见性和焦点等状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The window manager gives focus to the new window.",
+        "cn": "窗口管理器将焦点交给新窗口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-030",
+    "word": "display plane",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "显示平面，显示硬件中可读取并参与合成的一路图像"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The driver assigns a display plane to the video layer.",
+        "cn": "驱动为视频图层分配了一个显示平面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-031",
+    "word": "framebuffer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "帧缓冲区，存放待显示图像像素数据的内存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check which framebuffer the display controller reads.",
+        "cn": "检查显示控制器正在读取哪个帧缓冲区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-032",
+    "word": "buffer queue",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "缓冲队列，供数据生产方和消费方交换缓冲区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The buffer queue grows while the consumer is blocked.",
+        "cn": "消费方阻塞期间，缓冲队列积压增多。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-033",
+    "word": "present fence",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "呈现栅栏，用来跟踪一帧何时被呈现的同步对象"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check when the present fence signals for the delayed frame.",
+        "cn": "检查延迟帧的呈现栅栏在何时发出信号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-034",
+    "word": "refresh rate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "刷新率，显示器每秒刷新画面的次数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the refresh rate after the display switches modes.",
+        "cn": "屏幕切换模式后检查刷新率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-035",
+    "word": "input dispatcher",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "输入分发器，将按键和触摸等输入事件分派给目标窗口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The input dispatcher sends the touch event to the active window.",
+        "cn": "输入分发器将触摸事件发给活动窗口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-036",
+    "word": "multi-touch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "多点触摸，可同时检测多个触点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Test multi-touch with two fingers.",
+        "cn": "用两根手指测试多点触摸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-037",
+    "word": "touch latency",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "触摸时延，从触摸输入到指定响应的耗时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Measure touch latency with a high-speed camera.",
+        "cn": "用高速摄像机测量触摸时延。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-038",
+    "word": "touch calibration",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "触摸校准，使实际触点与界面坐标对应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Repeat touch calibration after replacing the panel.",
+        "cn": "更换屏幕后重新进行触摸校准。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-039",
+    "word": "gesture conflict",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手势冲突，多个手势处理方竞争或同时识别同一操作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A gesture conflict occurs near the edge of the screen.",
+        "cn": "屏幕边缘附近发生了手势冲突。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-040",
+    "word": "audio stream",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音频流，连续传输的音频数据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The audio stream continues after the screen turns off.",
+        "cn": "屏幕关闭后，音频流仍在传输。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-041",
+    "word": "audio zone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音区，可独立配置或控制音频输出的区域"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check which audio zone receives the prompt.",
+        "cn": "确认提示音输出到了哪个音区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-042",
+    "word": "volume control",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音量控制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify volume control during playback.",
+        "cn": "播放期间验证音量控制。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-043",
+    "word": "audio ducking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音频压低，临时降低一路声音以突出另一路声音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Audio ducking lowers the music while the prompt plays.",
+        "cn": "提示音播放时，音频压低机制降低了音乐音量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-044",
+    "word": "mute state",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "静音状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the mute state before changing the audio route.",
+        "cn": "更改音频路由前先检查静音状态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-045",
+    "word": "microphone array",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "麦克风阵列，由多个麦克风组成的拾音装置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The microphone array captures sound from several positions.",
+        "cn": "麦克风阵列从多个位置采集声音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-046",
+    "word": "speaker output",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "扬声器输出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the speaker output on both sides of the cabin.",
+        "cn": "检查座舱两侧的扬声器输出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-047",
+    "word": "playback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "回放或播放"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Playback resumes after the notification ends.",
+        "cn": "提示音结束后，播放继续。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-048",
+    "word": "capture path",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "采集路径，从传感器到记录或处理模块的路径"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the capture path receives samples from the microphone.",
+        "cn": "检查采集路径是否收到麦克风采样。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-049",
+    "word": "echo reference",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "回声参考，供回声消除算法使用的播放信号参考"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare the echo reference timing with the microphone signal.",
+        "cn": "对照回声参考和麦克风信号的时序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-050",
+    "word": "digital signal processor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数字信号处理器，简称 DSP"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The digital signal processor applies the audio filter.",
+        "cn": "数字信号处理器应用了音频滤波器。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-051",
+    "word": "buffer underrun",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "缓冲区欠载，消费数据过快或补充过慢而使缓冲区读空"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A buffer underrun occurred before the brief silence.",
+        "cn": "短暂无声前发生了一次缓冲区欠载。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-052",
+    "word": "sample rate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "采样率，每秒取得的采样数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the sample rate at both ends of the audio path.",
+        "cn": "检查音频链路两端的采样率。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-053",
+    "word": "Camera HAL",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摄像头硬件抽象层，连接 Android 摄像头框架和硬件实现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Camera HAL reports an error when the stream starts.",
+        "cn": "视频流启动时，摄像头硬件抽象层报告了错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-054",
+    "word": "image sensor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "图像传感器，把光转换为可处理的图像信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check whether the image sensor produces frames.",
+        "cn": "检查图像传感器是否输出帧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-055",
+    "word": "frame synchronization",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "帧同步，使多路视频帧按指定时机对应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verify frame synchronization before testing the stitched view.",
+        "cn": "测试拼接画面前先验证帧同步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-056",
+    "word": "camera calibration",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摄像头标定，估计成像参数或相对位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Repeat camera calibration after moving the camera.",
+        "cn": "移动摄像头后重新进行标定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-057",
+    "word": "exposure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "曝光，图像传感器获取光线的过程或程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The camera adjusts exposure when the scene becomes brighter.",
+        "cn": "场景变亮时，摄像头会调整曝光。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-058",
+    "word": "white balance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "白平衡，校正照明颜色对图像色彩的影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Compare white balance across the camera views.",
+        "cn": "比较各路摄像头画面的白平衡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-059",
+    "word": "lens distortion",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "镜头畸变，镜头造成的图像几何变形"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The correction reduces lens distortion near the edges.",
+        "cn": "校正减轻了图像边缘附近的镜头畸变。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-060",
+    "word": "camera preview",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摄像头预览，实时显示拍摄画面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The camera preview should update when the target moves.",
+        "cn": "目标移动时，摄像头预览应随之更新。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-061",
+    "word": "field of view",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "视场，摄像头可观察到的范围"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Confirm that the target is inside the field of view.",
+        "cn": "确认目标在摄像头视场内。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-062",
+    "word": "video pipeline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "视频链路，视频数据经过的采集、处理和输出环节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Track the frame through the video pipeline.",
+        "cn": "沿视频链路追踪这一帧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-063",
+    "word": "capture session",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "采集会话，一组持续执行的摄像头采集配置和请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The app opens a capture session after the camera reconnects.",
+        "cn": "摄像头重新连接后，应用开启采集会话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-064",
+    "word": "camera link",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "摄像头链路，连接摄像头和接收端的数据通道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Check the camera link while the preview is active.",
+        "cn": "预览运行时检查摄像头链路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-platform-065",
+    "word": "video decoder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "视频解码器，将压缩视频还原成图像帧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The video decoder reports an error on the first frame.",
+        "cn": "视频解码器处理第一帧时报告了错误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

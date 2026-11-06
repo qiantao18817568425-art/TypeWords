@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "expanded-patterns-001",
+    "word": "want to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "想做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to learn English.",
+        "cn": "我想学英语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-002",
+    "word": "need to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "需要做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to leave soon.",
+        "cn": "我们很快就得出发了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-003",
+    "word": "have to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "不得不、必须做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have to work on Saturday.",
+        "cn": "我周六得上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-004",
+    "word": "don't have to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "不必做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You don't have to answer now.",
+        "cn": "你不必现在回答。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-005",
+    "word": "be able to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "能够做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Will you be able to come tomorrow?",
+        "cn": "你明天能来吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-006",
+    "word": "would rather",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "宁愿……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I would rather walk than wait for the bus.",
+        "cn": "我宁愿走路，也不想等公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-007",
+    "word": "I'm going to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我打算做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm going to call her tonight.",
+        "cn": "我打算今晚给她打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-008",
+    "word": "plan to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "计划做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We plan to visit next month.",
+        "cn": "我们计划下个月去拜访。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-009",
+    "word": "hope to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "希望做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hope to finish this by Friday.",
+        "cn": "我希望周五之前做完这件事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-010",
+    "word": "should",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "modal",
+        "cn": "应该、建议做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You should bring a jacket.",
+        "cn": "你最好带件夹克。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-011",
+    "word": "always",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "总是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I always check the time before I leave.",
+        "cn": "我出门前总会看一眼时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-012",
+    "word": "usually",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "通常"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We usually eat dinner at seven.",
+        "cn": "我们通常七点吃晚饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-013",
+    "word": "often",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "经常"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I often walk to work.",
+        "cn": "我经常走路上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-014",
+    "word": "sometimes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "有时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I sometimes work from home.",
+        "cn": "我有时在家办公。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-015",
+    "word": "rarely",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "很少"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She rarely drinks coffee at night.",
+        "cn": "她晚上很少喝咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-016",
+    "word": "never",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "从不"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I never skip breakfast.",
+        "cn": "我每天都吃早饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-017",
+    "word": "every day",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "每天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I read English for ten minutes every day.",
+        "cn": "我每天读十分钟英语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-018",
+    "word": "once a week",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "每周一次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We meet once a week.",
+        "cn": "我们每周见一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-019",
+    "word": "from time to time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "偶尔、有时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I see him from time to time.",
+        "cn": "我偶尔会见到他。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-020",
+    "word": "used to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "过去常常做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I used to live near the station.",
+        "cn": "我以前住在车站附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-021",
+    "word": "a few",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "几个、少量（修饰可数名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a few questions.",
+        "cn": "我有几个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-022",
+    "word": "a little",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "一点儿（修饰不可数名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Add a little milk, please.",
+        "cn": "请加一点牛奶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-023",
+    "word": "enough",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "足够的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do we have enough time?",
+        "cn": "我们的时间够吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-024",
+    "word": "too much",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "过多（修饰不可数名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This soup has too much salt.",
+        "cn": "这汤的盐放太多了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-025",
+    "word": "too many",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "过多（修饰可数名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There are too many people here.",
+        "cn": "这里人太多了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-026",
+    "word": "at least",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "至少"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please give me at least ten minutes.",
+        "cn": "请至少给我十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-027",
+    "word": "no more than",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "最多、不超过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The walk takes no more than ten minutes.",
+        "cn": "走过去最多十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-028",
+    "word": "better than",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "比……好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This route is better than the old one.",
+        "cn": "这条路线比原来的更好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-029",
+    "word": "more than",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "超过、多于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We waited more than an hour.",
+        "cn": "我们等了一个多小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-030",
+    "word": "as much as",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "和……一样多"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can take as much as you need.",
+        "cn": "你需要多少就拿多少。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-031",
+    "word": "before",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "在……之前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please call me before you leave.",
+        "cn": "走之前请给我打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-032",
+    "word": "after",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "在……之后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll call you after I get home.",
+        "cn": "我到家后给你打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-033",
+    "word": "while",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "在……期间、当……时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I listened to music while I cooked.",
+        "cn": "我一边做饭一边听音乐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-034",
+    "word": "until",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "直到……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please wait until the light turns green.",
+        "cn": "请等到绿灯亮起。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-035",
+    "word": "since",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "从……起、自从……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've lived here since May.",
+        "cn": "我从五月起就住在这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-036",
+    "word": "because of",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "由于、因为（后接名词等）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We stayed inside because of the rain.",
+        "cn": "因为下雨，我们待在室内。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-037",
+    "word": "that's why",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "这就是……的原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I missed the bus. That's why I'm late.",
+        "cn": "我没赶上公交车，所以迟到了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-038",
+    "word": "first of all",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "首先"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "First of all, check the address.",
+        "cn": "首先，核对一下地址。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-039",
+    "word": "after that",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在那之后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We'll eat first. After that, we can go for a walk.",
+        "cn": "我们先吃饭，之后可以去散步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-040",
+    "word": "finally",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "最后、终于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Finally, add the milk and stir.",
+        "cn": "最后，加入牛奶并搅拌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-041",
+    "word": "make a mistake",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "犯错"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's okay to make a mistake when you're learning.",
+        "cn": "学习时犯错没关系。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-042",
+    "word": "make a choice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "作出选择"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need to make a choice today.",
+        "cn": "我们今天需要作出选择。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-043",
+    "word": "take a seat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "坐下、请坐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please take a seat by the window.",
+        "cn": "请坐在窗边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-044",
+    "word": "take a walk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "散步"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's take a walk after dinner.",
+        "cn": "我们晚饭后去散步吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-045",
+    "word": "have a look",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "看一下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I have a look at the menu?",
+        "cn": "我能看一下菜单吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-046",
+    "word": "do my best",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "尽我所能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll do my best to finish on time.",
+        "cn": "我会尽力按时完成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-047",
+    "word": "pay attention to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "留意、注意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pay attention to the signs at the station.",
+        "cn": "留意车站里的指示牌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-048",
+    "word": "spend time with",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "花时间和……在一起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to spend time with my family.",
+        "cn": "我想花些时间陪家人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-049",
+    "word": "keep in touch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "保持联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's keep in touch after the course.",
+        "cn": "课程结束后我们保持联系吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-050",
+    "word": "get better at",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "变得更擅长……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I want to get better at speaking English.",
+        "cn": "我想提高英语口语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-051",
+    "word": "be interested in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "对……感兴趣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You might be interested in this book.",
+        "cn": "你可能会对这本书感兴趣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-052",
+    "word": "I'm looking forward to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我期待……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm looking forward to seeing you.",
+        "cn": "我很期待见到你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-053",
+    "word": "I feel like",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我想要、我想做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel like taking a walk.",
+        "cn": "我想去散个步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-054",
+    "word": "have trouble",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "做……有困难"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have trouble hearing you on this call.",
+        "cn": "这通电话里我听不清你说话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-055",
+    "word": "get used to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "习惯于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It takes time to get used to a new job.",
+        "cn": "适应新工作需要时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-056",
+    "word": "it depends on",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "这取决于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It depends on the weather.",
+        "cn": "这取决于天气。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-057",
+    "word": "it takes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "需要、花费（时间）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It takes about twenty minutes by bus.",
+        "cn": "坐公交车大约要二十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-058",
+    "word": "I find it hard to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "我觉得做……很难"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I find it hard to speak when I'm nervous.",
+        "cn": "我紧张时会觉得很难开口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-059",
+    "word": "have a chance to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "有机会做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you have a chance to try it?",
+        "cn": "你有机会试过吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-060",
+    "word": "be worth",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "值得……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This might be worth a try.",
+        "cn": "这也许值得一试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-061",
+    "word": "if you want to",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "句型",
+        "cn": "如果你愿意做……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can stay if you want to.",
+        "cn": "你愿意的话可以留下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-062",
+    "word": "if possible",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "如果可以的话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "If possible, let's meet in the morning.",
+        "cn": "可以的话，我们上午见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-063",
+    "word": "unless",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "conj.",
+        "cn": "除非、如果不……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We'll walk unless it rains.",
+        "cn": "如果不下雨，我们就走路去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-064",
+    "word": "even if",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "即使、哪怕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll go even if it rains.",
+        "cn": "即使下雨，我也会去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-065",
+    "word": "in case",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "以防、万一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Take an umbrella in case it rains.",
+        "cn": "带把伞，以防下雨。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-066",
+    "word": "for example",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "例如"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can try a simple dish, for example, tomato soup.",
+        "cn": "你可以试一道简单的菜，比如番茄汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-067",
+    "word": "such as",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "例如、比如（后接例子）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like fruit such as apples and pears.",
+        "cn": "我喜欢苹果、梨之类的水果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-068",
+    "word": "instead of",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "代替……、而不……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll take the bus instead of driving.",
+        "cn": "我会坐公交车去，不开车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-069",
+    "word": "as well",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "也、同样（常置于句末）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My sister is coming as well.",
+        "cn": "我姐姐也会来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-patterns-070",
+    "word": "not only",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "不但……（常与 but also 连用）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She not only reads English but also writes it.",
+        "cn": "她不但读英文，还用英文写作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "expanded-scenarios-001",
+    "word": "post office",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "邮局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where's the nearest post office?",
+        "cn": "最近的邮局在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-002",
+    "word": "library card",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "借书证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get a library card here?",
+        "cn": "我可以在这里办借书证吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-003",
+    "word": "borrow a book",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "借一本书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to borrow a book.",
+        "cn": "我想借一本书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-004",
+    "word": "return a book",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "还一本书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm here to return a book.",
+        "cn": "我是来还书的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-005",
+    "word": "fill in a form",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "填写表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need to fill in a form?",
+        "cn": "我需要填表吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-006",
+    "word": "proof of address",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "地址证明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you need proof of address?",
+        "cn": "你们需要地址证明吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-007",
+    "word": "opening hours",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. pl.",
+        "cn": "开放时间、营业时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are your opening hours?",
+        "cn": "你们什么时候营业？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-008",
+    "word": "service desk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "服务台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please ask at the service desk.",
+        "cn": "请到服务台咨询。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-009",
+    "word": "take a number",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "取号排队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need to take a number?",
+        "cn": "我需要取号吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-010",
+    "word": "registered mail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "挂号邮件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to send this by registered mail.",
+        "cn": "我想把这个用挂号邮件寄出去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-011",
+    "word": "rent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房租"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Does the rent include water?",
+        "cn": "房租包含水费吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-012",
+    "word": "landlord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "房东"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll ask the landlord about the heating.",
+        "cn": "我会向房东问问供暖的事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-013",
+    "word": "tenant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "租客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new tenant moves in on Monday.",
+        "cn": "新租客周一搬进来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-014",
+    "word": "move in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "搬进来、入住"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When can I move in?",
+        "cn": "我什么时候能入住？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-015",
+    "word": "move out",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "搬出去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We plan to move out next month.",
+        "cn": "我们打算下个月搬出去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-016",
+    "word": "lease",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "租约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When does the lease end?",
+        "cn": "租约什么时候到期？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-017",
+    "word": "security deposit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is the security deposit?",
+        "cn": "押金是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-018",
+    "word": "utility bill",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水电燃气等公共费用账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I paid the utility bill yesterday.",
+        "cn": "我昨天交了水电燃气等费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-019",
+    "word": "water leak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "漏水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a water leak under the sink.",
+        "cn": "水槽下面在漏水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-020",
+    "word": "spare key",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "备用钥匙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a spare key for this door?",
+        "cn": "这扇门有备用钥匙吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-021",
+    "word": "bank account",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "银行账户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need a bank account for my salary.",
+        "cn": "我需要一个银行账户来收工资。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-022",
+    "word": "open an account",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "开立账户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to open an account.",
+        "cn": "我想开个账户。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-023",
+    "word": "debit card",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "借记卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use a debit card here?",
+        "cn": "我可以在这里用借记卡吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-024",
+    "word": "cash machine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自动取款机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there a cash machine nearby?",
+        "cn": "附近有自动取款机吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-025",
+    "word": "withdraw cash",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "取现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I withdraw cash here?",
+        "cn": "我可以在这里取现金吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-026",
+    "word": "deposit cash",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "存现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I deposit cash?",
+        "cn": "我在哪里能存现金？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-027",
+    "word": "bank transfer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "银行转账"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I pay by bank transfer?",
+        "cn": "我可以通过银行转账付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-028",
+    "word": "account balance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "账户余额"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I check my account balance?",
+        "cn": "我在哪里可以查账户余额？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-029",
+    "word": "monthly statement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "月度账单、月度对账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I get a copy of my monthly statement?",
+        "cn": "可以给我一份月度对账单吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-030",
+    "word": "card declined",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "银行卡交易被拒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The card reader showed 'Card declined.'",
+        "cn": "刷卡机显示交易被拒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-031",
+    "word": "book a visit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "预约到访"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I book a visit for Friday?",
+        "cn": "我可以预约周五到访吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-032",
+    "word": "available appointment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可预约的时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there an available appointment tomorrow?",
+        "cn": "明天还有可预约的时段吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-033",
+    "word": "walk-in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "未预约到场的顾客或访客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I come as a walk-in?",
+        "cn": "我能直接来，不提前预约吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-034",
+    "word": "check in at reception",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "在前台签到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please check in at reception when you arrive.",
+        "cn": "到了以后请在前台签到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-035",
+    "word": "wait time",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "等候时长"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's the current wait time?",
+        "cn": "现在要等多久？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-036",
+    "word": "cancel an appointment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "取消预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to cancel an appointment for tomorrow.",
+        "cn": "我需要取消明天的一个预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-037",
+    "word": "appointment confirmation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "预约确认信息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I haven't received my appointment confirmation yet.",
+        "cn": "我还没收到预约确认信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-038",
+    "word": "arrive early",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "提早到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do I need to arrive early?",
+        "cn": "我需要提前到吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-039",
+    "word": "first available",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "最早可安排的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I take the first available appointment?",
+        "cn": "可以帮我安排最早的预约时段吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-040",
+    "word": "running behind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "进度晚于预定时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The clinic is running behind this morning.",
+        "cn": "今天上午诊所看诊有些延误。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-041",
+    "word": "flight delay",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "航班延误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We received a message about a flight delay.",
+        "cn": "我们收到了航班延误的消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-042",
+    "word": "cancelled flight",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "取消的航班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I get help with a cancelled flight?",
+        "cn": "航班被取消了，我可以去哪儿寻求帮助？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-043",
+    "word": "missed connection",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "没赶上的转乘班次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The airline helped us after a missed connection.",
+        "cn": "我们没赶上转机，航空公司帮了我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-044",
+    "word": "boarding pass",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "登机牌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you show me your boarding pass?",
+        "cn": "可以出示一下您的登机牌吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-045",
+    "word": "departure gate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "登机口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Has the departure gate changed?",
+        "cn": "登机口变了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-046",
+    "word": "baggage claim",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "行李提取处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is baggage claim?",
+        "cn": "在哪里取托运行李？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-047",
+    "word": "carry-on bag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "随身登机行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I take this carry-on bag on board?",
+        "cn": "这件随身行李可以带上飞机吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-048",
+    "word": "rebook a flight",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "重新预订航班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to rebook a flight after the cancellation.",
+        "cn": "航班取消后，我需要重新订票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-049",
+    "word": "replacement bus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "替代接驳巴士"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where does the replacement bus leave from?",
+        "cn": "替代接驳巴士从哪里出发？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-050",
+    "word": "travel insurance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "旅行保险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where can I find my travel insurance documents?",
+        "cn": "我在哪里能找到旅行保险的文件？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-051",
+    "word": "book a checkup",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "预约体检"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to book a checkup.",
+        "cn": "我想预约一次体检。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-052",
+    "word": "take my temperature",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "量我的体温"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you take my temperature?",
+        "cn": "可以帮我量一下体温吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-053",
+    "word": "medical history",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "病史"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The doctor asked about my medical history.",
+        "cn": "医生问了我的病史。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-054",
+    "word": "current medication",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "目前在用的药物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I brought a list of my current medication.",
+        "cn": "我带了目前在用的药物清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-055",
+    "word": "prescription",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I need to collect a prescription.",
+        "cn": "我需要取一张处方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-056",
+    "word": "repeat prescription",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "续开的处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I request a repeat prescription?",
+        "cn": "我该怎样申请续开处方？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-057",
+    "word": "side effects",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n. pl.",
+        "cn": "副作用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like to ask about possible side effects.",
+        "cn": "我想问问可能有哪些副作用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-058",
+    "word": "follow-up visit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "复诊、后续就诊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When is my follow-up visit?",
+        "cn": "我什么时候复诊？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-059",
+    "word": "urgent care",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "急症诊所（美式用语）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is there an urgent care clinic near here?",
+        "cn": "这附近有急症诊所吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-060",
+    "word": "emergency room",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "医院急诊科"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is the emergency room?",
+        "cn": "医院急诊科在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-061",
+    "word": "out of stock",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "缺货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That color is out of stock.",
+        "cn": "那个颜色缺货了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-062",
+    "word": "store credit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "可用于该店消费的退款额度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I get store credit for this return?",
+        "cn": "这件商品退回后，可以给我店内消费额度吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-063",
+    "word": "return policy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "退货政策"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What's your return policy?",
+        "cn": "你们的退货政策是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-064",
+    "word": "damaged item",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "受损的商品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How do I return a damaged item?",
+        "cn": "收到受损的商品，我该怎么退？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-065",
+    "word": "wrong size",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "不合适的尺码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I ordered the wrong size.",
+        "cn": "我订错尺码了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-066",
+    "word": "keep the receipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "保留收据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Please keep the receipt in case you need to return it.",
+        "cn": "请保留收据，以备需要退货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-067",
+    "word": "gift receipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "礼品收据，通常不显示价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I get a gift receipt for this?",
+        "cn": "这件可以给我一张礼品收据吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-068",
+    "word": "contactless payment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "非接触式支付"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you take contactless payment?",
+        "cn": "你们支持非接触式支付吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-069",
+    "word": "cash only",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "短语",
+        "cn": "只收现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This shop is cash only.",
+        "cn": "这家店只收现金。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "expanded-scenarios-070",
+    "word": "delivery address",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收货地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I change the delivery address?",
+        "cn": "我可以更改收货地址吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,22 @@
+TypeWords 词表来源与授权 / Vocabulary data attribution
+
+通用高频词 1–7
+New General Service List (NGSL) 1.2, Charles Browne, Brent Culligan and Joseph Phillips.
+https://www.newgeneralservicelist.com/new-general-service-list
+Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+取官方词频和补充词，分册、去重，并配入中文释义、音标和词形。改编词库数据按 CC BY-SA 4.0 发布。
+
+商务阅读词汇 1–3
+Business Service List (BSL) 1.2, Charles Browne and Brent Culligan.
+https://www.newgeneralservicelist.com/business-service-list
+Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+按词频取可匹配释义的 750 条，去除课程内重复词头，分为三册。改编词库数据按 CC BY-SA 4.0 发布。
+
+释义、音标、词形数据来自 ECDICT，在 MIT 许可下提取、格式化并组合。
+https://github.com/skywind3000/ECDICT/tree/39cfb9672c0906b63569e0453c2e6abfb9ab182a
+原许可见同目录 ECDICT-LICENSE.txt。高频语法词的部分中文释义为本课程改写。
+
+其他场景词库由本课程编写，双语例句使用虚构或通用场景。
+TypeWords 应用代码保留上游 GPLv3 授权。上游项目：https://github.com/zyronon/TypeWords
